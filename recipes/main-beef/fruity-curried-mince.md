@@ -4,6 +4,7 @@ source: NZ Microwave Cookbook, page 24
 cookTime: '18'
 preparationTime: '30'
 ---
+
 2 large onions
 2 t curry powder
 2 T butter
@@ -19,7 +20,9 @@ pepper to taste
 2 t liquid gravy browning
 1/2 c sultanas
 1 T brown sugar
+
 ---
+
 1.  Dice onions.  Combine with curry powder and butter in a medium-sized dish.  Micro-cook, uncovered, high power, 5 minutes.
 
 2.  Peel, core and dice apple.  Add to casserole with the mince and garlic.  Micro-cook, uncovered, high power, 3 minutes.  Break up mince once during cooking.

@@ -3,6 +3,7 @@ name: Bread and butter pudding
 source: the most powerful and gracious Joshua Stevens
 comments: Hadley smells
 ---
+
 50g butter, softened 
 large baguette
 60g sultanas or dried cranberries, or a mixture of both 
@@ -14,7 +15,9 @@ large baguette
 300ml milk 
 4 tbsp Baileys 
 demerara sugar
+
 ---
+
 Heat oven to 180C.
 
 Grease large shallow ovenproof dish with butter.  Butter sliced bread.  Arrange bread in dish with dried fruit sprinkled between layers.  Spread apricot jam on lower layer.

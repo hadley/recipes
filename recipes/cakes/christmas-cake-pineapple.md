@@ -4,6 +4,7 @@ source: Newspaper
 cookTime: '210'
 preparationTime: '60'
 ---
+
 1 - 1.5 kg dried fruit
 450g can pineapple, crushed
 3 c flour
@@ -14,7 +15,9 @@ preparationTime: '60'
 1/2 t vanilla, almond, lemon essence
 6 eggs, large
 up to 1 c extra flour
+
 ---
+
 A day before mixing cake, warm fruit cake mix until it feels hot, then put it in a large unperforated oven bag or plastic bag with the undrained pineapple.  Turn fruit occasionally, in a warm place, until juice is absorbed.
 
 Mix the spices with three c of flour and put aside.  Cream butter, sugar and essences until light and smooth,  Beat in eggs, one at a time adding about 2 of the flour mix with each egg.

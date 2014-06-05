@@ -1,6 +1,7 @@
 ---
 name: FRENCH STEAK
 ---
+
 1 T flour
 1 T Worcestershire sauce
 1/2 t mustard
@@ -11,6 +12,8 @@ pinch baking soda
 2 chopped tomatoes
 1 chopped onion
 2 lb steak cubes
+
 ---
+
 Mix wet ingredients and pour into dry.  Mix well and pour over steak in casserole dish.  Cook for 2 1/2 hours at 180C.
 

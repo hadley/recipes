@@ -34,9 +34,9 @@ save_recipe <- function(recipe) {
   out <- paste0(
     "---\n",
     meta_yaml,
-    "---\n",
-    trim(recipe$ingredients), "\n",
-    "---\n",
+    "---\n\n",
+    trim(recipe$ingredients), "\n\n",
+    "---\n\n",
     trim(recipe$method), "\n"
   )
 

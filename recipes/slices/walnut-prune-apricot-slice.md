@@ -2,6 +2,7 @@
 name: Walnut Prune & Apricot Slice
 comments: Easy and great to look at - even better to eat.
 ---
+
 1/2 cup sugar
 1 cup plain flour
 1 cup dessicated coconut
@@ -11,7 +12,9 @@ comments: Easy and great to look at - even better to eat.
 1 cup dried apricots chopped in quarters
 1 cup walnut halves
 395g can sweetened condensed milk
+
 ---
+
 Preheat oven to 180 degrees C.  Line sponge roll tin with baking paper.
 
 Combine first five ingredients and press into pan.

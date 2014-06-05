@@ -1,6 +1,7 @@
 ---
 name: PADDY'S PASTIE
 ---
+
 1 packet of flaky pastry
  Or short pastry made with :-
 2 c flour
@@ -16,7 +17,9 @@ water to mix
 1/4 c water
 1/4 c chopped parsley
 1 T Worcestershire sauce
+
 ---
+
 Pastry:
 Cut butter into flour until it looks like rolled oats, then add the grated cheese.  Add cold water, a few drops at a time, until the dough particle can be pressed together to form a ball.  Chill for 5 minutes or more then roll out thinly in two circles, one 25 cm in diameter, the other 22cm.
 

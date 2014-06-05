@@ -3,6 +3,7 @@ name: Fast & Easy Fruity Pudding
 comments: "Very good if you like the flavour of traditional Christmas pudding, but
   not the heavy fruity texture. \n\nCan be made and consumed within half an hour!"
 ---
+
 1 c large dark raisins or mixed fruit
 1/4 c total nuts, peel and cherries if desired
 1/2 c brown sugar
@@ -16,7 +17,9 @@ a few drops each of lemon, almond and vanilla esssence
 1 t baking soda
 1 t cinnamon
 1 t mixed spice
+
 ---
+
 Rinse fruit well under the hot tap in a seive to remove any grit.
 
 Prepare an average size microwaveable pudding bowl by greasing well.

@@ -5,6 +5,7 @@ comments: "USA - Use a heaped teaspoon baking powder.    \n\n\nVariation by AW\n
   8oz flour with 1 oz cocoa, 3 oz rolled oats and 4oz flour \nAdd chopped pecans or
   walnuts too if you like."
 ---
+
 125g (4oz) butter
 175g (6oz) sugar
 1 teaspoon vanilla essence
@@ -20,7 +21,9 @@ Variations
 - Peanut Brownies Use 7oz flour and 1 oz cocoa instead of all flour and add 1 cup of peanuts. 
 
 - Almond.  Leave out fruit and use almond essence instead of vanilla.  Press an almond on top of each ball of mix.
+
 ---
+
 Cream butter, sugar and essence, add egg, then mix in dry ingredients.  Roll into balls and press with fork.  Bake 15 - 20 minutes at 190C until golden brown.  Cool on a rack.  Keep in airtight container to preserve crispness.  
 
 Makes about 32

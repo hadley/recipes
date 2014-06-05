@@ -3,13 +3,16 @@ name: Afghans
 source: Edmonds Cookbook, NZ.
 comments: A delicious special treat.
 ---
+
 7oz (200g) butter
 3oz (75g) sugar
 6oz (175g) flour
 1oz (25g) cocoa
 2oz (50g) cornflakes
 1 t vanilla essence
+
 ---
+
 Cream butter and sugar.  Sift in flour, and cocoa.  Mix in cornflakes and essence then place in round teaspoon lots on a greased oven tray.
 
 Cook at 180 C for 15 minutes.

@@ -2,6 +2,7 @@
 name: Chicken with plums and ginger
 comments: Sauce can be made the day before and refrigerated until needed.
 ---
+
 6 chicken breasts
 spray canola oil
 1 onion, chopped
@@ -24,6 +25,8 @@ Saute onion in pan until soft. Add all remaining ingredients except fresh plums,
 
 Bake in oven for 45 minutes at 350 degrees F.
 Serve with rice, salad or roast vegetables.
+
 ---
+
 
 

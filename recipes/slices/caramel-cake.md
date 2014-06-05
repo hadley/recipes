@@ -5,6 +5,7 @@ cookTime: '20'
 preparationTime: '30'
 comments: very good
 ---
+
 6oz butter
 1 T golden syrup
 1/2 c raisins
@@ -17,7 +18,9 @@ ICING:
 1 1/2 T golden syrup
 Vanilla
 1 1/2 c icing sugar
+
 ---
+
 Melt butter and syrup then add raisins and dry ingredients.  Press into sponge roll tin and bake 20 minutes at 180C.  Ice and cut when warm.
 
 ICING:

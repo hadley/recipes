@@ -6,6 +6,7 @@ comments: |-
   NB
   Be careful if you live in a place where people are advised to avoid eating raw eggs.
 ---
+
 BASE
 75g butter, melted
 2 c crushed cornflakes
@@ -17,7 +18,9 @@ FILLING
 1/2 c sugar
 1/4 c lemon juice
 2 t lemon rind, grated
+
 ---
+
 BASE
 Mix melted butter with crushed cornflakes and sugar, press all but 2 T into Swiss roll tin.  Place in fridge to harden
 

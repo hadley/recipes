@@ -5,6 +5,7 @@ cookTime: '10'
 preparationTime: '30'
 comments: An alternative to mince pies
 ---
+
 90g butter
 1/2 c brown sugar
 1 egg yolk
@@ -13,7 +14,9 @@ comments: An alternative to mince pies
 1/4 t baking soda
 1 T milk
 1 c mincemeat
+
 ---
+
 Cream butter and sugar.  Add egg yolk, beat until combined.  Add sifted flour, spice, soda and milk.  Press together to form a soft dough.  Turn onto lightly floured surface and knead for 2 minutes until smooth.  Leave, covered with plastic wrap, in refrigerator for 30 minutes.
 
 Roll out onto lightly floured surface to a rectangle 20 x 28 cm.  Spread evenly with mincemeat.  Roll up from the long side.  Wrap in plastic, refrigerate 30  minutes.

@@ -6,6 +6,7 @@ comments: |-
   http://www.youtube.com/user/annabellangbein?blend=3&ob=5#p/u/0/E5fdrbfdtbg
   Lovely to watch too!
 ---
+
 3 cups self raising flour
 2 cups sugar
 3/4 cup cocoa
@@ -19,6 +20,8 @@ comments: |-
 Prepare a 30cm round cake tin by lining it with paper.  Alternativey use a regular cake pan and a loaf tin.
 
 Place all ingredients except coffee in a large bowl.  Add hot coffee and beat with wooden spoon or beater until smooth and lump free.  Pour into tin/s and bake at 160C for 60 minutes.
+
 ---
+
 
 

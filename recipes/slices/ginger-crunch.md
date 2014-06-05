@@ -4,6 +4,7 @@ source: Modified Edmonds recipe, page 38 1978 ed.
 cookTime: '25'
 preparationTime: '0'
 ---
+
 6oz butter
 4oz sugar
 10 1/2oz flour
@@ -15,7 +16,9 @@ TOPPING:
 4oz icing sugar
 4 t golden syrup
 2 t ground ginger
+
 ---
+
 Cream butter and sugar, add sifted dry ingredients.  Knead well and press into a greased shallow tin.  Bake for 20 to 25 minutes at 190C.
 
 TOPPING:

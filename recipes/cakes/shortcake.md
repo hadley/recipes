@@ -2,6 +2,7 @@
 name: Shortcake
 source: Onslow College Cookbook, page 158
 ---
+
 4 oz butter
 4 oz sugar
 1 egg
@@ -26,7 +27,9 @@ Fruit
 1 c dates
 3 apples
 1/2 cup water
+
 ---
+
 Cream butter and sugar.  Ad beaten egg gradually, mix well.  Sift in dry ingredients and stir well.  Divide mixture in half and cover greased sandwich tin with one half rolled to fit.  Cover with filling.  Roll out second price on floured greaseproof paper to fit the tin then invert it over the mixture.  Bake at 180C for 30 minutes.
 
 FILLINGS:

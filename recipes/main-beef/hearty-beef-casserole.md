@@ -2,6 +2,7 @@
 name: Hearty Beef Casserole
 source: Family Circle - Dinner P., page 96
 ---
+
 1.2 kg rump steak
 4 rashers bacon
 1/2 c flour
@@ -15,7 +16,9 @@ source: Family Circle - Dinner P., page 96
 400g parsnip, cubed
 1/2 c red wine
 3 large zucchini, sliced
+
 ---
+
 Preheat oven to moderate 180 C.  Trim meat of any fat and sinew.
 1.  Cut meat into 2 cm cubes.  Cut bacon into 2 cm strips.  Combine flour and herbs in a plastic bag .  Toss meat lightly in seasoned flour; shake of excess.  Reserve remaining flour.
 2.  Heat oil in large heavy-based pan.  Add bacon, cook over medium-high heat until browned; drain on absorbent paper.  Cook meat quickly, in small batches over medium-high heat until well browned; lift out and drain on absorbent paper.

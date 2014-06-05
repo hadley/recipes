@@ -1,6 +1,7 @@
 ---
 name: AFRICAN STEAK
 ---
+
 1/2 c flour
 1/2 t salt
 1/2 t baking soda
@@ -9,6 +10,8 @@ name: AFRICAN STEAK
 1 c water
 1/2 T Worcestershire sauce
 3 T vinegar
+
 ---
+
 Mix wet ingredients and pour into dry.  Mix well and pour over steak in casserole dish.  Cook for 2 1/2 hours at 180C.
 

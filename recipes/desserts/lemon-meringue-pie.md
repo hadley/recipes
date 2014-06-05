@@ -5,6 +5,7 @@ cookTime: '35'
 preparationTime: '60'
 comments: delicious
 ---
+
 170g Sweet Short Pastry
 3 eggs, separated
 1 c water
@@ -14,7 +15,9 @@ Juice and rind of 2 medium lemons
 4 T cornflour
 4 T castor sugar
 1/2 t vanilla essence
+
 ---
+
 Roll pastry and line a 23cm pie dish and bake at 200C for 20 minutes - cool.
 
 FILLING:  Into a small pot place yolks of 3 eggs, water, lemon juice and rind, sugar butter and cornflour.  Heat until very thick and cook another 2-3 minutes.  When quite cold pour into baked pie shell and top with meringue.

@@ -3,6 +3,7 @@ name: Zucchini/Courgette Chocolate Cake
 source: Meals without meat
 comments: Great with Strawberries.  AW
 ---
+
 125g butter
 1 c brown sugar
 1/2 c white sugar
@@ -17,7 +18,9 @@ comments: Great with Strawberries.  AW
 1 t vanilla essence
 3 cups (350g) grated zucchini/or courgette
 1/2-1 c chocolate pieces (optional)
+
 ---
+
 Line 25 cm square tin.
 
 Cream butter and sugar.  Add eggs one at a time with a spoonful of flour mixture.  Add vanilla and yogurt and stir well.  Sift in dry ingredients and stir in zucchini.

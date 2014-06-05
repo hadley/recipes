@@ -2,6 +2,7 @@
 name: Brownies (cream cheese)
 source: http://www.joyofbaking.com/barsandsquares/CreamCheeseBrownies.html
 ---
+
 Brownie Layer:
 
 1/2 cup (113 grams) unsalted butter, cut into pieces
@@ -18,7 +19,9 @@ Cream Cheese Layer:
 1/4 cup granulated white sugar
 1/2 teaspoon pure vanilla extract
 1 large egg
+
 ---
+
 Melt butter and chocolate in double-boiler. Whisk in other ingredients one at a time. Beat cream cheese until smooth, then beat in remaining ingredients.
 
 Pour brownie batter in to lined tin, reserving 1/2 cup. Pour on cream cheese layer.  Add remaining batter in 16 dollops, then use skewer to make marbled effect.

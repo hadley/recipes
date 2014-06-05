@@ -3,6 +3,7 @@ name: COCONUT SQUARES
 source: Onslow College Cookbook, page 138
 comments: VERY GOOD
 ---
+
 4oz butter
 1/2 c of sugar
 1 c of flour
@@ -16,7 +17,9 @@ Icing :
 1oz of butter
 1 c of coconut
 3 t of cocoa
+
 ---
+
 Cream butter, sugar, golden syrup.  Then add other ingredients. Spread in a Swiss roll tin.  
 
 Bake 180C for 20-25 minutes.

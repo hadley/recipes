@@ -4,6 +4,7 @@ source: Notebook
 comments: You can cut into varied Christmas shapes and make a hole in the top by using
   a straw to use as decorations.  Leave plain or ice.
 ---
+
 6oz butter
 1 c sugar
 1 c golden syrup
@@ -11,7 +12,9 @@ comments: You can cut into varied Christmas shapes and make a hole in the top by
 2 heaped t ginger
 1t baking soda
 1/2t salt
+
 ---
+
 Melt butter, sugar and syrup. 
 
 Sift in dry ingredients.  

@@ -3,6 +3,7 @@ name: Iced Caramel Shortcake
 source: Onslow College Cookbook, page 144
 cookTime: '30'
 ---
+
 6 oz butter
 1 t baking powder
 1 T cocoa
@@ -17,7 +18,9 @@ FILLING:
 1/2 tin condensed milk
 1/4 c sugar
 1 T golden syrup
+
 ---
+
 Melt butter and add other ingredients.  Press half mixture into sponge roll tin.  
 
 FILLING

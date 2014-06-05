@@ -4,6 +4,7 @@ source: NZ Microwave Cookbook, page 66
 cookTime: '22'
 preparationTime: '15'
 ---
+
 1 stick celery
 1 onion
 1 t butter
@@ -15,7 +16,9 @@ preparationTime: '15'
 1 T Worcester sauce
 2 T tomato sauce
 1/2 c frozen peas
+
 ---
+
 1.  Thinly slice celery and onion.  Combine in a medium-sized casserole dish with butter.  Micro-cook, uncovered, high power, 4 minutes.
 
 2.  Peel and slice carrots.  Add to onions and celery with mince.  Mix well.

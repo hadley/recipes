@@ -2,6 +2,7 @@
 name: Sour Cream Lemon Cake
 comments: Made for Charlottes birthday 2005
 ---
+
 185g softened butter
 1 1/2 c sugar
 4 lightly beaten large eggs
@@ -12,7 +13,9 @@ comments: Made for Charlottes birthday 2005
 
 Glaze
 Juice of 1 lemon and 3/4 cup sugar heated until sugar is melted
+
 ---
+
 Cream butter and sugar until light, add eggs and lemon rind.  Blend well.
 
 Fold in sifted flour and baking powder alternately with sour cream.  Mix gently unitl smooth and place in a well greased 21cm round spring form pan.  Bake at 160C until done (about 40 minutes).

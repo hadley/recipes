@@ -5,6 +5,7 @@ comments: You can use a mix of chopped prunes and dried apricots instead of rais
   chopped dates or indeed any mix of dried fruit you like.  Similarly you can use
   whatever nuts or essences you fancy.  Enjoy experimenting!
 ---
+
 1 cup raisins
 1 cup water
 1 teaspoon baking soda
@@ -17,7 +18,9 @@ comments: You can use a mix of chopped prunes and dried apricots instead of rais
 1/2 t almond essence
 3/4 cup sugar
 1/2 cup chopped walnuts
+
 ---
+
 Boil water and pour over raisins and soda.  Leave until cold.  Beat together eggs and sugar, add oil & essences.  Add dry ingredients and fruit mix alternately, beat well then stir in nuts.
 
 Pur into paper lined (or very well greased) 9 or 10 inch square tin, or two loaf pans. Bake in preheated moderate (approx 180 C) oven till done.  One square tin 45 - 60 mins, loaf tins  40 minutes (approximate times only).  Take out of oven when it smells cooked.

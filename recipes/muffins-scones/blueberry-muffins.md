@@ -3,6 +3,7 @@ name: Blueberry Muffins
 source: Mmm Muffins, page 18
 cookTime: '20'
 ---
+
 1 egg
 3/4 c milk
 1/3 c oil
@@ -12,7 +13,9 @@ cookTime: '20'
 2 1/2 t baking powder
 2 T lemon rind
 3/4 c blueberries
+
 ---
+
 Lightly oil a muffin tin and preheat the oven to 200C.  This recipe makes 12 muffins.
 
 Put the first three ingredients into a bowl and mix well.  Add the remaining ingredients except the blueberries and blend until just mixed, then fold in the blueberries.  Two-thirds fill the muffin tins and bake for 15-20 minutes.

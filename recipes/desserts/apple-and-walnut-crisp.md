@@ -5,6 +5,7 @@ cookTime: '12'
 preparationTime: '20'
 comments: Excellent
 ---
+
 1 t cinnamon
 1 1/2 c wholemeal flour
 1/2 c rolled oats
@@ -19,7 +20,9 @@ comments: Excellent
 rind of 1 lemon
 2 T brown sugar
 1/4 c sultanas
+
 ---
+
 1.  Mix together cinnamon, flour, rolled oat, baking powder, salt, brown sugar and walnuts.
 
 2.  Combine butter, golden syrup and vanilla in a separate bowl.  Micro-cook, high power, 1-1 1/2 minutes. or until the butter has melted.  Stir butter mixture into dry ingredients  Mix well.

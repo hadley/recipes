@@ -3,6 +3,7 @@ name: Chocolate Fudge Pudding
 source: Onslow College Cookbook, page 101
 cookTime: '60'
 ---
+
 1 c flour
 1 t baking powder
 1/2 t salt
@@ -17,7 +18,9 @@ TOPPING:
 3/4 c brown sugar
 1 1/2 T cocoa
 1 3/4 c boiling water
+
 ---
+
 Sift flour, baking powder, salt and cocoa together, add sugar and stir in milk and butter.  Add vanilla and nuts.  Pour into overproof pie dish.
 
 TOPPING:

@@ -2,6 +2,7 @@
 name: Chocolate Chip Cookies
 source: Cornell Cookbook
 ---
+
 125g butter
 1/2 c brown sugar
 1/2 c sugar
@@ -12,6 +13,8 @@ source: Cornell Cookbook
 1t cocoa
 100g chocolate chips
 60g walnut pieces
+
 ---
+
 Cream butter, sugars and vanilla.  Add lightly beaten egg gradually, beating well after each addition.  Mix in sifted flour, salt and cocoa.  Add chocolate chips and chopped walnuts, mix well.  Shape teaspoonfuls into balls, press down lightly with a fork.  Bake at 200C for 10 minutes.
 

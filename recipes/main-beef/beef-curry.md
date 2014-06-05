@@ -2,6 +2,7 @@
 name: Beef Curry
 source: Brian Wickham
 ---
+
 1.5 kg blade or topside steak
 2 large carrots
 2 parsnips
@@ -18,7 +19,9 @@ source: Brian Wickham
 4 T lemon juice
 4 T olive oil
 1 small piece of ginger - grated
+
 ---
+
 1.  Dice onions, combine with curry powder and cook in frying pan using oil.  Place in large casserole dish.
 2.  Cut meat into bite sized cubes and brown in frying pan.  Remove and add to casserole dish.
 3.  Prepare carrot, parsnip, and apple by peeling and cutting into cubes.  Add to casserole dish.

@@ -4,6 +4,7 @@ comments: |-
   Tender and delicious.
   WW 5 points per serve of 125g meat per person.
 ---
+
 Small boned leg lamb ( ~1kg)
 1 head garlic divided into cloves but unpeeled
 juice of 1 orange
@@ -15,7 +16,9 @@ juice of 1 orange
 1 green pepper, deseeded and diced
 400g chopped tomatoes
 Salt and freshly ground black pepper
+
 ---
+
 Put lamb in roasting pan and scatter garlic cloves around.  Pour over juice and wine and arrange rosemary sprigs on top.  Season.
 Roast uncovered for 1 hour at 170C.
 

@@ -3,6 +3,7 @@ name: Linzer schnitten
 source: Cornell Cookbook
 comments: A Christmas treat.
 ---
+
 2 eggs
 1 1/2 c sugar
 175g butter
@@ -17,7 +18,9 @@ raspberry or red plum jam
 Glaze:
 1 egg
 1/2 c sugar
+
 ---
+
 Beat eggs lightly and gradually beat in sugar.
 
 Melt butter and add to egg mixture.

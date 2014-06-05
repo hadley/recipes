@@ -4,6 +4,7 @@ source: newspaper
 cookTime: '60'
 preparationTime: '20'
 ---
+
 1 orange
 1/2 c dates
 1/2 c walnuts
@@ -13,7 +14,9 @@ preparationTime: '20'
 2 c flour
 1 t baking soda
 1 c milk
+
 ---
+
 In a food processor or blender place the orange cut in quarters (skin and flesh), the dates and walnuts.  Process until finely chopped.
 
 Cream butter and sugar until light and fluffy.  Add the egg and mix.  Add orange and date mixture.  Sift in flour.  Lastly add the baking soda dissolved in the warm milk.  Mix until combined.

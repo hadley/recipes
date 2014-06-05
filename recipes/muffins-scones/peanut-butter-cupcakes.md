@@ -3,6 +3,7 @@ name: Peanut butter cupcakes
 source: Joy of cooking
 comments: Super easy and quick
 ---
+
 1 3/4 c flour
 1/2 c brown sugar
 1 1/2 t baking powder
@@ -13,6 +14,8 @@ comments: Super easy and quick
 2 T vegetable oil
 1 t vanilla
 1/2 c chocolate chips
+
 ---
+
 Mix all ingredients until smooth.  Bake at 350 for 25-30 minutes.
 

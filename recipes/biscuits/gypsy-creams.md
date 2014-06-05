@@ -3,6 +3,7 @@ name: Gypsy creams
 source: Onslow College Cookbook, page 144
 cookTime: '20'
 ---
+
 4 oz butter
 1 T golden syrup
 3 oz sugar
@@ -12,6 +13,8 @@ cookTime: '20'
 1 c flour
 1/2 t baking soda
 1 t baking powder
+
 ---
+
 Cream butter and sugar, add golden syrup and boiling water, essence, lastly flour and other dry ingredients, then cornflakes.  Press into flat balls, allowing room to spread.  Bake at 180C for 15 -20 minutes.  Ice when cold with lemon icing.
 

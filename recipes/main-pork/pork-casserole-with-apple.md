@@ -3,6 +3,7 @@ name: Pork Casserole with apple
 source: WW
 comments: Very easy and tasty.
 ---
+
 600g lean diced pork
 25g flour
 2t dried thyme
@@ -12,7 +13,9 @@ comments: Very easy and tasty.
 12 halved scallions or 3 quartered red onions
 2 eating apples cored and chopped into chunks, but not peeled
 450ml hot vegetable or chicken stock
+
 ---
+
 Heat oil in pan. Roll meat in flour, thyme and seasoning.
 Brown meat in oil and transfer to casserole dish.
 Brown apples and vegetables in pan and then transfer to casserole dish.

@@ -3,6 +3,7 @@ name: Hearty bacon & cabbage soup/stew
 source: Alison Wickham
 comments: Satisfying and tasty for a cold night. Looks colourful and tastes great.
 ---
+
 250g lean bacon 
 2 leeks or 1 large onion - sliced finely
 1 large carrot grated
@@ -14,7 +15,9 @@ I/2 t chicken or veg. stock
 1/2 cup water
 
 2 cups very thinly sliced cabbage
+
 ---
+
 Brown bacon in a large saucepan - drain off excess fat. 
 
 Add leeks, carrot, garlic, potato and cook, stirring occasionally until softened but not brown. 

@@ -1,6 +1,7 @@
 ---
 name: UNCOOKED COFFEE GATEAU
 ---
+
 1 lb sponge cake
 6oz butter
 3/4 c castor sugar
@@ -8,7 +9,9 @@ name: UNCOOKED COFFEE GATEAU
 3/4 c black coffee
 1 1/2 T coffee mixed with 1 1/2 T whisky or brandy, rum or sherry
 Whipped cream
+
 ---
+
 Slice sponge into three horizontally, using top slices, line the side of a 7 inch loose bottomed cake tin.  
 
 Place layer of sponge cake on the bottom of the tin, this time using the bottom slices.

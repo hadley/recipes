@@ -6,6 +6,7 @@ comments: |-
 
   Ice with chocolate icing to resemble a log.
 ---
+
 4 eggs, separated
 4oz flour
 1/2 c sugar
@@ -13,7 +14,9 @@ comments: |-
 3/4 c cream
 2T icing sugar
 1T brandy
+
 ---
+
 Beat yolks and add sugar and beat until thick and pale.  Break chocolate into pieces and melt. Add to yolks and sugar.  Beat egg whites until stiff and fold in. Fold in sifted flour. 
 
 Spread into a greased and floured sponge roll tin with grease proof paper on bottom at 190C for 15 minutes.  

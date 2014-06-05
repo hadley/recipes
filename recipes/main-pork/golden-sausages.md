@@ -4,6 +4,7 @@ source: Rally cook book, page 155
 cookTime: '25'
 preparationTime: '15'
 ---
+
 500g sausages
 1 T brown sugar
 1 onion, chopped
@@ -14,6 +15,8 @@ preparationTime: '15'
 salt and pepper
 2 c boiling water
 1 c carrot, grated
+
 ---
+
 Place raw sausages in microwave bowl.  Mix together dry ingredients and boiling water and pour over sausages with grated carrot.  Micro-cook, covered, on high, for 25 minutes.  Stir often.
 

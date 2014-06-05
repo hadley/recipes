@@ -2,6 +2,7 @@
 name: Plum pudding
 source: Di Cook
 ---
+
 6 C fine breadcrumbs
 1 1/2 t salt
 1 1/2 t cinnamon
@@ -17,7 +18,9 @@ source: Di Cook
 1/2 C chopped dates
 1 C chopped dried apples
 1 C rum
+
 ---
+
 Mix crumbs, salt, spices, brown sugar.  Add milk and let stand until cool.
 
 Add eggs, butter.  Mix.  Add fruits (and rum) and mix to separate fruit.

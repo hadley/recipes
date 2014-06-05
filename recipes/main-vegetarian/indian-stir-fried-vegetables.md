@@ -2,6 +2,7 @@
 name: Indian Stir Fried vegetables
 source: Rita V
 ---
+
 1 t black mustard seeds
 1 t cumin seeds
 ginger/garlic/onion as preferred
@@ -11,7 +12,9 @@ chopped vegetables
 salt chili (red) optional
 1/2 t turmeric
 1 T oil
+
 ---
+
 Heat oil in a wok. Add mustard seeds (allow to pop)
 Add grated ginger, garlic, diced onion and brown lightly.  Add chopped veges.
 

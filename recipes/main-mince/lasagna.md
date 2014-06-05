@@ -2,6 +2,7 @@
 name: Lasagna
 source: Jeffrey Edwards
 ---
+
 1 lb lasagna
 
 Meat layer:
@@ -19,7 +20,9 @@ Spinach
 Mushrooms
 
 Extra cheese for topping
+
 ---
+
 Boil lasagna according to package.  Brown mince and heat through with pasta sauce.  Mix cottage cheese, eggs & cheese together.  
 
 Layer lasagna, then meat, then cheese and veggies.  Repeat.  Top with extra cheese.

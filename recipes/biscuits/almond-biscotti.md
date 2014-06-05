@@ -4,6 +4,7 @@ source: JoyofBaking.com
 comments: Can vary by adding 1 tablespoon orange or lemon zest, or chopped glace cherries
   or dipping in chocolate.
 ---
+
 1 cup almonds toasted and chopped coarsely
 1 t baking powder
 1/8 t salt
@@ -12,7 +13,9 @@ comments: Can vary by adding 1 tablespoon orange or lemon zest, or chopped glace
 3 large eggs
 1 t pure vanilla
 1/2 t pure almond extract
+
 ---
+
 Heat oven to 180C.
 
 Beat eggs and extracts together in a small bowl.

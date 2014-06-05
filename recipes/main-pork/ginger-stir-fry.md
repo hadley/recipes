@@ -3,6 +3,7 @@ name: Ginger Stir-Fry
 source: Living Today, page 23
 comments: Excellent
 ---
+
 1 t sugar
 1 T dry white wine
 3 T soy sauce
@@ -12,7 +13,9 @@ comments: Excellent
 4 spring onions
 1 T julienne of root ginger
 2 T Soy oil
+
 ---
+
 Combine the marinade ingredients well.
 Cut the pork in thin strips and place in the marinade.  Stir to coat well.  Refrigerate and marinade for 30 minutes.
 Cut cabbage leaves in 3 cm squares.  Slice spring onions diagonally.
