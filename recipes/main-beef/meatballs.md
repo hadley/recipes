@@ -1,5 +1,5 @@
 ---
-name: MEATBALLS
+name: Meatballs
 source: Hadley Wickham
 comments: Excellent
 ---

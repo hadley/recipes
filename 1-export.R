@@ -25,6 +25,11 @@ save_recipe <- function(recipe) {
   meta <- meta[!is.na(meta) & meta != ""]
   meta <- lapply(meta, trim)
   
+  if (meta$name == toupper(meta$name)) {
+    meta$name <- tolower(meta$name)
+    substring(meta$name, 1, 1) <- to_upper(substring(meta$name, 1, 1))
+  }
+  
   if (length(meta) > 0) {
     meta_yaml <- as.yaml(as.list(meta))
   } else {

@@ -1,5 +1,5 @@
 ---
-name: COCONUT HONEY BARS
+name: Coconut honey bars
 ---
 
 4oz butter

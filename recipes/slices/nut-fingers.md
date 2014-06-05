@@ -1,5 +1,5 @@
 ---
-name: NUT FINGERS
+name: Nut fingers
 ---
 
 6oz butter

@@ -1,5 +1,5 @@
 ---
-name: CHEESE CAKE, BLACK FOREST
+name: Cheese cake, black forest
 source: Cornell Cookbook
 comments: EXCELLENT
 ---

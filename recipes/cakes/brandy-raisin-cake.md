@@ -1,5 +1,5 @@
 ---
-name: BRANDY RAISIN CAKE
+name: Brandy raisin cake
 source: Cornell Cookbook
 ---
 

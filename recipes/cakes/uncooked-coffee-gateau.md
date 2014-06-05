@@ -1,5 +1,5 @@
 ---
-name: UNCOOKED COFFEE GATEAU
+name: Uncooked coffee gateau
 ---
 
 1 lb sponge cake

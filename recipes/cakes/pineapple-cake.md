@@ -1,5 +1,5 @@
 ---
-name: PINEAPPLE CAKE
+name: Pineapple cake
 source: Cornell Cookbook
 ---
 

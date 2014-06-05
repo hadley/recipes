@@ -1,5 +1,5 @@
 ---
-name: HAMBURGER STROGANOFF CASSEROLE
+name: Hamburger stroganoff casserole
 source: Meat International
 ---
 

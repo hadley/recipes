@@ -1,5 +1,5 @@
 ---
-name: FRENCH STEAK
+name: French steak
 ---
 
 1 T flour

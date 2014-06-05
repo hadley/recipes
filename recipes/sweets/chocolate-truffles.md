@@ -1,5 +1,5 @@
 ---
-name: CHOCOLATE TRUFFLES
+name: Chocolate truffles
 source: Onslow College Cookbook, page 138
 comments: A TREAT!
 ---

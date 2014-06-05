@@ -1,5 +1,5 @@
 ---
-name: CARROT CAKE 1
+name: Carrot cake 1
 ---
 
 1 c wholemeal flour

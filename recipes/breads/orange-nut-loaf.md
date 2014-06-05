@@ -1,5 +1,5 @@
 ---
-name: ORANGE NUT LOAF
+name: Orange nut loaf
 source: Onslow College Cookbook, page 152
 comments: EXCELLENT
 ---

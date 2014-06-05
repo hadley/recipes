@@ -1,5 +1,5 @@
 ---
-name: CHEESE LOG
+name: Cheese log
 ---
 
 4 c grated cheese

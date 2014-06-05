@@ -1,5 +1,5 @@
 ---
-name: RUM BALLS
+name: Rum balls
 source: Modified Highlander Can
 ---
 

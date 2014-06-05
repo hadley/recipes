@@ -1,5 +1,5 @@
 ---
-name: DATE & LEMON SELF SAUCING PUDDING
+name: Date & lemon self saucing pudding
 ---
 
 1 c self raising flour

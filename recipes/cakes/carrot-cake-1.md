@@ -1,5 +1,5 @@
 ---
-name: CARROT CAKE 2
+name: Carrot cake 2
 source: Cornell Cookbook
 ---
 

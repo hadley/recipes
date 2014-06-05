@@ -1,5 +1,5 @@
 ---
-name: RHUBARB FAMILY PUDDING
+name: Rhubarb family pudding
 source: Newspaper
 comments: EXCELLENT
 ---

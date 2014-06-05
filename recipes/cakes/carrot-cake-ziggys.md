@@ -1,5 +1,5 @@
 ---
-name: CARROT CAKE, ZIGGY'S
+name: Carrot cake, ziggy's
 source: Living Today
 cookTime: '90'
 preparationTime: '20'

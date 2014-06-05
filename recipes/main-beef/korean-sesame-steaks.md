@@ -1,5 +1,5 @@
 ---
-name: KOREAN SESAME STEAKS
+name: Korean sesame steaks
 source: Meat International
 comments: GOOD WITH RICE.
 ---

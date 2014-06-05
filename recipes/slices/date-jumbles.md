@@ -1,5 +1,5 @@
 ---
-name: DATE JUMBLES
+name: Date jumbles
 ---
 
 4oz butter

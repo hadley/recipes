@@ -1,5 +1,5 @@
 ---
-name: SPEEDY MINCE STROGANOFF
+name: Speedy mince stroganoff
 ---
 
 2 T butter or oil

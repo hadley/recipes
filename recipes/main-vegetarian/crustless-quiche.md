@@ -1,5 +1,5 @@
 ---
-name: CRUSTLESS QUICHE
+name: Crustless quiche
 ---
 
 1 large onion

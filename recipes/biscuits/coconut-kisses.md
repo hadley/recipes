@@ -1,5 +1,5 @@
 ---
-name: COCONUT KISSES
+name: Coconut kisses
 source: Cornell Cookbook
 ---
 

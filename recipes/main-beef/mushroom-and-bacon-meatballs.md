@@ -1,5 +1,5 @@
 ---
-name: MUSHROOM AND BACON MEATBALLS
+name: Mushroom and bacon meatballs
 ---
 
 500g mince

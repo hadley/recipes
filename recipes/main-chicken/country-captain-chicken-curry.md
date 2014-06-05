@@ -1,5 +1,5 @@
 ---
-name: COUNTRY CAPTAIN CHICKEN CURRY
+name: Country captain chicken curry
 source: Newspaper
 ---
 

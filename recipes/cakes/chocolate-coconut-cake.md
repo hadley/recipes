@@ -1,5 +1,5 @@
 ---
-name: CHOCOLATE COCONUT CAKE
+name: Chocolate coconut cake
 source: Cornell Cookbook
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: ORANGE CAKE
+name: Orange cake
 ---
 
 6oz butter

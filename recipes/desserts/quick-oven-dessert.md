@@ -1,5 +1,5 @@
 ---
-name: QUICK OVEN DESSERT
+name: Quick oven dessert
 ---
 
 1 can fruit

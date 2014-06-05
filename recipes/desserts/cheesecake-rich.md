@@ -1,5 +1,5 @@
 ---
-name: CHEESECAKE, RICH
+name: Cheesecake, rich
 source: Cornell Cookbook
 comments: EXCELLENT
 ---

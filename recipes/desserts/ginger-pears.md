@@ -1,5 +1,5 @@
 ---
-name: GINGER PEARS
+name: Ginger pears
 ---
 
 2-3 pears peeled and cut into pieces

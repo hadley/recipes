@@ -1,5 +1,5 @@
 ---
-name: APPLE CRUMBLE PUDDING
+name: Apple crumble pudding
 source: AW modification of traditonal NZ recipe
 comments: An old fashioned, fast, easy, fairly low calorie dessert that is always
   delicious whether served plain or dressed up for company.

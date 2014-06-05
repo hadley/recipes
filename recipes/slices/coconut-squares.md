@@ -1,5 +1,5 @@
 ---
-name: COCONUT SQUARES
+name: Coconut squares
 source: Onslow College Cookbook, page 138
 comments: VERY GOOD
 ---

@@ -1,5 +1,5 @@
 ---
-name: INDONESIAN ROAST LAMB
+name: Indonesian roast lamb
 source: Meat International
 comments: Serve with rice.
 ---

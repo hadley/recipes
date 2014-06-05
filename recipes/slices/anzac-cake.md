@@ -1,5 +1,5 @@
 ---
-name: ANZAC CAKE
+name: Anzac cake
 ---
 
 1/2 c golden syrup

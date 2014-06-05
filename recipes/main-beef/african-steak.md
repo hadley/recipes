@@ -1,5 +1,5 @@
 ---
-name: AFRICAN STEAK
+name: African steak
 ---
 
 1/2 c flour

@@ -1,5 +1,5 @@
 ---
-name: MACARONI CHEESE
+name: Macaroni cheese
 source: Weight Watchers Microwave, page 82
 ---
 

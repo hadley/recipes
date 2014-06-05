@@ -1,5 +1,5 @@
 ---
-name: BAGGED GOLDEN CHICKEN
+name: Bagged golden chicken
 ---
 
 450g can pineapple pieces

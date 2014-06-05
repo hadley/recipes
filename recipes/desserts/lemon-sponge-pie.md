@@ -1,5 +1,5 @@
 ---
-name: LEMON SPONGE PIE
+name: Lemon sponge pie
 comments: Good warm or cold
 ---
 

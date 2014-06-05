@@ -1,5 +1,5 @@
 ---
-name: ALMOND CREAMS
+name: Almond creams
 source: Cornell Cookbook
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: SWEET & SOUR PORK
+name: Sweet & sour pork
 source: Cornell Cookbook
 ---
 

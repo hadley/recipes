@@ -1,5 +1,5 @@
 ---
-name: WHEAT GERM CRUNCHIES
+name: Wheat germ crunchies
 source: Cornell Cookbook
 cookTime: '15'
 preparationTime: '10'

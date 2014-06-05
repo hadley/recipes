@@ -1,5 +1,5 @@
 ---
-name: PADDY'S PASTIE
+name: Paddy's pastie
 ---
 
 1 packet of flaky pastry
