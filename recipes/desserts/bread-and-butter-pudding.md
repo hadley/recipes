@@ -1,7 +1,5 @@
 ---
 name: Bread and butter pudding
-source: the most powerful and gracious Joshua Stevens
-comments: Hadley smells
 ---
 
 50g butter, softened 

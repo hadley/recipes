@@ -8,7 +8,7 @@ comments: very good
 
 4oz butter
 4oz brown sugar
-1 D golden syrup
+2 t golden syrup
 Vanilla
 5oz flour
 1 t baking powder
