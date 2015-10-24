@@ -1,7 +1,5 @@
----
-name: American Style Muffins
-source: Newspaper
----
+# American Style Muffins
+From: Newspaper
 
 * 2 c self raising flour
 * 1/2 t salt

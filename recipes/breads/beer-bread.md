@@ -1,7 +1,5 @@
----
-name: Beer Bread
-source: Dan Nettleton
----
+# Beer Bread
+From: Dan Nettleton
 
 * 3 cups all-purpose flour
 * 3 tsp. baking powder

@@ -1,10 +1,4 @@
----
-name: Gluten Free Orange Cupcakes
-comments: |-
-  Makes 12  cupcakes (one and a half inch high muffin cases) or 24 small ones.
-
-  Lemon may be substituted for orange if desired.
----
+# Gluten Free Orange Cupcakes
 
 * 225g butter
 * 225g caster sugar
@@ -22,4 +16,8 @@ Beat butter and sugar to a cream and then beat in eggs.  Sieve flours with bakin
 Distribute evenly among the 12 cases.  Bake for 15 -25 minutes until golden and cooked.
 
 Cool on a wire rack and ice if desired when cold.  May be frozen.
+
+Comments: Makes 12  cupcakes (one and a half inch high muffin cases) or 24 small ones.
+
+Lemon may be substituted for orange if desired.
 

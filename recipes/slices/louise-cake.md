@@ -1,6 +1,4 @@
----
-name: Louise Cake
----
+# Louise Cake
 
 * 3 3/4oz butter
 * 1 1/2 c sugar

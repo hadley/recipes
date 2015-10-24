@@ -1,6 +1,4 @@
----
-name: Bagged golden chicken
----
+# Bagged golden chicken
 
 * 450g can pineapple pieces
 * Water

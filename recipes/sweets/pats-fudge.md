@@ -1,7 +1,5 @@
----
-name: Pat's fudge
-source: Cornell Cookbook
----
+# Pat's fudge
+From: Cornell Cookbook
 
 * 4oz butter
 * 1 can sweetened condensed milk

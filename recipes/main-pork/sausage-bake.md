@@ -1,9 +1,6 @@
----
-name: Sausage Bake
-source: Let's cook some more, page 20
-cookTime: '30'
-preparationTime: '20'
----
+# Sausage Bake
+From: Let's cook some more, page 20
+Time: 50 minutes
 
 * 6-8 sausages
 * 1 onion, grated

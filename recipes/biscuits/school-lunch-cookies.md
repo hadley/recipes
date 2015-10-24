@@ -1,7 +1,5 @@
----
-name: School Lunch Cookies
-source: Cornell Cookbook
----
+# School Lunch Cookies
+From: Cornell Cookbook
 
 * 125g butter
 * 2 T golden syrup

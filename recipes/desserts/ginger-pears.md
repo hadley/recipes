@@ -1,6 +1,4 @@
----
-name: Ginger pears
----
+# Ginger pears
 
 * 2-3 pears peeled and cut into pieces
 * 1 T butter

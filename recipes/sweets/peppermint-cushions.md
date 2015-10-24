@@ -1,7 +1,5 @@
----
-name: Peppermint Cushions
-source: Notebook
----
+# Peppermint Cushions
+From: Notebook
 
 * 1 T butter
 * 2 T sugar

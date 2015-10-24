@@ -1,8 +1,6 @@
----
-name: Delicious Fruit Cake
-source: Onslow College Cookbook, page 133
-cookTime: '120'
----
+# Delicious Fruit Cake
+From: Onslow College Cookbook, page 133
+Time: 120 minutes
 
 * 1 lb mixed fruit 
 * 12 oz sugar

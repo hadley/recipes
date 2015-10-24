@@ -1,9 +1,6 @@
----
-name: Raisin Cake, Spicy Syrup
-source: The Victorian Kitchen Book of Cakes and Cookies, page 27
-cookTime: '55'
-preparationTime: '30'
----
+# Raisin Cake, Spicy Syrup
+From: The Victorian Kitchen Book of Cakes and Cookies, page 27
+Time: 85 minutes
 
 * 2oz (50g) butter
 * 8oz (225g) castor sugar

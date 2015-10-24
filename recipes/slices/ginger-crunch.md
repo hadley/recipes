@@ -1,9 +1,6 @@
----
-name: Ginger Crunch
-source: Modified Edmonds recipe, page 38 1978 ed.
-cookTime: '25'
-preparationTime: '0'
----
+# Ginger Crunch
+From: Modified Edmonds recipe, page 38 1978 ed.
+Time: 25 minutes
 
 * 6oz butter
 * 4oz sugar

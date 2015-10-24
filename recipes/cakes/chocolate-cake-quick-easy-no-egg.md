@@ -1,10 +1,6 @@
----
-name: Chocolate cake - quick & easy no egg
-source: Rally cook book, page 43
-cookTime: '40'
-preparationTime: '0'
-comments: excellent
----
+# Chocolate cake - quick & easy no egg
+From: Rally cook book, page 43
+Time: 40 minutes
 
 * 4oz butter
 * 1 c sugar
@@ -21,4 +17,6 @@ comments: excellent
 Melt butter, sugar, syrup and milk in a large pot.  Cool.  Add sifted dry ingredients.  Mix in baking soda dissolved in milk and vanilla.  Mix well and place in a ring tin. Bake in a moderate oven (NZ non-fan - 180C) for about 40 minutes.
 
 Ice with chooclate icing.
+
+Comments: excellent
 

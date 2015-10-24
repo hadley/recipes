@@ -1,8 +1,5 @@
----
-name: Sultana Loaf
-source: Grandma Nancy
-comments: Makes 1 loaf - uses tin approx 22.5cm x 11.5 cm x 5.5 cm
----
+# Sultana Loaf
+From: Grandma Nancy
 
 * 1 cup white flour
 * 1 cup whole meal flour
@@ -21,4 +18,6 @@ Add syrup and milk to hot mixture then add soda, milk and nuts.
 Stir dry ingredients together and add to mix, stirring well.
 
 Place in paper lined loaf tin.  Bake for 1 hour at 350 F (180 C).
+
+Comments: Makes 1 loaf - uses tin approx 22.5cm x 11.5 cm x 5.5 cm
 

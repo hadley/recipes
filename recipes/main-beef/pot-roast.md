@@ -1,7 +1,5 @@
----
-name: Pot roast
-source: From Jeff & internet
----
+# Pot roast
+From: From Jeff & internet
 
 * A couple of pounds of cheap pot roast meat
 * 2 handfuls of 1-inch carrot slices

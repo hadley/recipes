@@ -1,9 +1,6 @@
----
-name: Fisherman's Cake
-source: newspaper
-cookTime: '60'
-preparationTime: '20'
----
+# Fisherman's Cake
+From: newspaper
+Time: 80 minutes
 
 * 1 orange
 * 1/2 c dates

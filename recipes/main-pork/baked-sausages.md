@@ -1,8 +1,6 @@
----
-name: Baked sausages
-source: Onslow College Cookbook, page 92
-cookTime: '120'
----
+# Baked sausages
+From: Onslow College Cookbook, page 92
+Time: 120 minutes
 
 * 1 lb sausages
 * 1 large onion

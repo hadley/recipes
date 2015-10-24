@@ -1,7 +1,5 @@
----
-name: Hot cross buns
-source: Cornell Cookbook
----
+# Hot cross buns
+From: Cornell Cookbook
 
 * 1 c milk
 * 1/2 c hot water

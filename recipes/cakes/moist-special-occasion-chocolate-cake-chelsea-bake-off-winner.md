@@ -1,6 +1,4 @@
----
-name: 'Moist special occasion chocolate cake - Chelsea bake-off winner '
----
+# Moist special occasion chocolate cake - Chelsea bake-off winner 
 
 * 2 cups caster sugar
 * 3 cups self- raising flour

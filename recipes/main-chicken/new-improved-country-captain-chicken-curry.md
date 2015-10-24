@@ -1,10 +1,5 @@
----
-name: New Improved COUNTRY CAPTAIN CHICKEN CURRY
-source: Original recipe Joy of Cooking
-comments: "Modified by AW. \nA great mild curry two pan dinner for two. Serves four
-  with accompanying dishes like naan breads and Indian condiments like chutneys, cucumbers
-  in yogurt, sliced bananas, nuts  etc.\n\nDouble or triple recipe for more servings."
----
+# New Improved COUNTRY CAPTAIN CHICKEN CURRY
+From: Original recipe Joy of Cooking
 
 * 2 chicken breasts, skinned and cut into cubes
 * 2 heaped tablespoons butter
@@ -22,4 +17,9 @@ comments: "Modified by AW. \nA great mild curry two pan dinner for two. Serves f
  Roll chicken pieces in seasoned flour.  Melt butter in large flying pan on medium heat. Brown with butter, onion, garlic and curry powder until cooked.
 
 Add thyme, tomatoes, butternut, currants and brown sugar. Simmer for 20 minutes.  Add broccoli and simmer for a further 10 minutes. Serve over cooked plain jasmine or basmati rice.
+
+Comments: Modified by AW. 
+A great mild curry two pan dinner for two. Serves four with accompanying dishes like naan breads and Indian condiments like chutneys, cucumbers in yogurt, sliced bananas, nuts  etc.
+
+Double or triple recipe for more servings.
 

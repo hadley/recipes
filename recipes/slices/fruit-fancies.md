@@ -1,9 +1,6 @@
----
-name: Fruit fancies
-source: Rally cook book, page 69
-cookTime: '60'
-preparationTime: '0'
----
+# Fruit fancies
+From: Rally cook book, page 69
+Time: 60 minutes
 
 * 6oz flour
 * 1 t baking powder

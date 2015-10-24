@@ -1,7 +1,5 @@
----
-name: Rock Cakes, Grandma's
-source: Notebook
----
+# Rock Cakes, Grandma's
+From: Notebook
 
 * 4oz butter
 * 6oz sugar

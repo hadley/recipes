@@ -1,7 +1,5 @@
----
-name: Potato gratin (big)
-source: Hadley and Jeff original
----
+# Potato gratin (big)
+From: Hadley and Jeff original
 
 * 2.5 lb potatoes, thinly sliced
 * 3 T butter

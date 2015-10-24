@@ -1,7 +1,5 @@
----
-name: Date Pudding
-source: Notebook
----
+# Date Pudding
+From: Notebook
 
 * 3 eggs, beaten
 * 1 c sugar

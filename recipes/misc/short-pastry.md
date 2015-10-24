@@ -1,9 +1,6 @@
----
-name: Short Pastry
-source: Edmonds Cook Book, page 60
-cookTime: '15'
-preparationTime: '0'
----
+# Short Pastry
+From: Edmonds Cook Book, page 60
+Time: 15 minutes
 
 * 225g (8oz) flour
 * 1/4 t salt

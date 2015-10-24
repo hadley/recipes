@@ -1,7 +1,5 @@
----
-name: Cheese & Carrot Squares
-source: Living Today
----
+# Cheese & Carrot Squares
+From: Living Today
 
 * 500g carrots
 * 1 onion, diced

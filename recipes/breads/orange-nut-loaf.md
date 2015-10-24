@@ -1,8 +1,5 @@
----
-name: Orange nut loaf
-source: Onslow College Cookbook, page 152
-comments: EXCELLENT
----
+# Orange nut loaf
+From: Onslow College Cookbook, page 152
 
 * 1/4 c dates, chopped
 * 2 c flour
@@ -19,4 +16,6 @@ comments: EXCELLENT
 Put the orange juice into a c and fill with boiling water.  Add the baking soda.  Pour this over the dates, raisins and butter. Mix together the flour, baking powder, salt, sugar and walnuts and add the former mixture with the beaten egg.  Vanilla essence may be added. 
 
 Bake in a loaf tin for 45 minutes at 180 C.
+
+Comments: EXCELLENT
 

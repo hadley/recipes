@@ -1,7 +1,5 @@
----
-name: Crumb Crust
-source: Notebook
----
+# Crumb Crust
+From: Notebook
 
 * 1/2 lb plain biscuits
 * 4oz butter

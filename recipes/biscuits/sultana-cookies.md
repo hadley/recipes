@@ -1,10 +1,6 @@
----
-name: sultana cookies
-source: Rally cook book, page 115
-cookTime: '60'
-preparationTime: '45'
-comments: makes heaps
----
+# Sultana cookies
+From: Rally cook book, page 115
+Time: 105 minutes
 
 * 8oz butter
 * 8oz brown sugar
@@ -17,4 +13,6 @@ comments: makes heaps
 * 8oz sultanas
 
 Cream butter and sugar.  Add honey and coconut,  Add beaten eggs, dry ingredients and sultanas.  Put in teaspoon lots on greased trays and bake at 160C for 15 minutes, until golden.
+
+Comments: makes heaps
 

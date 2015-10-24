@@ -1,7 +1,5 @@
----
-name: Special chicken casserole
-source: Onslow College Cookbook, page 75
----
+# Special chicken casserole
+From: Onslow College Cookbook, page 75
 
 * 1 chicken
 * 1 pkt mushroom soup

@@ -1,7 +1,5 @@
----
-name: Ginger Steamed Pudding
-source: Notebook
----
+# Ginger Steamed Pudding
+From: Notebook
 
 * 4oz butter
 * 2oz sugar

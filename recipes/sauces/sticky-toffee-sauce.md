@@ -1,7 +1,5 @@
----
-name: Sticky Toffee Sauce
-source: Newspaper
----
+# Sticky Toffee Sauce
+From: Newspaper
 
 * 200g brown sugar
 * 200ml cream

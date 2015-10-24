@@ -1,7 +1,5 @@
----
-name: Carrot Plum Pudding
-source: Cornell Cookbook
----
+# Carrot Plum Pudding
+From: Cornell Cookbook
 
 * 1 c flour
 * 4oz sugar

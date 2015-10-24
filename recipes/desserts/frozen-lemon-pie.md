@@ -1,7 +1,5 @@
----
-name: Frozen lemon pie
-source: Onslow College Cookbook, page 118
----
+# Frozen lemon pie
+From: Onslow College Cookbook, page 118
 
 * Base:
 * 2 c crushed malt meal wafers

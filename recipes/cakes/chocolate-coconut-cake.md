@@ -1,7 +1,5 @@
----
-name: Chocolate coconut cake
-source: Cornell Cookbook
----
+# Chocolate coconut cake
+From: Cornell Cookbook
 
 * 125g butter
 * 1 c brown sugar

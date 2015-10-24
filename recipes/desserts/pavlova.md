@@ -1,6 +1,4 @@
----
-name: Pavlova
----
+# Pavlova
 
 * 4 egg whites                
 * 1 t vinegar

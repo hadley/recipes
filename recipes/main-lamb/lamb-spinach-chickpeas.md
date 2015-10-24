@@ -1,8 +1,5 @@
----
-name: Lamb Spinach & Chickpeas
-source: Adapted from recipe in Bon Appétit  | February 1999
-comments: ''
----
+# Lamb Spinach & Chickpeas
+From: Adapted from recipe in Bon Appétit  | February 1999
 
 * 500g lamb  cut into 1-inch pieces
 * 2 cloves garlic crushed

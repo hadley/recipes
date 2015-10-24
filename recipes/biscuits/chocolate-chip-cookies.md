@@ -1,7 +1,5 @@
----
-name: Chocolate Chip Cookies
-source: Cornell Cookbook
----
+# Chocolate Chip Cookies
+From: Cornell Cookbook
 
 * 125g butter
 * 1/2 c brown sugar

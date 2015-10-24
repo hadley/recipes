@@ -1,10 +1,6 @@
----
-name: caramel sultana square
-source: Rally cook book, page 64
-cookTime: '30'
-preparationTime: '20'
-comments: yummy
----
+# Caramel sultana square
+From: Rally cook book, page 64
+Time: 50 minutes
 
 * 4oz butter
 * 4oz sugar
@@ -21,4 +17,6 @@ comments: yummy
 Cream butter and sugar, add egg, then dry ingredients.  Divide shortcake in two.  Press one half into tin.
 
 Melt butter, sweetened condensed milk, syrup and sugar and pour over base.  Sprinkle with sultanas and cover with remaining mixture.  Bake at 180C for 20-30 minutes.
+
+Comments: yummy
 

@@ -1,7 +1,5 @@
----
-name: Banana Cake 1
-source: Newspaper
----
+# Banana Cake 1
+From: Newspaper
 
 * 125g butter
 * 1/2 c sugar

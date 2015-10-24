@@ -1,8 +1,5 @@
----
-name: Afghans
-source: Edmonds Cookbook, NZ.
-comments: A delicious special treat.
----
+# Afghans
+From: Edmonds Cookbook, NZ.
 
 * 7oz (200g) butter
 * 3oz (75g) sugar
@@ -28,4 +25,6 @@ About 1 cup of walnut halves
 Melt butter and stir in cocoa & vanilla.  Add icing sugar and enough milk to make a thick paste.  Mix well adding more milk or icing sugar as necessary.  
 
 When cookies are cold spread on top of each cookie generously and top with a walnut half.
+
+Comments: A delicious special treat.
 

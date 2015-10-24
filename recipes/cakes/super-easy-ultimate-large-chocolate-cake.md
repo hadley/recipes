@@ -1,11 +1,5 @@
----
-name: Super Easy Ultimate Large Chocolate Cake
-source: Annabel Langbein - New Zealand super-cook
-comments: |-
-  Large and fabulously moist and delicious.  See how to make it here:
-  http://www.youtube.com/user/annabellangbein?blend=3&ob=5#p/u/0/E5fdrbfdtbg
-  Lovely to watch too!
----
+# Super Easy Ultimate Large Chocolate Cake
+From: Annabel Langbein - New Zealand super-cook
 
 * 3 cups self raising flour
 * 2 cups sugar
@@ -20,4 +14,8 @@ comments: |-
 * Place all ingredients except coffee in a large bowl.  Add hot coffee and beat with wooden spoon or beater until smooth and lump free.  Pour into tin/s and bake at 160C for 60 minutes.
 
 
+
+Comments: Large and fabulously moist and delicious.  See how to make it here:
+http://www.youtube.com/user/annabellangbein?blend=3&ob=5#p/u/0/E5fdrbfdtbg
+Lovely to watch too!
 

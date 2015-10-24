@@ -1,9 +1,6 @@
----
-name: Pasta & Beef Savoury
-source: Kid's Cookbook, page 58
-cookTime: '40'
-preparationTime: '20'
----
+# Pasta & Beef Savoury
+From: Kid's Cookbook, page 58
+Time: 60 minutes
 
 * 1 T oil
 * 1 onion, finely chopped

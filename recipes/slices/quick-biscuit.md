@@ -1,7 +1,5 @@
----
-name: Quick Biscuit
-source: Cornell Cookbook
----
+# Quick Biscuit
+From: Cornell Cookbook
 
 * 5oz butter
 * 1T golden syrup

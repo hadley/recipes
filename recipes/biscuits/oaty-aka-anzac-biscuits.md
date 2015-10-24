@@ -1,7 +1,4 @@
----
-name: Oaty (aka ANZAC) biscuits
-comments: If you like a a softer cookie take out of the oven sooner.
----
+# Oaty (aka ANZAC) biscuits
 
 * 100g butter
 * 1/4 c golden syrup
@@ -29,4 +26,6 @@ Variations:
 2.  Use all oats and no coconut for a healthier option.
 
 3.  Reduce sugar to 3/4 cup and add 1 cup raisins or mix of dried blueberries, cranberries and sultanas for delicious fruity oat cookies.
+
+Comments: If you like a a softer cookie take out of the oven sooner.
 

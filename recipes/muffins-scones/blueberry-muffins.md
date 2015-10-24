@@ -1,8 +1,6 @@
----
-name: Blueberry Muffins
-source: Mmm Muffins, page 18
-cookTime: '20'
----
+# Blueberry Muffins
+From: Mmm Muffins, page 18
+Time: 20 minutes
 
 * 1 egg
 * 3/4 c milk

@@ -1,7 +1,5 @@
----
-name: Beef Curry
-source: Brian Wickham
----
+# Beef Curry
+From: Brian Wickham
 
 * 1.5 kg blade or topside steak
 * 2 large carrots

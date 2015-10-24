@@ -1,7 +1,5 @@
----
-name: 'Date loaf '
-source: Cornell Cookbook
----
+# Date loaf 
+From: Cornell Cookbook
 
 * 2 c water
 * 1 c dried fruit - raisins or dates etc 

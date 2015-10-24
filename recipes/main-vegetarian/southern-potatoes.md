@@ -1,7 +1,5 @@
----
-name: Southern potatoes
-source: From Susannah Koontz Webb
----
+# Southern potatoes
+From: From Susannah Koontz Webb
 
 * 4 pounds red potatoes
 * 6 bacon slices

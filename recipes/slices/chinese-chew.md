@@ -1,10 +1,6 @@
----
-name: Chinese chew
-source: Rally cook book, page 65
-cookTime: '30'
-preparationTime: '20'
-comments: very nice
----
+# Chinese chew
+From: Rally cook book, page 65
+Time: 50 minutes
 
 * 4oz butter
 * 1 D golden syrup
@@ -16,4 +12,6 @@ comments: very nice
 * 1 c coconut
 
 Melt butter and golden syrup.  Cool and add egg.  Add remaining ingredients and press into sponge roll tin.  Bake at 150C for 30 minutes.  Cut while warm.
+
+Comments: very nice
 

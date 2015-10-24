@@ -1,7 +1,5 @@
----
-name: French Onion Soup
-source: Kid's Microwave Cookbook, page 20
----
+# French Onion Soup
+From: Kid's Microwave Cookbook, page 20
 
 * 3 onions
 * 1 T brown sugar

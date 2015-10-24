@@ -1,7 +1,5 @@
----
-name: Play Dough
-source: Rally cook book, page 159
----
+# Play Dough
+From: Rally cook book, page 159
 
 * 2 c flour
 * 1 c salt

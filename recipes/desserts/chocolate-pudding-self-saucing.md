@@ -1,9 +1,6 @@
----
-name: chocolate pudding, self-saucing
-source: NZ Microwave Cookbook, page 83
-cookTime: '12'
-preparationTime: '15'
----
+# Chocolate pudding, self-saucing
+From: NZ Microwave Cookbook, page 83
+Time: 27 minutes
 
 * 1 c self-raising flour
 * pinch salt

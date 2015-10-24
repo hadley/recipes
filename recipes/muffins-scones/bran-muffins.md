@@ -1,7 +1,5 @@
----
-name: Bran Muffins
-source: Notebook
----
+# Bran Muffins
+From: Notebook
 
 * 1 heaped c bran
 * 1 c milk

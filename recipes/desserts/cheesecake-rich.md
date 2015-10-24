@@ -1,8 +1,5 @@
----
-name: Cheesecake, rich
-source: Cornell Cookbook
-comments: EXCELLENT
----
+# Cheesecake, rich
+From: Cornell Cookbook
 
 * CRUST:
 * 1/2 c flour
@@ -27,4 +24,6 @@ Soften cream cheese in a warm room or in a microwave oven (each carton warms in 
 Pour onto the partially cooked base.  Bake at 200 C for 15 minutes, then at 150 C for 45-60 minutes, until a pointed knife inserted in the middle comes out clean.
 
 Leave to stand for 30 minutes then run a sharp knife around the sides of the tin and remove leaving the cheesecake sitting on the base of the tin.
+
+Comments: EXCELLENT
 

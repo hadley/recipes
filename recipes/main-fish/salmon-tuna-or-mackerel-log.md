@@ -1,7 +1,5 @@
----
-name: Salmon, Tuna or Mackerel Log
-source: Cornell Cookbook
----
+# Salmon, Tuna or Mackerel Log
+From: Cornell Cookbook
 
 * 1 tin of salmon, tuna or mackerel
 * 8oz soft cream cheese

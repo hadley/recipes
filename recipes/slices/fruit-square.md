@@ -1,6 +1,4 @@
----
-name: Fruit Square
----
+# Fruit Square
 
 * 6oz butter
 * 4oz sugar

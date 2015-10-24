@@ -1,10 +1,6 @@
----
-name: Apple and walnut crisp
-source: NZ Microwave Cookbook, page 83
-cookTime: '12'
-preparationTime: '20'
-comments: Excellent
----
+# Apple and walnut crisp
+From: NZ Microwave Cookbook, page 83
+Time: 32 minutes
 
 * 1 t cinnamon
 * 1 1/2 c wholemeal flour
@@ -28,4 +24,6 @@ comments: Excellent
 3.  Thinly slice apples.  Press half the flour mixture into a dish approx. 34 x 18 cm.  Top with sliced apple, lemon rind, second measure brown sugar and sultanas.  Sprinkle with remaining flour mix.
 
 4.  Micro-cook, uncovered, medium power, 8-11 minutes. or until top is fairly dry.  (25 minutes. at 180C).
+
+Comments: Excellent
 

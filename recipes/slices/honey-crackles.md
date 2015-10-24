@@ -1,7 +1,5 @@
----
-name: Honey Crackles
-source: Notebook
----
+# Honey Crackles
+From: Notebook
 
 * 4oz butter
 * 4oz brown sugar

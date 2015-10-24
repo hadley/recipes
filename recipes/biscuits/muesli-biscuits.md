@@ -1,10 +1,6 @@
----
-name: Muesli biscuits
-source: Rally cook book, page 114
-cookTime: '15'
-preparationTime: '0'
-comments: very good
----
+# Muesli biscuits
+From: Rally cook book, page 114
+Time: 15 minutes
 
 * 4oz butter
 * 3/4 c flour
@@ -16,4 +12,6 @@ comments: very good
 * 1 c muesli
 
 Cream butter and sugar.  Add vanilla and egg, then add sifted flour and baking powder.  Fold in coconut and muesli. Put on greased trays and flatten with a fork.  Bake at 180C for 15 minutes.
+
+Comments: very good
 

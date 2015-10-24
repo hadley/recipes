@@ -1,9 +1,6 @@
----
-name: Date, Honey and Oat Slice
-source: newspaper
-cookTime: '15'
-preparationTime: '10'
----
+# Date, Honey and Oat Slice
+From: newspaper
+Time: 25 minutes
 
 * 100g butter
 * 1 T honey

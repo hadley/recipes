@@ -1,9 +1,6 @@
----
-name: sultana cake
-source: Rally cook book, page 54
-cookTime: '70'
-preparationTime: '20'
----
+# Sultana cake
+From: Rally cook book, page 54
+Time: 90 minutes
 
 * 1 lb sultanas
 * 8oz butter

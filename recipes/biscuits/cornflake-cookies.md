@@ -1,7 +1,5 @@
----
-name: Cornflake Cookies
-source: Notebook
----
+# Cornflake Cookies
+From: Notebook
 
 * 125g sugar
 * 125g butter

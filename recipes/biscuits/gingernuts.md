@@ -1,7 +1,5 @@
----
-name: Gingernuts
-source: Newspaper
----
+# Gingernuts
+From: Newspaper
 
 * 100g butter
 * 1 Tablespoon golden syrup

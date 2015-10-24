@@ -1,6 +1,4 @@
----
-name: Quick oven dessert
----
+# Quick oven dessert
 
 * 1 can fruit
 * cinnamon

@@ -1,10 +1,5 @@
----
-name: Vanilla (or any other) Crisp Biscuits
-cookTime: '15'
-comments: "USA - Use a heaped teaspoon baking powder.    \n\n\nVariation by AW\nSubstitute
-  8oz flour with 1 oz cocoa, 3 oz rolled oats and 4oz flour \nAdd chopped pecans or
-  walnuts too if you like."
----
+# Vanilla (or any other) Crisp Biscuits
+Time: 15 minutes
 
 * 125g (4oz) butter
 * 175g (6oz) sugar
@@ -21,4 +16,11 @@ comments: "USA - Use a heaped teaspoon baking powder.    \n\n\nVariation by AW\n
 Cream butter, sugar and essence, add egg, then mix in dry ingredients.  Roll into balls and press with fork.  Bake 15 - 20 minutes at 160C until golden brown.  Cool on a rack.  Keep in airtight container to preserve crispness.  
 
 Makes about 32
+
+Comments: USA - Use a heaped teaspoon baking powder.    
+
+
+Variation by AW
+Substitute 8oz flour with 1 oz cocoa, 3 oz rolled oats and 4oz flour 
+Add chopped pecans or walnuts too if you like.
 

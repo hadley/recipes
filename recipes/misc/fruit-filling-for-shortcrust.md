@@ -1,7 +1,5 @@
----
-name: Fruit filling for Shortcrust
-source: Notebook
----
+# Fruit filling for Shortcrust
+From: Notebook
 
 * 4oz sultanas
 * 3 t mixed spice

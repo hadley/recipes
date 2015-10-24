@@ -1,8 +1,5 @@
----
-name: Guggy Cake
-source: Notebook
-comments: delicious!
----
+# Guggy Cake
+From: Notebook
 
 * 4oz butter
 * 2t mixed spice
@@ -14,4 +11,6 @@ comments: delicious!
 * 2t baking powder
 
 Warm all ingredients except for flour and baking powder.  Cool and add flour and baking powder.  Bake at 180C for 45 minutes.
+
+Comments: delicious!
 

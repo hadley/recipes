@@ -1,7 +1,5 @@
----
-name: Sweet & sour pork
-source: Cornell Cookbook
----
+# Sweet & sour pork
+From: Cornell Cookbook
 
 * 1.5 lb lean pork cubes
 * 1 can pineapple chunks

@@ -1,6 +1,4 @@
----
-name: Date & lemon self saucing pudding
----
+# Date & lemon self saucing pudding
 
 * 1 c self raising flour
 * 60g butter

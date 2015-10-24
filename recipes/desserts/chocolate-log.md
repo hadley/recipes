@@ -1,11 +1,5 @@
----
-name: Chocolate log
-source: Cornell Cookbook
-comments: |-
-  At Christmas fill the log with whipped cream and thawed frozen raspberries.
-
-  Ice with chocolate icing to resemble a log.
----
+# Chocolate log
+From: Cornell Cookbook
 
 * 4 eggs, separated
 * 4oz flour
@@ -20,4 +14,8 @@ Beat yolks and add sugar and beat until thick and pale.  Break chocolate into pi
 Spread into a greased and floured sponge roll tin with grease proof paper on bottom at 190C for 15 minutes.  
 
 Remove and cover with layer of damp grease proof paper then put it in the refrigerator.  Whip cream with icing sugar and brandy.  Spread onto top and roll up.
+
+Comments: At Christmas fill the log with whipped cream and thawed frozen raspberries.
+
+Ice with chocolate icing to resemble a log.
 

@@ -1,7 +1,5 @@
----
-name: Hearty Beef Casserole
-source: Family Circle - Dinner P., page 96
----
+# Hearty Beef Casserole
+From: Family Circle - Dinner P., page 96
 
 * 1.2 kg rump steak
 * 4 rashers bacon

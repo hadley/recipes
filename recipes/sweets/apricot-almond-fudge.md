@@ -1,8 +1,5 @@
----
-name: Apricot almond fudge
-source: Notebook
-comments: Microwave recipe.
----
+# Apricot almond fudge
+From: Notebook
 
 * 200g butter
 * 100g brown sugar
@@ -17,4 +14,6 @@ Place the butter, sugar and condensed milk in a large heatproof microwave bowl a
 Remove from the microwave and mix in all other ingredients.  Press the mixture into a sponge roll tin and chill for about 20 minutes before icing.  
 
 To ice combine 50g soft butter and 300g icing sugar with enough water to make a spreadable icing.  Mix in 1 teaspoon of vanilla and a dash of almond essence.  Spread over the slice and dot with sliced toasted almonds.  Chill until icing has set then cut into bite sized squares.
+
+Comments: Microwave recipe.
 

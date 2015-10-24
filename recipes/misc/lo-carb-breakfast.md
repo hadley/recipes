@@ -1,6 +1,4 @@
----
-name: Lo Carb breakfast
----
+# Lo Carb breakfast
 
 * SCRAMBLED EGGS & CHEESE FOR TWO
 * 3 eggs

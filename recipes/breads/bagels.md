@@ -1,6 +1,4 @@
----
-name: Bagels
----
+# Bagels
 
 * 1lb strong white flour
 * 1 T brown sugar

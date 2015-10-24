@@ -1,6 +1,4 @@
----
-name: Pumpkin with curry spices & coconut milk
----
+# Pumpkin with curry spices & coconut milk
 
 * 3 T oil (not olive)
 * About 850g mixed pumpkin pieces peeled - leave skin on soft types eg butternut

@@ -1,7 +1,5 @@
----
-name: Cupcakes
-source: Hummingbird bakery (NZ version)
----
+# Cupcakes
+From: Hummingbird bakery (NZ version)
 
 * 120g flour
 * 140g caster sugar

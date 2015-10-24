@@ -1,7 +1,5 @@
----
-name: Brownies
-source: Cornell Cookbook
----
+# Brownies
+From: Cornell Cookbook
 
 * 1 1/2 cups sugar
 * 90gm butter or margarine 

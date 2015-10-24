@@ -1,7 +1,5 @@
----
-name: Shortcake
-source: Onslow College Cookbook, page 158
----
+# Shortcake
+From: Onslow College Cookbook, page 158
 
 * 4 oz butter
 * 4 oz sugar

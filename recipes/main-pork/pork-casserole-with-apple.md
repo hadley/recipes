@@ -1,8 +1,5 @@
----
-name: Pork Casserole with apple
-source: WW
-comments: Very easy and tasty.
----
+# Pork Casserole with apple
+From: WW
 
 * 600g lean diced pork
 * 25g flour
@@ -20,4 +17,6 @@ Brown apples and vegetables in pan and then transfer to casserole dish.
 Cover with hot stock and a lid and cook for 1 hour at 180C or 350 F.
 
 Serve with mashed or baked potatoes and a green vegetable.
+
+Comments: Very easy and tasty.
 

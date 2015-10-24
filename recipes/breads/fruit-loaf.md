@@ -1,8 +1,6 @@
----
-name: Fruit loaf
-source: Onslow College Cookbook, page 148
-cookTime: '60'
----
+# Fruit loaf
+From: Onslow College Cookbook, page 148
+Time: 60 minutes
 
 * 1/2 lb dates
 * 2 eggs

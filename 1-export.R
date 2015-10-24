@@ -9,17 +9,33 @@ invisible(lapply(paths[!file.exists(paths)], dir.create))
 
 if (!exists("recipes")) {
   recipes <- readRDS("recipes.rds") %>%
-    mutate(category = ifelse(is.na(category), "Miscellaneous", category)) %>% 
+    tidyr::replace_na(list(category = "Miscellaneous")) %>% 
     left_join(categories) %>% 
     mutate(updated_on = parse_datetime(updated_on))
 }
 
 trim <- function(x) {
+  if (!is.character(x)) {
+    return(x)
+  }
+   
   x <- gsub("\r", "", x)
   x <- gsub("^\n+", "", x)
   x <- gsub("\n+$", "", x)
+  
+  if (identical(x, "") || identical(x, NA_character_)) character() else x
+}
+
+fix_name <- function(x) {
+  if (x != toupper(x) && x != tolower(x)) {
+    return(x)
+  }
+  
+  x <- tolower(x)
+  substring(x, 1, 1) <- toupper(substring(x, 1, 1))
   x
 }
+
 
 bullets <- function(x) {
   lines <- strsplit(x, "\n")[[1]]
@@ -27,30 +43,25 @@ bullets <- function(x) {
   paste0("* ", lines, collapse = "\n")
 }
 
+`%?%` <- function(x, y) if (length(x) > 0) y
+`%||%` <- function(x, y) if (length(x) > 0) x else y
+
 save_recipe <- function(recipe) {
-  meta <- unlist(recipe[c("name", "source", "cookTime", "preparationTime", "comments")])
-  meta <- meta[!is.na(meta) & meta != ""]
-  meta <- lapply(meta, trim)
-  
-  if (meta$name == toupper(meta$name)) {
-    meta$name <- tolower(meta$name)
-    substring(meta$name, 1, 1) <- toupper(substring(meta$name, 1, 1))
-  }
-  
-  if (length(meta) > 0) {
-    meta_yaml <- as.yaml(as.list(meta))
-  } else {
-    meta_yaml <- "\n"
-  }
+  recipe <- lapply(recipe, trim)
+
+  time <- sum(recipe$cookTime, recipe$preparationTime, na.rm = TRUE)
   
   out <- paste0(
-    "---\n",
-    meta_yaml,
-    "---\n\n",
-    bullets(trim(recipe$ingredients)),
+    "# ", fix_name(recipe$name), "\n",
+    recipe$source %?% paste0("From: ", recipe$source, "\n"),
+    if (time > 0) paste0("Time: ", time, " minutes\n"),
+    "\n",
+      
+    recipe$ingredients %?% bullets(recipe$ingredients),
     "\n\n", 
-    trim(recipe$method),
-    "\n"
+    recipe$method,
+    "\n",
+    recipe$comments %?% paste0("\nComments: ", recipe$comments, "\n")
   )
 
   path <- paste0("recipes/", recipe$path, "/", recipe$slug, ".md")

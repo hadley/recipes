@@ -1,6 +1,4 @@
----
-name: French steak
----
+# French steak
 
 * 1 T flour
 * 1 T Worcestershire sauce

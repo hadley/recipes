@@ -1,9 +1,5 @@
----
-name: Kiwi Quick Mix Scones
-source: Rally Cook Book
-comments: "Best eaten the day they are made.  Serve with butter.\n\nUSA - if they
-  don't rise as much as they should, try increasing baking powder quantity. "
----
+# Kiwi Quick Mix Scones
+From: Rally Cook Book
 
 * 1 1/2 cups plain flour
 * 1/4 teaspoon salt
@@ -28,4 +24,8 @@ Pour wet ingredients into the dry.  Mix quickly and lightly with a spoon.  Mix s
 Pat out into a rectangle on a lightly floured counter and cut into shapes - 8-10.
 
 Brush tops with milk and bake immediately in a hot oven for 10 minutes.
+
+Comments: Best eaten the day they are made.  Serve with butter.
+
+USA - if they don't rise as much as they should, try increasing baking powder quantity. 
 

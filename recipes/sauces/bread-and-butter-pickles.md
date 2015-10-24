@@ -1,7 +1,5 @@
----
-name: Bread and butter pickles
-source: Alison Holst Calendar
----
+# Bread and butter pickles
+From: Alison Holst Calendar
 
 * 2 L sliced cucumbers
 * 1/2 - 1 L sliced onion

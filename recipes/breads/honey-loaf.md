@@ -1,10 +1,6 @@
----
-name: honey loaf
-source: Rally cook book, page 29
-cookTime: '60'
-preparationTime: '15'
-comments: OK
----
+# Honey loaf
+From: Rally cook book, page 29
+Time: 75 minutes
 
 * 8oz flour
 * 4oz sugar
@@ -14,4 +10,6 @@ comments: OK
 * 2 T honey
 
 Mix flour, sugar and baking powder.  Add the boiling water with honey and soda dissolved in it.  Pour into greased tin and bake at 180C for 1 hour.
+
+Comments: OK
 

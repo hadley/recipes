@@ -1,8 +1,6 @@
----
-name: Iced Caramel Shortcake
-source: Onslow College Cookbook, page 144
-cookTime: '30'
----
+# Iced Caramel Shortcake
+From: Onslow College Cookbook, page 144
+Time: 30 minutes
 
 * 6 oz butter
 * 1 t baking powder

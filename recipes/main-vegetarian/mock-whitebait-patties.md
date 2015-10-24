@@ -1,7 +1,5 @@
----
-name: Mock Whitebait Patties
-source: Edmonds Cook Book, page 85
----
+# Mock Whitebait Patties
+From: Edmonds Cook Book, page 85
 
 * 1 egg
 * 2 1/2 T flour

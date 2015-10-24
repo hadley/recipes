@@ -1,8 +1,6 @@
----
-name: Fudge Cake
-source: Onslow College Cookbook, page 139
-cookTime: '20'
----
+# Fudge Cake
+From: Onslow College Cookbook, page 139
+Time: 20 minutes
 
 * 4 oz butter
 * 3 oz sugar

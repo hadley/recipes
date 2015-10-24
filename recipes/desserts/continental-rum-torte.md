@@ -1,8 +1,6 @@
----
-name: Continental Rum Torte
-source: Onslow College Cookbook, page 104
-cookTime: '30'
----
+# Continental Rum Torte
+From: Onslow College Cookbook, page 104
+Time: 30 minutes
 
 * CAKE:
 * 3 eggs, separated

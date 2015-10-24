@@ -1,7 +1,5 @@
----
-name: Pie dough
-source: Well done cooking
----
+# Pie dough
+From: Well done cooking
 
 * 1 lb butter
 * 1 lb 5 oz pastry flour

@@ -1,7 +1,5 @@
----
-name: Creamy kumara (sweet potato) salad
-source: The vegie cookbook, page 60
----
+# Creamy kumara (sweet potato) salad
+From: The vegie cookbook, page 60
 
 * 2 large kumara or sweet potatoes
 * 1/4 c raisins

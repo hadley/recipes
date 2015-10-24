@@ -1,7 +1,5 @@
----
-name: Peanut butter rice krispie treats
-source: Adapted from http://www.marthastewart.com/343255/no-bake-peanut-butter-rice-krispies-cook
----
+# Peanut butter rice krispie treats
+From: Adapted from http://www.marthastewart.com/343255/no-bake-peanut-butter-rice-krispies-cook
 
 * 1/2 c water
 * 1 c sugar

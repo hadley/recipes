@@ -1,7 +1,5 @@
----
-name: Cowboy Squares
-source: Cornell Cookbook
----
+# Cowboy Squares
+From: Cornell Cookbook
 
 * 100g butter
 * 100g sugar

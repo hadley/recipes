@@ -1,7 +1,5 @@
----
-name: Smoked Fish Quiche
-source: Cornell Cookbook
----
+# Smoked Fish Quiche
+From: Cornell Cookbook
 
 * 175g shortcrust pastry
 * 50g butter

@@ -1,8 +1,6 @@
----
-name: Mince and macaroni pie
-source: Alison Holst Family Cookbook, page 50
-cookTime: '45'
----
+# Mince and macaroni pie
+From: Alison Holst Family Cookbook, page 50
+Time: 45 minutes
 
 * 1 cup cooked macaroni
 * 350g mince

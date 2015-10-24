@@ -1,7 +1,5 @@
----
-name: Almond creams
-source: Cornell Cookbook
----
+# Almond creams
+From: Cornell Cookbook
 
 * 6oz (175g) butter
 * 3/4 c icing sugar

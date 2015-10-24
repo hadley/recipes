@@ -1,8 +1,6 @@
----
-name: Cinnamon Chocolate Fingers
-source: Onslow College Cookbook, page 142
-cookTime: '10'
----
+# Cinnamon Chocolate Fingers
+From: Onslow College Cookbook, page 142
+Time: 10 minutes
 
 * 4 oz sugar
 * 4 oz butter

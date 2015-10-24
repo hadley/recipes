@@ -1,7 +1,5 @@
----
-name: Quick Mix Apple cake or Muffins
-source: Cornell Cookbook
----
+# Quick Mix Apple cake or Muffins
+From: Cornell Cookbook
 
 * 2 cooking apples
 * 1 c sugar

@@ -1,7 +1,5 @@
----
-name: Chicken Cheese Chowder
-source: Onslow College Cookbook, page 16
----
+# Chicken Cheese Chowder
+From: Onslow College Cookbook, page 16
 
 * 4 T butter
 * 1 cup grated carrot

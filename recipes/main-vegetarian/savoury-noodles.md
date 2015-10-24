@@ -1,7 +1,5 @@
----
-name: Savoury Noodles
-source: Notebook
----
+# Savoury Noodles
+From: Notebook
 
 * 1 1/2 c macaroni
 * 2 T butter

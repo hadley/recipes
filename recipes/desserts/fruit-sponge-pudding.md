@@ -1,8 +1,6 @@
----
-name: Fruit Sponge Pudding
-source: Edmonds Cook Book, page 119
-cookTime: '45'
----
+# Fruit Sponge Pudding
+From: Edmonds Cook Book, page 119
+Time: 45 minutes
 
 * Stewed fruit
 * SPONGE TOP:

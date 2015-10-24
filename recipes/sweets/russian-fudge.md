@@ -1,10 +1,5 @@
----
-name: Russian Fudge
-source: Rally cook book, page 204
-cookTime: '0'
-preparationTime: '0'
-comments: Very similar to Mella's West Cork Fudge.
----
+# Russian Fudge
+From: Rally cook book, page 204
 
 * 1/2 cup milk
 * 3 cup sugar
@@ -22,4 +17,6 @@ Cool for a few minutes in a sink of cold water , then beat with a wooden spoon o
 Vanilla and nuts may be added if desired, prior to beating.
 
 Keep in an airtight container.
+
+Comments: Very similar to Mella's West Cork Fudge.
 

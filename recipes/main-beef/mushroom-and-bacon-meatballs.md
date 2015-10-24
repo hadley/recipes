@@ -1,6 +1,4 @@
----
-name: Mushroom and bacon meatballs
----
+# Mushroom and bacon meatballs
 
 * 500g mince
 * 1 T Worcestershire sauce

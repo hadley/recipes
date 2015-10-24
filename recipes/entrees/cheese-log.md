@@ -1,6 +1,4 @@
----
-name: Cheese log
----
+# Cheese log
 
 * 4 c grated cheese
 * 4 T ham, chopped

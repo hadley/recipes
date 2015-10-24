@@ -1,8 +1,6 @@
----
-name: Peach Muffins
-source: MMM Muffins, page 49
-cookTime: '20'
----
+# Peach Muffins
+From: MMM Muffins, page 49
+Time: 20 minutes
 
 * 1 c peaches, skinned & chopped
 * 1/2 t cinnamon

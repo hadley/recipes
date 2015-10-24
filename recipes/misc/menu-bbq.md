@@ -1,6 +1,4 @@
----
-name: 'Menu: BBQ'
----
+# Menu: BBQ
 
 * Vegetables Mediterranean Style
 * Korean Sesame Chicken 

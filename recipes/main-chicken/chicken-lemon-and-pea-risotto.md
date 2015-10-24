@@ -1,7 +1,5 @@
----
-name: Chicken, lemon and pea risotto
-source: Ben
----
+# Chicken, lemon and pea risotto
+From: Ben
 
 * Olive oil
 * 1 Large onion, chopped

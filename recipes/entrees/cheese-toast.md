@@ -1,10 +1,6 @@
----
-name: Cheese toast
-source: Kid's Cookbook, page 14
-cookTime: '10'
-preparationTime: '10'
-comments: Delicious
----
+# Cheese toast
+From: Kid's Cookbook, page 14
+Time: 20 minutes
 
 * 1 egg
 * 1 c cheese, grated
@@ -15,4 +11,6 @@ comments: Delicious
 * 6 thick slices wholegrain bread
 
 Mix together all ingredients, stir well.  Grill bread on one side.  Spread cheese mixture on other side.  Grill until cheese is melted and bubbly.
+
+Comments: Delicious
 

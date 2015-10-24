@@ -1,8 +1,5 @@
----
-name: Corn Fritters
-source: Meals Without Meat A & S Holst
-comments: For a tasty and quick meal at short notice.
----
+# Corn Fritters
+From: Meals Without Meat A & S Holst
 
 * For 2 large servings
 * 1 egg
@@ -15,4 +12,6 @@ Heat about 1 cm deep of canola oil in a frypan on medium heat.
 Put egg and liquid in a bowl and mix lightly.  Stir in the corn then add flour. Mix until flour is just moistened. Do not over mix (important).
 
 Put teaspoonfuls of mix into hot oil and fry until golden brown on bottom.  Turn and cook on other side.  Drain on paper towels.  Serve hot.
+
+Comments: For a tasty and quick meal at short notice.
 

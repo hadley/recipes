@@ -1,7 +1,5 @@
----
-name: Chicken liver pate
-source: Onslow College Cookbook, page 5
----
+# Chicken liver pate
+From: Onslow College Cookbook, page 5
 
 * 1 lb chicken livers
 * 1 clove garlic, crushed

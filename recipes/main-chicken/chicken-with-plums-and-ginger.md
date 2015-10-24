@@ -1,7 +1,4 @@
----
-name: Chicken with plums and ginger
-comments: Sauce can be made the day before and refrigerated until needed.
----
+# Chicken with plums and ginger
 
 * 6 chicken breasts
 * spray canola oil
@@ -24,4 +21,6 @@ comments: Sauce can be made the day before and refrigerated until needed.
 * Serve with rice, salad or roast vegetables.
 
 
+
+Comments: Sauce can be made the day before and refrigerated until needed.
 

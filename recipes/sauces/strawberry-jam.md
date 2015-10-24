@@ -1,7 +1,5 @@
----
-name: Strawberry Jam
-source: Alison Holst Calendar
----
+# Strawberry Jam
+From: Alison Holst Calendar
 
 * 1 kg strawberries
 * 1/4 c water

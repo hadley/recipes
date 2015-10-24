@@ -1,7 +1,5 @@
----
-name: Mexican Potato
-source: Cornell Cookbook
----
+# Mexican Potato
+From: Cornell Cookbook
 
 * 4 large red potatoes
 * 1 1/2T vegetable oil

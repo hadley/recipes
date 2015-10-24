@@ -1,7 +1,5 @@
----
-name: Cheesecake, Pineapple
-source: Notebook
----
+# Cheesecake, Pineapple
+From: Notebook
 
 * crumb crust
 * 1 D gelatine

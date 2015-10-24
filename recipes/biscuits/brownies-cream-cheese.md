@@ -1,7 +1,5 @@
----
-name: Brownies (cream cheese)
-source: http://www.joyofbaking.com/barsandsquares/CreamCheeseBrownies.html
----
+# Brownies (cream cheese)
+From: http://www.joyofbaking.com/barsandsquares/CreamCheeseBrownies.html
 
 * Brownie Layer:
 * 1/2 cup (113 grams) unsalted butter, cut into pieces

@@ -1,7 +1,5 @@
----
-name: Carrot cake 2
-source: Cornell Cookbook
----
+# Carrot cake 2
+From: Cornell Cookbook
 
 * 125g butter
 * 2 medium carrots grated

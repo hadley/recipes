@@ -1,7 +1,5 @@
----
-name: Pineapple Bavarian Cream
-source: Notebook
----
+# Pineapple Bavarian Cream
+From: Notebook
 
 * 1 pkt pineapple jelly
 * 2 c hot water

@@ -1,6 +1,4 @@
----
-name: Nut fingers
----
+# Nut fingers
 
 * 6oz butter
 * 6oz sugar

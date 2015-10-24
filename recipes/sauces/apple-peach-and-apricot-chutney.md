@@ -1,8 +1,5 @@
----
-name: Apple, peach and apricot chutney
-source: Mary H
-comments: Double recipe
----
+# Apple, peach and apricot chutney
+From: Mary H
 
 * 500g cooking apples, cored, peeled & chopped
 * 110g dried peaches
@@ -15,4 +12,6 @@ comments: Double recipe
 * 1/2 t cayenne pepper
 
 Combines all ingredients in a heavy pot and bring to boil.  Vigorously simmer for 30 minutes until thick.  Stir frequently.  Will thicken as it cools.  Pour into  clean jars.
+
+Comments: Double recipe
 

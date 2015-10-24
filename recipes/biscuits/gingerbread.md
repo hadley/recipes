@@ -1,7 +1,5 @@
----
-name: Gingerbread 2
-source: Paula
----
+# Gingerbread 2
+From: Paula
 
 * 500g brown sugar
 * 1 1/3 c golden syrup

@@ -1,7 +1,5 @@
----
-name: Plum pudding
-source: Di Cook
----
+# Plum pudding
+From: Di Cook
 
 * 6 C fine breadcrumbs
 * 1 1/2 t salt

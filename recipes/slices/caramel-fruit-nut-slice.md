@@ -1,9 +1,5 @@
----
-name: Caramel Fruit & Nut Slice
-source: Rita V
-comments: 'Rich and delicious for a special occasion. Use 2 or three types of dried
-  fruits that look colourful and combine well flavourwise.  '
----
+# Caramel Fruit & Nut Slice
+From: Rita V
 
 * 1/2 cup sugar
 * 1 cup plain flour
@@ -27,4 +23,6 @@ Cut into squares or fingers when cold.  Keeps for one week in an airtight contai
 Freezes well.  
 
 Easy to transport.
+
+Comments: Rich and delicious for a special occasion. Use 2 or three types of dried fruits that look colourful and combine well flavourwise.  
 

@@ -1,6 +1,4 @@
----
-name: Mushroom stroganoff -  july 2003
----
+# Mushroom stroganoff -  july 2003
 
 * 1 t oil
 * 4 sticks celery chopped 

@@ -1,8 +1,6 @@
----
-name: Crunchy Fruit Squares
-source: Onslow College Cookbook, page 160
-cookTime: '25'
----
+# Crunchy Fruit Squares
+From: Onslow College Cookbook, page 160
+Time: 25 minutes
 
 * 1 c thick fruit puree
 * 1/4 c brown sugar

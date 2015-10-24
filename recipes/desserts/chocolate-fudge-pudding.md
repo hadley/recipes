@@ -1,8 +1,6 @@
----
-name: Chocolate Fudge Pudding
-source: Onslow College Cookbook, page 101
-cookTime: '60'
----
+# Chocolate Fudge Pudding
+From: Onslow College Cookbook, page 101
+Time: 60 minutes
 
 * 1 c flour
 * 1 t baking powder

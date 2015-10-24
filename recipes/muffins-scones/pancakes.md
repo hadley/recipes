@@ -1,8 +1,5 @@
----
-name: Pancakes
-source: Ratio, Michael Ruhlman
-comments: Best pancake recipe yet
----
+# Pancakes
+From: Ratio, Michael Ruhlman
 
 * 8 oz milk
 * 2 large eggs
@@ -14,4 +11,6 @@ comments: Best pancake recipe yet
 * 1 t salt
 
 Mix well wet with dry.
+
+Comments: Best pancake recipe yet
 

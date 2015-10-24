@@ -1,7 +1,5 @@
----
-name: Kisses
-source: Notebook
----
+# Kisses
+From: Notebook
 
 * 4oz butter
 * 4oz sugar

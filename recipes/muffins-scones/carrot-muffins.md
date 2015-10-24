@@ -1,8 +1,6 @@
----
-name: Carrot Muffins
-source: MMM Muffins, page 23
-cookTime: '15'
----
+# Carrot Muffins
+From: MMM Muffins, page 23
+Time: 15 minutes
 
 * 1 c milk
 * 1 egg

@@ -1,8 +1,6 @@
----
-name: Nutty Fingers
-source: Onslow College Cookbook, page 143
-cookTime: '20'
----
+# Nutty Fingers
+From: Onslow College Cookbook, page 143
+Time: 20 minutes
 
 * 1 c coconut
 * 3/4 c brown sugar

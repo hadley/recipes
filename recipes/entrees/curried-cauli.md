@@ -1,7 +1,5 @@
----
-name: Curried Cauli
-source: The vegie cookbook, page 53
----
+# Curried Cauli
+From: The vegie cookbook, page 53
 
 * 1 small cauliflower, cut into florets
 * 1 T oil

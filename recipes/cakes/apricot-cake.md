@@ -1,6 +1,4 @@
----
-name: Apricot cake
----
+# Apricot cake
 
 * 1 c dried apricots
 * 1 c boiling water

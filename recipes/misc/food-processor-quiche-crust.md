@@ -1,9 +1,4 @@
----
-name: Food processor quiche crust
-comments: |-
-  From A Holst.
-  Meals without meat.1997
----
+# Food processor quiche crust
 
 * Use metal cutting bade of food processor.
 * Place 1 cup wholemeal flour in it and add 70gms cold butter cubed.  DO NOT mix yet.
@@ -14,4 +9,7 @@ comments: |-
 * Cook at 220 C for about 30 mins. 
 
 
+
+Comments: From A Holst.
+Meals without meat.1997
 

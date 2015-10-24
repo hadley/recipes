@@ -1,7 +1,5 @@
----
-name: Coconut kisses
-source: Cornell Cookbook
----
+# Coconut kisses
+From: Cornell Cookbook
 
 * 3oz butter
 * 2 T hot water

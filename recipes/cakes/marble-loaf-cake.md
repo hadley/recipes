@@ -1,6 +1,4 @@
----
-name: Marble loaf cake
----
+# Marble loaf cake
 
 * 150g butter
 * 1 1/2 c sugar

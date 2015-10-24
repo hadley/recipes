@@ -1,9 +1,4 @@
----
-name: Greek Roast Lamb
-comments: |-
-  Tender and delicious.
-  WW 5 points per serve of 125g meat per person.
----
+# Greek Roast Lamb
 
 * Small boned leg lamb ( ~1kg)
 * 1 head garlic divided into cloves but unpeeled
@@ -24,4 +19,7 @@ Remove from oven and reduce temperature to 140C.
 Skim  off fat.  Squeeze garlic from 4 cloves and spread on top of lamb. (Remove other cloves to use some other time.) 
 
 Mix together vegetables and place around lamb. Make an airtight tent over the pan with foil and return to bake for  a further 1 1/2 hours.  Alternatively place all in a large covered casserole dish.
+
+Comments: Tender and delicious.
+WW 5 points per serve of 125g meat per person.
 

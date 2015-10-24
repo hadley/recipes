@@ -1,7 +1,5 @@
----
-name: Macaroni cheese
-source: Weight Watchers Microwave, page 82
----
+# Macaroni cheese
+From: Weight Watchers Microwave, page 82
 
 * 6 teaspoons (30g) margarine
 * 6 teaspoons plain flour

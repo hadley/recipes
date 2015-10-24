@@ -1,7 +1,5 @@
----
-name: Granola
-source: Notebook, page 14
----
+# Granola
+From: Notebook, page 14
 
 * 1/4 c oil
 * 1 T honey

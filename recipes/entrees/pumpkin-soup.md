@@ -1,6 +1,4 @@
----
-name: Pumpkin soup
----
+# Pumpkin soup
 
 * 2 large onions
 * clove crushed garlic

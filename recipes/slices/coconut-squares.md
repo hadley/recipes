@@ -1,8 +1,5 @@
----
-name: Coconut squares
-source: Onslow College Cookbook, page 138
-comments: VERY GOOD
----
+# Coconut squares
+From: Onslow College Cookbook, page 138
 
 * 4oz butter
 * 1/2 c of sugar
@@ -25,4 +22,6 @@ Bake 180C for 20-25 minutes.
 Icing:
 
 Warm condensed milk and butter in a saucepan over low heat.  Blend in icing sugar, then coconut and lastly the cocoa.  Mix well and spread on cake while hot.  Cut into squares when it has cooled a little.
+
+Comments: VERY GOOD
 

@@ -1,9 +1,6 @@
----
-name: savoury mince
-source: NZ Microwave Cookbook, page 66
-cookTime: '22'
-preparationTime: '15'
----
+# Savoury mince
+From: NZ Microwave Cookbook, page 66
+Time: 37 minutes
 
 * 1 stick celery
 * 1 onion

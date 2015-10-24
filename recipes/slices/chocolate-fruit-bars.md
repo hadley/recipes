@@ -1,7 +1,5 @@
----
-name: Chocolate Fruit Bars
-source: Notebook
----
+# Chocolate Fruit Bars
+From: Notebook
 
 * 6oz flour
 * 4oz butter

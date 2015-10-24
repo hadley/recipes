@@ -1,7 +1,5 @@
----
-name: Kiwi biscuits
-source: Cornell Cookbook
----
+# Kiwi biscuits
+From: Cornell Cookbook
 
 * 4oz butter
 * 2oz sugar

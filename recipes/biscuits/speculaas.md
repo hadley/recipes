@@ -1,10 +1,6 @@
----
-name: Speculaas
-source: Rally cook book, page 20
-cookTime: '15'
-preparationTime: '0'
-comments: A Dutch thin crisp spicy biscuit.
----
+# Speculaas
+From: Rally cook book, page 20
+Time: 15 minutes
 
 * 8oz butter
 * 8oz brown sugar
@@ -19,4 +15,6 @@ comments: A Dutch thin crisp spicy biscuit.
 Cream butter and sugar, add beaten eggs and almond essence.  Then add sifted dry ingredients.  Shape in log and place in fridge.  Slice when cool.  Bake at 180C for  15 minutes.
 
 Can also roll out dough and cut into shapes for Christmas.
+
+Comments: A Dutch thin crisp spicy biscuit.
 

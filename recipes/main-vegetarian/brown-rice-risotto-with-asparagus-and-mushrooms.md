@@ -1,7 +1,5 @@
----
-name: Brown Rice Risotto with Asparagus and Mushrooms
-source: http://homecooking.about.com/library/archive/blv79.htm
----
+# Brown Rice Risotto with Asparagus and Mushrooms
+From: http://homecooking.about.com/library/archive/blv79.htm
 
 * 1 large shallot, minced
 * 1 cup mushrooms, chopped

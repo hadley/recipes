@@ -1,7 +1,5 @@
----
-name: Korean sesame steaks
-source: Meat International
----
+# Korean sesame steaks
+From: Meat International
 
 * 4 Rib eye steaks or 500g skirt steak cut across grain in thin slice, or pork loin, chicken or lamb
 * 2 T soy sauce

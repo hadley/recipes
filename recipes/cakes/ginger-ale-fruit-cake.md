@@ -1,7 +1,5 @@
----
-name: Ginger Ale Fruit Cake
-source: Notebook
----
+# Ginger Ale Fruit Cake
+From: Notebook
 
 * 300ml ginger ale
 * 1/2 lb sultanas

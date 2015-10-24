@@ -1,7 +1,5 @@
----
-name: Caramel Bananas
-source: Onslow College Cookbook, page 96
----
+# Caramel Bananas
+From: Onslow College Cookbook, page 96
 
 * 1 T butter
 * 1 T brown sugar

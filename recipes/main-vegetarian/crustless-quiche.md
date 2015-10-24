@@ -1,6 +1,4 @@
----
-name: Crustless quiche
----
+# Crustless quiche
 
 * 1 large onion
 * 2 cloves garlic

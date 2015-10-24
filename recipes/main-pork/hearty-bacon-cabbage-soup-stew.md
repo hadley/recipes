@@ -1,8 +1,5 @@
----
-name: Hearty bacon & cabbage soup/stew
-source: Alison Wickham
-comments: Satisfying and tasty for a cold night. Looks colourful and tastes great.
----
+# Hearty bacon & cabbage soup/stew
+From: Alison Wickham
 
 * 250g lean bacon 
 * 2 leeks or 1 large onion - sliced finely
@@ -31,4 +28,6 @@ Variations.
 Any cold left over sausages or salami can also be sliced and added towards the end of cooking time or even substituted for some of the bacon..
 
 Stretch to feed four by adding a can of baked beans in tomato sauce.
+
+Comments: Satisfying and tasty for a cold night. Looks colourful and tastes great.
 

@@ -1,6 +1,4 @@
----
-name: Rhubarb & Orange Cake or Pudding
----
+# Rhubarb & Orange Cake or Pudding
 
 * 100g butter
 * ½ cup white sugar

@@ -1,7 +1,5 @@
----
-name: Lemon Butter
-source: Kid's Microwave Cookbook, page 100
----
+# Lemon Butter
+From: Kid's Microwave Cookbook, page 100
 
 * 1/2 c lemon juice
 * 75g butter

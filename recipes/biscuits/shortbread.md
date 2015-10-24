@@ -1,9 +1,5 @@
----
-name: 'Shortbread '
-source: 'Original recipe from NZ Anchor or Fernleaf butter wrapper circa 1970''s. '
-comments: (Traditional version made and sold for Clonakilty Market & Inchydoney Lodge
-  & Spa by A Wickham in the early part of the 21st century.)
----
+# Shortbread 
+From: Original recipe from NZ Anchor or Fernleaf butter wrapper circa 1970's. 
 
 * 1/2 lb butter (I use the regular kind. Butter needs to sit at room temperature for a while to be soft enough- not oily though.) 
 * 3/4 cup caster sugar
@@ -22,4 +18,6 @@ Bake in a cool oven  (160 C)  for approximately 25 minutes until golden.  (They 
 As these cookies have no raising agents they spread only a small amount.  They should not be brown, but a pale creamy - gold colour, but crisp right through the centre when cool. 
 
 Alternatively roll out between sheets of cling film and cut into small shapes with fancy cutters.  Check cooking time after 15 minutes.
+
+Comments: (Traditional version made and sold for Clonakilty Market & Inchydoney Lodge & Spa by A Wickham in the early part of the 21st century.)
 

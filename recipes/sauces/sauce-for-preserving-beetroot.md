@@ -1,7 +1,5 @@
----
-name: Sauce for preserving beetroot
-source: Tawa neighbour
----
+# Sauce for preserving beetroot
+From: Tawa neighbour
 
 * 1 cup water
 * 1 cup sugar

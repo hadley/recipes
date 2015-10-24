@@ -1,7 +1,5 @@
----
-name: Apple Cake, with crunchy topping
-source: Women's weekly
----
+# Apple Cake, with crunchy topping
+From: Women's weekly
 
 * 2 2/3 cups wholemeal self raising flour
 * 1 t cinnamon

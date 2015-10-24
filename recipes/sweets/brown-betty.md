@@ -1,7 +1,5 @@
----
-name: Brown Betty
-source: Kid's Microwave cookbook, page 72
----
+# Brown Betty
+From: Kid's Microwave cookbook, page 72
 
 * 1 c icing sugar
 * 2 c brown sugar

@@ -1,7 +1,5 @@
----
-name: Slow cooker brisket
-source: Adapted from somewhere on the internet
----
+# Slow cooker brisket
+From: Adapted from somewhere on the internet
 
 * 2.5 lb brisket
 * salt and pepper

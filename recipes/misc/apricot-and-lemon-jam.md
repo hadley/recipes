@@ -1,9 +1,6 @@
----
-name: Apricot and Lemon Jam
-source: Family Circle Bestever Christmas Book, page 41
-cookTime: '60'
-preparationTime: '30'
----
+# Apricot and Lemon Jam
+From: Family Circle Bestever Christmas Book, page 41
+Time: 90 minutes
 
 * 500g dried apricots
 * 9 c water

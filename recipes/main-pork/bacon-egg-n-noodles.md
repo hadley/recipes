@@ -1,7 +1,5 @@
----
-name: Bacon, egg 'n' noodles
-source: Alison Holst Family Cookbook, page 47
----
+# Bacon, egg 'n' noodles
+From: Alison Holst Family Cookbook, page 47
 
 * 2 cups cooked noodle
 * 3-4 rashers bacon

@@ -1,7 +1,5 @@
----
-name: Chicken casserole
-source: Cornell Cookbook
----
+# Chicken casserole
+From: Cornell Cookbook
 
 * chicken pieces for four people
 * seasoned flour

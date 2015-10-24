@@ -1,9 +1,5 @@
----
-name: Sweet Short Pastry
-source: Edmonds Cook Book, page 60
-cookTime: '0'
-preparationTime: '0'
----
+# Sweet Short Pastry
+From: Edmonds Cook Book, page 60
 
 * 225g (8oz) flour
 * 125g (4oz) butter

@@ -1,9 +1,5 @@
----
-name: Apple crumble pudding
-source: AW modification of traditonal NZ recipe
-comments: An old fashioned, fast, easy, fairly low calorie dessert that is always
-  delicious whether served plain or dressed up for company.
----
+# Apple crumble pudding
+From: AW modification of traditonal NZ recipe
 
 * 4 cooking apples
 * 3/4 c water
@@ -23,4 +19,6 @@ comments: An old fashioned, fast, easy, fairly low calorie dessert that is alway
 Slice apples in pie dish.  Cover with water and cinnamon.  Rub butter into dry ingredients and sprinkle on top.  Bake at 170C for 20 minutes or until apples are soft and topping crisp and brown.
 
 Serve warm with vanilla ice cream or plain unsweetened yogurt.
+
+Comments: An old fashioned, fast, easy, fairly low calorie dessert that is always delicious whether served plain or dressed up for company.
 

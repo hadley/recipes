@@ -1,8 +1,5 @@
----
-name: Low cal but delicious Chicken Korma
-source: Internet
-comments: "Serves 4 \n5 points per serve"
----
+# Low cal but delicious Chicken Korma
+From: Internet
 
 * 450g skinless, boneless, chicken breast cubed
 * 2 medium onions chopped
@@ -27,4 +24,7 @@ Add stock, sultanas, and tomato puree.  Bring to boil.  Reduce heat, cover and s
 Cook rice to be ready about ten minutes before meat dish is cooked.
 
 Just before serving, add sliced banana, chopped coriander and yogurt to the curry.  Cook for 2 minutes and serve with hot cooked rice.  Garnish with coriander.
+
+Comments: Serves 4 
+5 points per serve
 

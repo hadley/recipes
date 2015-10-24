@@ -1,10 +1,7 @@
----
-name: Couscous with chickpeas
-source: Joy of cooking
-comments: Very tasty indeed AW
----
+# Couscous with chickpeas
+From: Joy of cooking
 
-* 
+
 
 Heat in a large skillet over medium heat:
 
@@ -33,4 +30,6 @@ Cover, remove from heat and stand 5 minues.  Fluff coucous with fork.
 
 Season with salt and ground black pepper to taste.
 Garnish with 1/4 c chopped fresh parsley or cilantro
+
+Comments: Very tasty indeed AW
 

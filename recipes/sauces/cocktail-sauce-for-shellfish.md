@@ -1,9 +1,5 @@
----
-name: cocktail sauce for shellfish
-source: Rally cook book, page 9
-cookTime: '0'
-preparationTime: '0'
----
+# Cocktail sauce for shellfish
+From: Rally cook book, page 9
 
 * 3-4 T mayonnaise
 * 2 T tomato sauce

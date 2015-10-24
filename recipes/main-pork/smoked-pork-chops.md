@@ -1,7 +1,5 @@
----
-name: Smoked pork chops
-source: Jeff's grandma
----
+# Smoked pork chops
+From: Jeff's grandma
 
 * 3 big tablespoons of crisco
 * pork chops

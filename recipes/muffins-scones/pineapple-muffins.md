@@ -1,8 +1,6 @@
----
-name: Pineapple Muffins
-source: MMM Muffins, page 52
-cookTime: '15'
----
+# Pineapple Muffins
+From: MMM Muffins, page 52
+Time: 15 minutes
 
 * 1/2 c pineapple, chopped
 * 1 c pineapple juice

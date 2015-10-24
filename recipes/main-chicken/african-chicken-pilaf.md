@@ -1,6 +1,4 @@
----
-name: African chicken pilaf
----
+# African chicken pilaf
 
 * 4 T olive oil
 * 1 large red onion, peeled & sliced

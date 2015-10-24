@@ -1,6 +1,4 @@
----
-name: Date jumbles
----
+# Date jumbles
 
 * 4oz butter
 * 4oz sugar

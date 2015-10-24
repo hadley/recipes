@@ -1,9 +1,6 @@
----
-name: Gingerbread, Sticky
-source: Newspaper
-cookTime: '60'
-preparationTime: '15'
----
+# Gingerbread, Sticky
+From: Newspaper
+Time: 75 minutes
 
 * 125g butter
 * 3/4 c brown sugar, packed

@@ -1,9 +1,6 @@
----
-name: Potato Salad
-source: Kid's Cookbook, page 27
-cookTime: '15'
-preparationTime: '10'
----
+# Potato Salad
+From: Kid's Cookbook, page 27
+Time: 25 minutes
 
 * 6 potatoes, medium
 * 3/4 c canned whole kernel corn

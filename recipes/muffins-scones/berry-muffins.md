@@ -1,6 +1,4 @@
----
-name: Berry Muffins
----
+# Berry Muffins
 
 * 125g butter
 * 125g sugar

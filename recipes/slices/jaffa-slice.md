@@ -1,7 +1,5 @@
----
-name: Jaffa Slice
-source: Onslow College Cookbook, page 140
----
+# Jaffa Slice
+From: Onslow College Cookbook, page 140
 
 * 7 1/2 oz butter
 * 1 1/2 D golden syrup

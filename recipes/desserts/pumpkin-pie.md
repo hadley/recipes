@@ -1,7 +1,5 @@
----
-name: Pumpkin pie
-source: Well done cooking classes
----
+# Pumpkin pie
+From: Well done cooking classes
 
 * 8oz cream cream, room temp
 * 3/4 c sugar

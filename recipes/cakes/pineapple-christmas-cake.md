@@ -1,6 +1,4 @@
----
-name: Pineapple christmas cake
----
+# Pineapple christmas cake
 
 * 1.5kg mixed fruit (700g sultana, 500g raisins, 250g currents, 50g mixed peel)
 * 450g can crushed pinapple

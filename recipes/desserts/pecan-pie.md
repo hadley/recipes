@@ -1,7 +1,5 @@
----
-name: Pecan pie
-source: Well done cooking classes
----
+# Pecan pie
+From: Well done cooking classes
 
 * 3 eggs
 * 180g water

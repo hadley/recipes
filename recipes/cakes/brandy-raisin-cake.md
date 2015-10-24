@@ -1,7 +1,5 @@
----
-name: Brandy raisin cake
-source: Cornell Cookbook
----
+# Brandy raisin cake
+From: Cornell Cookbook
 
 * 1 1/2 c seeded raisins coarsely chopped
 * 1 c boiling water

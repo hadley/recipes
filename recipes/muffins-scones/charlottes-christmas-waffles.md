@@ -1,9 +1,5 @@
----
-name: Charlotte's Christmas Waffles
-source: Adapted fron Internet
-comments: Made by Charlotte for Christmas day breakfast at Pacific Grove in December
-  2006.
----
+# Charlotte's Christmas Waffles
+From: Adapted fron Internet
 
 * 1 cup white flour
 * 1/2 cup rolled oats
@@ -22,4 +18,6 @@ Combine the dry ingredients in a large bowl. Combine the wet ingredients. Mix th
 Once the batter is made, fold in the stiff-beaten egg white.
 
 Cook in waffle iron.
+
+Comments: Made by Charlotte for Christmas day breakfast at Pacific Grove in December 2006.
 

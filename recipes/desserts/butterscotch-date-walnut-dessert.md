@@ -1,7 +1,5 @@
----
-name: Butterscotch date walnut dessert
-source: Newspaper
----
+# Butterscotch date walnut dessert
+From: Newspaper
 
 * 1 1/2 cup dates
 * 1 1/2 cup water

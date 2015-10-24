@@ -1,7 +1,5 @@
----
-name: Coconut and Apricot Slice
-source: Cornell Cookbook
----
+# Coconut and Apricot Slice
+From: Cornell Cookbook
 
 * 1 1/2 c self-raising flour
 * 1 1/4 c coconut

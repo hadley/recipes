@@ -1,6 +1,4 @@
----
-name: Anzac cake
----
+# Anzac cake
 
 * 1/2 c golden syrup
 * 4oz (125g) butter

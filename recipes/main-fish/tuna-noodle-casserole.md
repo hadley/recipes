@@ -1,6 +1,4 @@
----
-name: Tuna noodle casserole
----
+# Tuna noodle casserole
 
 * 300g tuna
 * 3 cup cooked pasta

@@ -1,7 +1,5 @@
----
-name: Brownies (yum)
-source: http://www.cacaoweb.net/brownies3.html
----
+# Brownies (yum)
+From: http://www.cacaoweb.net/brownies3.html
 
 * 1 1/2 c sugar
 * 3 eggs

@@ -1,7 +1,5 @@
----
-name: French toast
-source: http://www.foodnetwork.com/recipes/alton-brown/french-toast-recipe/index.html
----
+# French toast
+From: http://www.foodnetwork.com/recipes/alton-brown/french-toast-recipe/index.html
 
 * 1 c milk/cream
 * 3 eggs

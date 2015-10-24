@@ -1,7 +1,5 @@
----
-name: Rum balls
-source: Modified Highlander Can
----
+# Rum balls
+From: Modified Highlander Can
 
 * 300g crushed maltmeal or digestive biscuits
 * 1 tin sweetened condensed milk

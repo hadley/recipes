@@ -1,6 +1,4 @@
----
-name: Uncooked coffee gateau
----
+# Uncooked coffee gateau
 
 * 1 lb sponge cake
 * 6oz butter

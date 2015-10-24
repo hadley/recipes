@@ -1,7 +1,5 @@
----
-name: Chinese Beef
-source: Onslow College Cookbook, page 62
----
+# Chinese Beef
+From: Onslow College Cookbook, page 62
 
 * 1/2 lb cold roast beef
 * 1 med. onion

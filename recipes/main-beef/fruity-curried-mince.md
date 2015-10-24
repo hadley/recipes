@@ -1,9 +1,6 @@
----
-name: Fruity curried mince
-source: NZ Microwave Cookbook, page 24
-cookTime: '18'
-preparationTime: '30'
----
+# Fruity curried mince
+From: NZ Microwave Cookbook, page 24
+Time: 48 minutes
 
 * 2 large onions
 * 2 t curry powder

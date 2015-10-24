@@ -1,9 +1,6 @@
----
-name: Curried Eggs
-source: Edmonds Cook Book, page 70
-cookTime: '10'
-preparationTime: '10'
----
+# Curried Eggs
+From: Edmonds Cook Book, page 70
+Time: 20 minutes
 
 * 40g (1 1/2oz) butter
 * 1 onion, small, finely chopped

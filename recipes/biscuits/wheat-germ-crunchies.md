@@ -1,9 +1,6 @@
----
-name: Wheat germ crunchies
-source: Cornell Cookbook
-cookTime: '15'
-preparationTime: '10'
----
+# Wheat germ crunchies
+From: Cornell Cookbook
+Time: 25 minutes
 
 * 125g butter
 * 1 c brown sugar

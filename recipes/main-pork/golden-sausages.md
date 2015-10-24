@@ -1,9 +1,6 @@
----
-name: Golden Sausages
-source: Rally cook book, page 155
-cookTime: '25'
-preparationTime: '15'
----
+# Golden Sausages
+From: Rally cook book, page 155
+Time: 40 minutes
 
 * 500g sausages
 * 1 T brown sugar

@@ -1,6 +1,4 @@
----
-name: Orange cake
----
+# Orange cake
 
 * 6oz butter
 * 6oz sugar

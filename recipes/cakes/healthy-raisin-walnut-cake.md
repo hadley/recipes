@@ -1,10 +1,5 @@
----
-name: Healthy Raisin & Walnut Cake
-source: Modified recipe from L Churn
-comments: You can use a mix of chopped prunes and dried apricots instead of raisins.  Or,
-  chopped dates or indeed any mix of dried fruit you like.  Similarly you can use
-  whatever nuts or essences you fancy.  Enjoy experimenting!
----
+# Healthy Raisin & Walnut Cake
+From: Modified recipe from L Churn
 
 * 1 cup raisins
 * 1 cup water
@@ -30,4 +25,6 @@ Instead of raisins & walnuts
 1/2 cup almonds
 1/2 cup cherries
 Bake in two loaf tins about 40 mins
+
+Comments: You can use a mix of chopped prunes and dried apricots instead of raisins.  Or, chopped dates or indeed any mix of dried fruit you like.  Similarly you can use whatever nuts or essences you fancy.  Enjoy experimenting!
 

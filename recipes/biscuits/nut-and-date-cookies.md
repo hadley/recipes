@@ -1,9 +1,6 @@
----
-name: nut and date cookies
-source: Rally cook book, page 17
-cookTime: '20'
-preparationTime: '0'
----
+# Nut and date cookies
+From: Rally cook book, page 17
+Time: 20 minutes
 
 * 6oz butter
 * 8oz brown sugar

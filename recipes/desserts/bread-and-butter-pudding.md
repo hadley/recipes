@@ -1,6 +1,4 @@
----
-name: Bread and butter pudding
----
+# Bread and butter pudding
 
 * 50g butter, softened 
 * large baguette

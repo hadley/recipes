@@ -1,7 +1,5 @@
----
-name: Chocolate Sauce
-source: Notebook
----
+# Chocolate Sauce
+From: Notebook
 
 * 1T butter
 * 2T sugar

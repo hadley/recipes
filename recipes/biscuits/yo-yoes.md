@@ -1,7 +1,5 @@
----
-name: Yo Yoes
-source: Edmonds Cook Book, page 52
----
+# Yo Yoes
+From: Edmonds Cook Book, page 52
 
 * 175g (6oz) butter
 * 50g (2oz) icing sugar

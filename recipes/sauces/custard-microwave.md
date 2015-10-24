@@ -1,7 +1,5 @@
----
-name: Custard - Microwave
-source: Cornell Cookbook
----
+# Custard - Microwave
+From: Cornell Cookbook
 
 * 2T custard powder
 * 2T sugar

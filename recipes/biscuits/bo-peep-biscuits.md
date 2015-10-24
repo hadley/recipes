@@ -1,9 +1,6 @@
----
-name: Bo-peep biscuits
-source: Rally cook book, page 14
-cookTime: '20'
-preparationTime: '0'
----
+# Bo-peep biscuits
+From: Rally cook book, page 14
+Time: 20 minutes
 
 * 4oz butter
 * 4oz sugar

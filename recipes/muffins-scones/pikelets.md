@@ -1,7 +1,5 @@
----
-name: Pikelets
-source: Notebook
----
+# Pikelets
+From: Notebook
 
 * 2 T sugar
 * 1 egg

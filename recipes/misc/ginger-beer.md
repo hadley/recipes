@@ -1,6 +1,4 @@
----
-name: Ginger beer
----
+# Ginger beer
 
 * 1/4 t yeast
 * 1 cup sugar

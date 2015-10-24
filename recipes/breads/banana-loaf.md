@@ -1,13 +1,6 @@
----
-name: Banana loaf
-source: Modified "Rally cook book" page 114
-cookTime: '60'
-preparationTime: '0'
-comments: |-
-  Delicious and super simple to make.
-
-  Great for starter cooks.
----
+# Banana loaf
+From: Modified "Rally cook book" page 114
+Time: 60 minutes
 
 * 2 eggs
 * 3 mashed bananas
@@ -30,4 +23,8 @@ Gently stir in flour, salt and soda ( add chopped pecans if wished) until just m
 Place lined loaf tin. Decorate top with whole nuts and chocolate chips as desired.
 
 Bake at 180C for for 1 hour.
+
+Comments: Delicious and super simple to make.
+
+Great for starter cooks.
 

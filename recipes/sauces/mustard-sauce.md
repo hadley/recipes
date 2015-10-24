@@ -1,9 +1,5 @@
----
-name: Mustard Sauce
-source: Edmonds Cook Book, page 151
-cookTime: '0'
-preparationTime: '0'
----
+# Mustard Sauce
+From: Edmonds Cook Book, page 151
 
 * 1 egg
 * 1/4 c sugar

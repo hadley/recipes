@@ -1,7 +1,4 @@
----
-name: Christmas pudding, rich
-comments: Big enough for eight.  Very rich and delicous.
----
+# Christmas pudding, rich
 
 * 2oz flour
 * 2oz soft breadcrumbs
@@ -30,4 +27,6 @@ Put into large lined and greased basin.  Cover with aluminum foil and tie on wit
 Sit on a trivet in a large saucepan and add boiling water 2/3 up the sides of the bowl.  Place the lid on the pan. 
 
 Steam for 6 hours checking occasionally and topping up with boiling water.
+
+Comments: Big enough for eight.  Very rich and delicous.
 

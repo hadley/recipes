@@ -1,7 +1,5 @@
----
-name: Waitangi kisses
-source: Cornell Cookbook
----
+# Waitangi kisses
+From: Cornell Cookbook
 
 * 4oz butter
 * 4oz sugar

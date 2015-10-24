@@ -1,7 +1,5 @@
----
-name: Chicken tortilla soup
-source: http://thepioneerwoman.com/cooking/2011/01/chicken-tortilla-soup/
----
+# Chicken tortilla soup
+From: http://thepioneerwoman.com/cooking/2011/01/chicken-tortilla-soup/
 
 * 2 whole Boneless, Skinless Chicken Breasts
 * 1 T Olive Oil

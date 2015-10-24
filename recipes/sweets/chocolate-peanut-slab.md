@@ -1,10 +1,5 @@
----
-name: Chocolate peanut slab
-source: Rally cook book, page 203
-cookTime: '0'
-preparationTime: '0'
-comments: Tasty but probably very unhealthy now we know about hyrdrogentaed veg fat.
----
+# Chocolate peanut slab
+From: Rally cook book, page 203
 
 * 8oz kremelta solid white vegetable fat
 * 1 c milk powder
@@ -16,4 +11,6 @@ comments: Tasty but probably very unhealthy now we know about hyrdrogentaed veg 
 * 1/4 c coconut (optional)
 
 Mix all dry ingredients together and add melted kremalta.  Pour into shallow tin to set
+
+Comments: Tasty but probably very unhealthy now we know about hyrdrogentaed veg fat.
 

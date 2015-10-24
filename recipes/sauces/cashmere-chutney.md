@@ -1,7 +1,5 @@
----
-name: Cashmere Chutney
-source: Gifts from the Pantry the New Zealand way
----
+# Cashmere Chutney
+From: Gifts from the Pantry the New Zealand way
 
 * 450g tart apples
 * 225 g onions

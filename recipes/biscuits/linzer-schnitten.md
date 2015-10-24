@@ -1,8 +1,5 @@
----
-name: Linzer schnitten
-source: Cornell Cookbook
-comments: A Christmas treat.
----
+# Linzer schnitten
+From: Cornell Cookbook
 
 * 2 eggs
 * 1 1/2 c sugar
@@ -31,4 +28,6 @@ Bake at 180 C for 15 minutes until golden brown.
 Glaze:
 
 Beat egg and sugar together until very thick.  Brush over baked strips while hot.  Return to the oven for a few minutes until dry.  Cut into diagonal pieces and allow to cool.
+
+Comments: A Christmas treat.
 

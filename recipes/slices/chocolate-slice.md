@@ -1,9 +1,6 @@
----
-name: Chocolate Slice
-source: Kid's Cookbook, page 101
-cookTime: '20'
-preparationTime: '15'
----
+# Chocolate Slice
+From: Kid's Cookbook, page 101
+Time: 35 minutes
 
 * 250g butter
 * 1 c sugar

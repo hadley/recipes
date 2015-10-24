@@ -1,8 +1,6 @@
----
-name: Christmas cake, Grandma's
-source: Nancy Arlidge
-cookTime: '180'
----
+# Christmas cake, Grandma's
+From: Nancy Arlidge
+Time: 180 minutes
 
 * 3/4lb butter
 * 3/4lb sugar

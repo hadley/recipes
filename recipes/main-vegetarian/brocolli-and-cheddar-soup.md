@@ -1,7 +1,5 @@
----
-name: Brocolli and cheddar soup
-source: http://www.101cookbooks.com/archives/broccoli-cheddar-soup-recipe.html
----
+# Brocolli and cheddar soup
+From: http://www.101cookbooks.com/archives/broccoli-cheddar-soup-recipe.html
 
 * Croutons:
 * 2 T butter melted

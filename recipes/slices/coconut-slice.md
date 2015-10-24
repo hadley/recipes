@@ -1,9 +1,5 @@
----
-name: Coconut slice
-source: Rally cook book, page 67
-cookTime: '0'
-preparationTime: '0'
----
+# Coconut slice
+From: Rally cook book, page 67
 
 * 1 1/2 c self-raising flour
 * Pinch salt

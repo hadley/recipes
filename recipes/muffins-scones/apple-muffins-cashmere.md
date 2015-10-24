@@ -1,7 +1,5 @@
----
-name: Apple Muffins, Cashmere
-source: MmM Muffins, page 8
----
+# Apple Muffins, Cashmere
+From: MmM Muffins, page 8
 
 * 1 egg
 * 60g margarine or butter

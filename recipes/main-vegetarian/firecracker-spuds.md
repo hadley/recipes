@@ -1,7 +1,5 @@
----
-name: Firecracker Spuds
-source: Living Today
----
+# Firecracker Spuds
+From: Living Today
 
 * 750g potatoes
 * 2 T olive oil

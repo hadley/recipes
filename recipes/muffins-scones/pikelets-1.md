@@ -1,7 +1,5 @@
----
-name: Pikelets
-source: Onslow College Cookbook, page 154
----
+# Pikelets
+From: Onslow College Cookbook, page 154
 
 * 1 egg
 * 1 c flour

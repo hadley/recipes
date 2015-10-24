@@ -1,8 +1,6 @@
----
-name: Banana muffins, tropical
-source: MmM Muffins, page 16
-cookTime: '20'
----
+# Banana muffins, tropical
+From: MmM Muffins, page 16
+Time: 20 minutes
 
 * 2 bananas, mashed
 * 2/3 c yoghurt

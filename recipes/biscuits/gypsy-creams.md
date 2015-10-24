@@ -1,8 +1,6 @@
----
-name: Gypsy creams
-source: Onslow College Cookbook, page 144
-cookTime: '20'
----
+# Gypsy creams
+From: Onslow College Cookbook, page 144
+Time: 20 minutes
 
 * 4 oz butter
 * 1 T golden syrup

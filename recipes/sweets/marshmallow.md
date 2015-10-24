@@ -1,7 +1,5 @@
----
-name: Marshmallow
-source: Notebook
----
+# Marshmallow
+From: Notebook
 
 * 2 c sugar
 * 1 1/4 c water

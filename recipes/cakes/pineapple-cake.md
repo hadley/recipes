@@ -1,7 +1,5 @@
----
-name: Pineapple cake
-source: Cornell Cookbook
----
+# Pineapple cake
+From: Cornell Cookbook
 
 * 5oz butter
 * 5oz sugar

@@ -1,7 +1,5 @@
----
-name: Hamburger stroganoff casserole
-source: Meat International
----
+# Hamburger stroganoff casserole
+From: Meat International
 
 * 1 packet "kluski" noodles
 * 50g butter

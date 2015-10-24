@@ -1,6 +1,4 @@
----
-name: African steak
----
+# African steak
 
 * 1/2 c flour
 * 1/2 t salt

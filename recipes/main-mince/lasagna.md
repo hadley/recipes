@@ -1,7 +1,5 @@
----
-name: Lasagna
-source: Jeffrey Edwards
----
+# Lasagna
+From: Jeffrey Edwards
 
 * 1 lb lasagna
 * Meat layer:

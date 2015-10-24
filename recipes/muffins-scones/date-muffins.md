@@ -1,7 +1,5 @@
----
-name: Date Muffins
-source: MMM Muffins, page 41
----
+# Date Muffins
+From: MMM Muffins, page 41
 
 * 1 c milk
 * 1 egg

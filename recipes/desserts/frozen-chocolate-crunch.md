@@ -1,7 +1,5 @@
----
-name: Frozen chocolate crunch
-source: Onslow College Cookbook, page 112
----
+# Frozen chocolate crunch
+From: Onslow College Cookbook, page 112
 
 * 4 oz coconut biscuits
 * 4 oz slivered almonds

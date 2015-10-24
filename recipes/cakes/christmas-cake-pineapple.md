@@ -1,9 +1,6 @@
----
-name: Christmas Cake, Pineapple
-source: Newspaper
-cookTime: '210'
-preparationTime: '60'
----
+# Christmas Cake, Pineapple
+From: Newspaper
+Time: 270 minutes
 
 * 1 - 1.5 kg dried fruit
 * 450g can pineapple, crushed

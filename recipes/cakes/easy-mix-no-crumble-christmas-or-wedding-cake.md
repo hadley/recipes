@@ -1,7 +1,5 @@
----
-name: Easy Mix, no crumble,  Christmas or Wedding Cake
-source: Jo from NHSC
----
+# Easy Mix, no crumble,  Christmas or Wedding Cake
+From: Jo from NHSC
 
 * 1 tin sweetened condensed milk
 * 1/4 lb butter

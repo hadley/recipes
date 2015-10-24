@@ -1,9 +1,5 @@
----
-name: Ginger daties
-source: Cornell Cookbook
-comments: "This is a biscuit recipe, not a slice and is complete.  \n\nAdmin. please
-  move it to the correct section."
----
+# Ginger daties
+From: Cornell Cookbook
 
 * 8oz butter
 * 1 c sugar
@@ -21,4 +17,8 @@ Cream butter and sugar.  Warm syrup and milk and add soda and ginger.  Add chopp
 Roll into balls, place on tray and flatten with a fork.
 
 Bake for 15 minutes at 325 F.
+
+Comments: This is a biscuit recipe, not a slice and is complete.  
+
+Admin. please move it to the correct section.
 

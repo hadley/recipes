@@ -1,6 +1,4 @@
----
-name: Coconut honey bars
----
+# Coconut honey bars
 
 * 4oz butter
 * 1 D honey

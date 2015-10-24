@@ -1,8 +1,5 @@
----
-name: Indonesian roast lamb
-source: Meat International
-comments: Serve with rice.
----
+# Indonesian roast lamb
+From: Meat International
 
 * 1 small shoulder roast
 * juice of 1 lemon
@@ -23,4 +20,6 @@ Take roast from marinade.  Heat marinade with the peanut butter and water until 
 Roast meat at 170C for 1-1.5 hours, as desired, brushing with glaze during last 10 minutes.  
 
 To microwave, brush uncooked roast with glaze.  Cook at 50% to 50% power level, to an internal temperature of 70C, and about 15 minutes for each 750g.  Allow to stand for 10 minutes.  Slice and pour glaze, thinned if necessary, over meat.
+
+Comments: Serve with rice.
 

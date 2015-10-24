@@ -1,7 +1,5 @@
----
-name: Minestrone
-source: Jennifer Sleeman
----
+# Minestrone
+From: Jennifer Sleeman
 
 * 1 medium onion
 * 1 tablespoon olive oil

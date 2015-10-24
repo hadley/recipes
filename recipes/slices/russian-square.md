@@ -1,9 +1,6 @@
----
-name: Russian Square
-source: Rally cook book, page 72
-cookTime: '20'
-preparationTime: '0'
----
+# Russian Square
+From: Rally cook book, page 72
+Time: 20 minutes
 
 * 6oz butter
 * 1 c sugar

@@ -1,7 +1,5 @@
----
-name: Indian Stir Fried vegetables
-source: Rita V
----
+# Indian Stir Fried vegetables
+From: Rita V
 
 * 1 t black mustard seeds
 * 1 t cumin seeds

@@ -1,9 +1,5 @@
----
-name: Apple & Carrot coleslaw -  quick & easy
-source: ALW creation
-comments: Leftovers keep well for 24 hours if covered with cling wrap and stored in
-  fridge.
----
+# Apple & Carrot coleslaw -  quick & easy
+From: ALW creation
 
 * About 2-3 cups finely sliced mild flavoured cabbage 
 * (Sweet heart variety is good) cut into 3 inch shreds.
@@ -21,4 +17,6 @@ comments: Leftovers keep well for 24 hours if covered with cling wrap and stored
 * Serves 4
 
 
+
+Comments: Leftovers keep well for 24 hours if covered with cling wrap and stored in fridge.
 

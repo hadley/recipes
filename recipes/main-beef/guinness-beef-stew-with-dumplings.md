@@ -1,7 +1,4 @@
----
-name: Guinness Beef Stew with Dumplings
-comments: Serves 8
----
+# Guinness Beef Stew with Dumplings
 
 * 1.5kg rump steak cut into large chunks
 * 350g bacon, diced
@@ -33,4 +30,6 @@ Place dumplings in round shapes on top and bake a further 30 minutes at 180C.
 
 DUMPLINGS:
 Sift dry ingredients, work in butter.  Mix together egg and milk and add to mixture.  Add parsley.  
+
+Comments: Serves 8
 

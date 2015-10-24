@@ -1,6 +1,4 @@
----
-name: Speedy mince stroganoff
----
+# Speedy mince stroganoff
 
 * 2 T butter or oil
 * 1 large onion, chopped

@@ -1,6 +1,4 @@
----
-name: Carrot cake 1
----
+# Carrot cake 1
 
 * 1 c wholemeal flour
 * 1 c flour

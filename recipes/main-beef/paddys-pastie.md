@@ -1,6 +1,4 @@
----
-name: Paddy's pastie
----
+# Paddy's pastie
 
 * 1 packet of flaky pastry
 *  Or short pastry made with :-

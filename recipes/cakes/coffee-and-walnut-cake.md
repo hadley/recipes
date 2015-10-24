@@ -1,7 +1,5 @@
----
-name: Coffee and Walnut Cake
-source: Notebook
----
+# Coffee and Walnut Cake
+From: Notebook
 
 * 4oz butter
 * 6oz brown sugar

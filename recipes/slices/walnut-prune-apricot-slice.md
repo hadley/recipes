@@ -1,7 +1,4 @@
----
-name: Walnut Prune & Apricot Slice
-comments: Easy and great to look at - even better to eat.
----
+# Walnut Prune & Apricot Slice
 
 * 1/2 cup sugar
 * 1 cup plain flour
@@ -24,4 +21,6 @@ Drizzle over condensed milk to coat fruit and nuts evenly.
 Bake a further 20 mins until golden.
 
 Remove from oven and cool in tin.  Cut when cold.
+
+Comments: Easy and great to look at - even better to eat.
 

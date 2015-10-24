@@ -1,8 +1,5 @@
----
-name: Rhubarb Conserve
-source: A Holst's Cooking Class
-comments: A tasty alternative to marmalade.
----
+# Rhubarb Conserve
+From: A Holst's Cooking Class
 
 * 3 cups finely sliced rhubarb (red stems make the most attractive jam)
 * 1 tablespoon peeled root ginger
@@ -21,4 +18,6 @@ While cooking pour boiling water over walnuts in a small bowl and leave 2 minute
 Check that conserve has reached setting point by placing about half a teaspoonful on a saucer in a cool place.  When cool, push surface with forefinger.  If ready to set a wrinkled skin should be visible. 
 
 Stir in nuts and bottle into sterilised jars and screw on sterilised lids. 
+
+Comments: A tasty alternative to marmalade.
 
