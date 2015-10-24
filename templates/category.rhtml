@@ -1,0 +1,15 @@
+<% @title = @category.name %>
+
+<div class="navigation cbb">
+	<div class="categories"><%= render :partial => "categories_list", :locals => {:categories => @categories, :current => @category.id} %></div>
+
+	<h2>Recipes</h2>
+	<div class="recipes"><%= render :partial => "recipes_list", :locals => {:recipes => @category.recipes, :current => nil, :category_id => @category.id} %></div>
+</div>
+
+
+<div class="contents">
+	<p class="back"><a href="/">home</a></p>
+	<h1>Recipes</h1>
+	<%= render :partial => "recipes_list", :locals => {:recipes => @category.recipes, :current => nil, :category_id => @category.id} %>
+</div>

@@ -1,0 +1,6 @@
+<h2 class="first">Categories</h2>
+<ul>
+	<%- for cat in categories -%>
+	<li<%= " class='current'" if cat.id == current %>><%= link_to(cat.name, :action => 'category', :id => cat.id) %></li>
+	<%- end -%>
+</ul>

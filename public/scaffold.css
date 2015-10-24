@@ -1,0 +1,109 @@
+/* Colour scheme 
+   ==============================
+   from: http://wellstyled.com/tools/colorscheme2/index-en.html?triad;28;0;87;0.3;-0.8;0.3;0.5;0.1;0.9;0.5;0.75;0.3;-0.8;0.3;0.5;0.1;0.9;0.5;0.75;0.3;-0.8;0.3;0.5;0.1;0.9;0.5;0.75;0.3;-0.8;0.3;0.5;0.1;0.9;0.5;0.75;0 
+*/
+
+html { background: #fff url("/images/orchid.gif") no-repeat bottom right fixed;}
+
+h1 {font-size: 2.em; color: #7C1B51; margin-top: 0.4em; margin-bottom: 1em; font-weight: normal; font-family: Georgia, serif;}
+
+#search-form {border: 1px solid #889887; padding:1em}
+#search-form h2 {font-size:1em; margin: 0 0 0.3em 0; font-weight: normal}
+#search-form, .comments {border-top: 1px solid #889887; border-bottom: 1px solid #889887;padding:1em}
+
+h2 {font-size: 1em;}
+
+body .js-singleComment {
+	background-color: #eee;
+	border: none;
+	font-size:1em;
+}
+body .js-LeaveComment {margin: 0;}
+body .js-singleCommentINFO {text-shadow: none;}
+
+.note {float: right; width: 15em; font-size: 0.85em; line-height: 1.3em; margin: 0 0 1em 1em;}
+
+.first {margin-top: 0; padding-top: 0;}
+
+.navigation {
+	position: absolute;
+	top: 3em;
+	width: 25%;	
+	background-color: #C8D8C8;
+	padding: 0 0.8em 0.8em 0.8em;
+}
+.navigation a:link, .navigation a:visited { text-decoration: none; width:90%; padding: 3px; display: block; margin:0; margin-left: 3px;}
+.navigation a:link {color: #333;}
+.navigation a:visited {color: #666;}
+.navigation a:hover {text-decoration: underline; background-color: #889887}
+.navigation ul {list-style: none; margin: 0; padding-left: 0;}
+.navigation ul li {margin-left: 0; margin: 0; padding: 0; font-size: 0.85em; line-height: 1.1em; }
+.navigation .admin {font-size: 0.8em;}
+li.current a {background-color: #404D43; }
+li.current a:link, li.current a:visited {color: #fff}
+
+.navigation h2 {font-size:0.85em; margin: 1em 0 0 0; padding:3px; color: #3C0F1E}
+
+.contents {position: absolute; left: 35%; top: 3em; width: 50%; }
+.contents ul {list-style: none; margin-left: 0; padding-left: 0;}
+.contents ul li {margin-bottom: 0.25em;}
+.admin {font-size: 0.9em; font-weight: bold;}
+
+.back {margin-bottom:0; font-size: 0.9em; color: #333;}
+
+a:link {color: #3C0F1E}
+
+
+
+/* Rails default css 
+   ============================== */
+
+body, p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size:   13px;
+  line-height: 18px;
+}
+
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+a { color: #000; }
+a:visited { color: #666; }
+
+.fieldWithErrors {
+  padding: 1px;
+  background-color: red;
+  display: table;
+}
+
+#ErrorExplanation {
+  width: 400px;
+	border: 1px solid #red;
+	padding: 4px;
+	padding-bottom: 8px;
+	margin-bottom: 20px;
+	background-color: #f0f0f0;
+}
+
+#ErrorExplanation h2 {
+	text-align: left;
+	font-weight: bold;
+	padding: 5px 5px 5px 10px;
+	font-size: 12px;
+	margin: -5px;
+	background-color: #c00;
+	color: #fff;
+}
+
+#ErrorExplanation p {
+	color: #333;
+	margin-bottom: 0;
+}
+
+#ErrorExplanation ul li {
+	font-size: 12px;
+	list-style: square;
+}
