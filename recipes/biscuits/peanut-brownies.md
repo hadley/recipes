@@ -6,16 +6,14 @@ preparationTime: '10'
 comments: Favourite classic
 ---
 
-125g (4oz) butter
-1 c sugar
-1 egg
-
-7 1/2 oz flour
-1 t baking powder
-2 desert spoons of cocoa
-pinch of salt
-
-1 c peanuts
+* 125g (4oz) butter
+* 1 c sugar
+* 1 egg
+* 7 1/2 oz flour
+* 1 t baking powder
+* 2 desert spoons of cocoa
+* pinch of salt
+* 1 c peanuts
 
 Cream butter and sugar, add egg, then peanuts, and dry ingredients sifted together.  Roll into balls, squash with a fork and bake 180 C (350 F) for 15 minutes.
 

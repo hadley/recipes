@@ -4,12 +4,12 @@ source: A Holst's Cooking Class
 comments: A tasty alternative to marmalade.
 ---
 
-3 cups finely sliced rhubarb (red stems make the most attractive jam)
-1 tablespoon peeled root ginger
-1 lemon, rind and juice
-1  orange, rind and juice
-2 Cups sugar
-1/2 cut chopped walnut pieces
+* 3 cups finely sliced rhubarb (red stems make the most attractive jam)
+* 1 tablespoon peeled root ginger
+* 1 lemon, rind and juice
+* 1  orange, rind and juice
+* 2 Cups sugar
+* 1/2 cut chopped walnut pieces
 
 Trim rhubarb and slice into 1 cm chunks and place in large saucepan.
 Place 1 cup sugar, citrus rinds (use a floating blade peeler and avoid pith) and roughly chopped ginger into a food processor and whizz until finely chopped. Place into saucepan along with all other ingredients except walnuts.

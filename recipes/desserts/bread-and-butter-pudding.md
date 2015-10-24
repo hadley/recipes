@@ -2,17 +2,17 @@
 name: Bread and butter pudding
 ---
 
-50g butter, softened 
-large baguette
-60g sultanas or dried cranberries, or a mixture of both 
-3 T apricot jam
-2 large egg yolks 
-2 large eggs 
-40g caster sugar 
-300ml double cream 
-300ml milk 
-4 tbsp Baileys 
-demerara sugar
+* 50g butter, softened 
+* large baguette
+* 60g sultanas or dried cranberries, or a mixture of both 
+* 3 T apricot jam
+* 2 large egg yolks 
+* 2 large eggs 
+* 40g caster sugar 
+* 300ml double cream 
+* 300ml milk 
+* 4 tbsp Baileys 
+* demerara sugar
 
 Heat oven to 180C.
 

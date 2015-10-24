@@ -3,19 +3,18 @@ name: Almond creams
 source: Cornell Cookbook
 ---
 
-6oz (175g) butter
-3/4 c icing sugar
-1/2 t vanilla
-1/2 t almond essence
-1 1/2 c flour
-1/2 c cornflour or custard powder
-1/4 c flaked almonds (optional)
-
-Filling:
-3 T butter
-1/2 t almond essence
-3/4 c icing sugar
-few drops of water if needed
+* 6oz (175g) butter
+* 3/4 c icing sugar
+* 1/2 t vanilla
+* 1/2 t almond essence
+* 1 1/2 c flour
+* 1/2 c cornflour or custard powder
+* 1/4 c flaked almonds (optional)
+* Filling:
+* 3 T butter
+* 1/2 t almond essence
+* 3/4 c icing sugar
+* few drops of water if needed
 
 Soften but do not melt the butter.  Cream it with the icing sugar and essences, then stir in the sifted dry ingredients and chopped almonds, or put everything in a food processor without sifting the dry ingredients.  In a low powered food processor the last part of the dry ingredients may have to be added by hand mixing.
 

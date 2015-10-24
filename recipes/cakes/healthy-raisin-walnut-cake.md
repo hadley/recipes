@@ -6,18 +6,18 @@ comments: You can use a mix of chopped prunes and dried apricots instead of rais
   whatever nuts or essences you fancy.  Enjoy experimenting!
 ---
 
-1 cup raisins
-1 cup water
-1 teaspoon baking soda
-1 1/2 cups flour sifted
-1/2 cup rolled oats
-2 eggs
-1/2 cup canola or safflower oil
-1 t lemon essence
-1/2 t vanilla essence
-1/2 t almond essence
-3/4 cup sugar
-1/2 cup chopped walnuts
+* 1 cup raisins
+* 1 cup water
+* 1 teaspoon baking soda
+* 1 1/2 cups flour sifted
+* 1/2 cup rolled oats
+* 2 eggs
+* 1/2 cup canola or safflower oil
+* 1 t lemon essence
+* 1/2 t vanilla essence
+* 1/2 t almond essence
+* 3/4 cup sugar
+* 1/2 cup chopped walnuts
 
 Boil water and pour over raisins and soda.  Leave until cold.  Beat together eggs and sugar, add oil & essences.  Add dry ingredients and fruit mix alternately, beat well then stir in nuts.
 

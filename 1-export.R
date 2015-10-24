@@ -7,10 +7,12 @@ categories <- read.csv("categories.csv", stringsAsFactors = FALSE)
 paths <- file.path("recipes", categories$path)
 invisible(lapply(paths[!file.exists(paths)], dir.create))
 
-recipes <- readRDS("recipes.rds") %>%
-  mutate(category = ifelse(is.na(category), "Miscellaneous", category)) %>% 
-  left_join(categories) %>% 
-  mutate(updated_on = parse_datetime(updated_on))
+if (!exists("recipes")) {
+  recipes <- readRDS("recipes.rds") %>%
+    mutate(category = ifelse(is.na(category), "Miscellaneous", category)) %>% 
+    left_join(categories) %>% 
+    mutate(updated_on = parse_datetime(updated_on))
+}
 
 trim <- function(x) {
   x <- gsub("\r", "", x)
@@ -19,6 +21,11 @@ trim <- function(x) {
   x
 }
 
+bullets <- function(x) {
+  lines <- strsplit(x, "\n")[[1]]
+  lines <- lines[lines != ""]
+  paste0("* ", lines, collapse = "\n")
+}
 
 save_recipe <- function(recipe) {
   meta <- unlist(recipe[c("name", "source", "cookTime", "preparationTime", "comments")])
@@ -40,7 +47,7 @@ save_recipe <- function(recipe) {
     "---\n",
     meta_yaml,
     "---\n\n",
-    trim(recipe$ingredients),
+    bullets(trim(recipe$ingredients)),
     "\n\n", 
     trim(recipe$method),
     "\n"

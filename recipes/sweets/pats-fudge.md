@@ -3,10 +3,10 @@ name: Pat's fudge
 source: Cornell Cookbook
 ---
 
-4oz butter
-1 can sweetened condensed milk
-3/4 can water
-2lb sugar
+* 4oz butter
+* 1 can sweetened condensed milk
+* 3/4 can water
+* 2lb sugar
 
 Heat all ingredients very gently in a large heavy bottomed non stick saucepan. 
 Stir until the mix is boiling. Simmer about 30 minutes, stirring frequently until thick and dark golden brown – about 120 C on a candy/jam thermometer (hard ball stage). 

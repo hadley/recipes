@@ -2,19 +2,19 @@
 name: Ginger pears
 ---
 
-2-3 pears peeled and cut into pieces
-1 T butter
-3 T golden syrup
-100g butter
-1/2 c brown sugar
-2 T golden syrup
-2 eggs lightly beaten
-1 c flour
-1/2 t baking powder
-1 t ground ginger
-1 t cinnamon
-pinch of nutmeg
-salt to taste
+* 2-3 pears peeled and cut into pieces
+* 1 T butter
+* 3 T golden syrup
+* 100g butter
+* 1/2 c brown sugar
+* 2 T golden syrup
+* 2 eggs lightly beaten
+* 1 c flour
+* 1/2 t baking powder
+* 1 t ground ginger
+* 1 t cinnamon
+* pinch of nutmeg
+* salt to taste
 
 Preheat oven to 180 C.   Warm the first measure of butter and golden syrup in a 20cm baking tin.  Arrange the pear pieces in tin.
 

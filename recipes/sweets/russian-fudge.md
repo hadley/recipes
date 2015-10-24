@@ -6,12 +6,12 @@ preparationTime: '0'
 comments: Very similar to Mella's West Cork Fudge.
 ---
 
-1/2 cup milk
-3 cup sugar
-1/2 tin sweetened condensed milk
-4oz butter
-1/4 teaspoon salt
-1 Tablespoon golden syrup
+* 1/2 cup milk
+* 3 cup sugar
+* 1/2 tin sweetened condensed milk
+* 4oz butter
+* 1/4 teaspoon salt
+* 1 Tablespoon golden syrup
 
 Heat all ingredients very gently in a large heavy bottomed non stick saucepan.  
 

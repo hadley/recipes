@@ -5,14 +5,14 @@ comments: Can vary by adding 1 tablespoon orange or lemon zest, or chopped glace
   or dipping in chocolate.
 ---
 
-1 cup almonds toasted and chopped coarsely
-1 t baking powder
-1/8 t salt
-2 cups all purpose flour
-3/4 cup white sugar
-3 large eggs
-1 t pure vanilla
-1/2 t pure almond extract
+* 1 cup almonds toasted and chopped coarsely
+* 1 t baking powder
+* 1/8 t salt
+* 2 cups all purpose flour
+* 3/4 cup white sugar
+* 3 large eggs
+* 1 t pure vanilla
+* 1/2 t pure almond extract
 
 Heat oven to 180C.
 

@@ -3,14 +3,14 @@ name: Cupcakes
 source: Hummingbird bakery (NZ version)
 ---
 
-120g flour
-140g caster sugar
-1 1/2 t baking powder
-pinch salt
-40g butter
-120 ml milk
-1 egg
-1/2 t vanilla
+* 120g flour
+* 140g caster sugar
+* 1 1/2 t baking powder
+* pinch salt
+* 40g butter
+* 120 ml milk
+* 1 egg
+* 1/2 t vanilla
 
 Beat first five ingredients until sandy. Whisk together milk, egg and vanilla, then gradually mix in. 
 

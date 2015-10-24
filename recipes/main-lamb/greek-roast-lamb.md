@@ -5,17 +5,17 @@ comments: |-
   WW 5 points per serve of 125g meat per person.
 ---
 
-Small boned leg lamb ( ~1kg)
-1 head garlic divided into cloves but unpeeled
-juice of 1 orange
-100ml red wine
-2 sprigs fresh rosemary
-1 onion cut inot wedges
-1 aubergine diced
-1 red pepper de-seeded and diced
-1 green pepper, deseeded and diced
-400g chopped tomatoes
-Salt and freshly ground black pepper
+* Small boned leg lamb ( ~1kg)
+* 1 head garlic divided into cloves but unpeeled
+* juice of 1 orange
+* 100ml red wine
+* 2 sprigs fresh rosemary
+* 1 onion cut inot wedges
+* 1 aubergine diced
+* 1 red pepper de-seeded and diced
+* 1 green pepper, deseeded and diced
+* 400g chopped tomatoes
+* Salt and freshly ground black pepper
 
 Put lamb in roasting pan and scatter garlic cloves around.  Pour over juice and wine and arrange rosemary sprigs on top.  Season.
 Roast uncovered for 1 hour at 170C.

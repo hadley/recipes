@@ -6,22 +6,21 @@ preparationTime: '30'
 comments: Very good
 ---
 
-FRUIT TOPPING
-1/2 c dried apricots
-1/2 c sultanas
-1/2 c diced prunes
-1 1/2 c water
-1/4 c brown sugar
-1/2 t cinnamon
-2 T butter
-
-SPONGE
-125g butter
-1/2 c castor sugar
-2 eggs
-4 T jam
-2 c self-raising flour
-1/4 c milk
+* FRUIT TOPPING
+* 1/2 c dried apricots
+* 1/2 c sultanas
+* 1/2 c diced prunes
+* 1 1/2 c water
+* 1/4 c brown sugar
+* 1/2 t cinnamon
+* 2 T butter
+* SPONGE
+* 125g butter
+* 1/2 c castor sugar
+* 2 eggs
+* 4 T jam
+* 2 c self-raising flour
+* 1/4 c milk
 
 1. Combine dried fruit and water in a heatproof mixing bowl.  Micro-cook, high power, 4-5 minutes. or until fruit is plump.  Drain off excess liquid and reserve.  Leave fruit to stand in bowl.
 

@@ -3,21 +3,18 @@ name: Pot roast
 source: From Jeff & internet
 ---
 
-A couple of pounds of cheap pot roast meat
-
-2 handfuls of 1-inch carrot slices
-1 can diced tomatoes
-2 cans water
-2 T tomato paste
-
-1/4 c lemon juice
-1/4 c vinegar
-3 T brown sugar
-2 T worchestshire sauce
-1/4 c tomato sauce
-2 T mustard
-
-potatoes
+* A couple of pounds of cheap pot roast meat
+* 2 handfuls of 1-inch carrot slices
+* 1 can diced tomatoes
+* 2 cans water
+* 2 T tomato paste
+* 1/4 c lemon juice
+* 1/4 c vinegar
+* 3 T brown sugar
+* 2 T worchestshire sauce
+* 1/4 c tomato sauce
+* 2 T mustard
+* potatoes
 
 Fry carrots in hot oil ~2 minutes (until browned) and remove. 
 

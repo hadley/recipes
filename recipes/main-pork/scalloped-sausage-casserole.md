@@ -6,12 +6,12 @@ preparationTime: '30'
 comments: kids don't like it
 ---
 
-8 sausages
-1 large onion, thinly sliced
-2 large potatoes, thinly sliced
-1 t curry powder
-43g pkt thick vegetable soup
-1 1/2 c water
+* 8 sausages
+* 1 large onion, thinly sliced
+* 2 large potatoes, thinly sliced
+* 1 t curry powder
+* 43g pkt thick vegetable soup
+* 1 1/2 c water
 
 1.  Prick sausages with a fork.  Arrange on paper towel in microwave oven.  Micro-cook, high power, 3 minutes.  Slice pre-cooked sausages.
 

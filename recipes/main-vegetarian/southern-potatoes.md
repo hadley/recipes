@@ -3,16 +3,16 @@ name: Southern potatoes
 source: From Susannah Koontz Webb
 ---
 
-4 pounds red potatoes
-6 bacon slices
-1 bunch green onions, chopped
-16 oz. sour cream
-2 cups shredded cheddar cheese
-1/3 cup butter, softened
-1/4 cup milk (I use half-n-half)
-1 teaspoon salt
-1/2 teaspoon pepper
-1/2 teaspoon garlic (optional)
+* 4 pounds red potatoes
+* 6 bacon slices
+* 1 bunch green onions, chopped
+* 16 oz. sour cream
+* 2 cups shredded cheddar cheese
+* 1/3 cup butter, softened
+* 1/4 cup milk (I use half-n-half)
+* 1 teaspoon salt
+* 1/2 teaspoon pepper
+* 1/2 teaspoon garlic (optional)
 
 Cook bacon in a large skillet until crisp.  Remove bacon and drain on paper towels, reserving 2 tablespoons drippings in skillet.  Add chopped green onions to skillet and cook for 1 minute or until tender.  Crumble  bacon and return to skillet.  Set mixture aside.
  

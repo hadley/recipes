@@ -3,21 +3,21 @@ name: Hot cross buns
 source: Cornell Cookbook
 ---
 
-1 c milk
-1/2 c hot water
-2 T sugar
-2 T dried yeast
-2 c flour
-100g butter
-1/2 c sugar
-1 egg
-1 t salt
-1 1/2 T mixed spice
-1 t ground nutmeg 
-2 t cocoa
-1 t vanilla essence
-1 c mixed dried fruit
-2-3 c flour (warmed)
+* 1 c milk
+* 1/2 c hot water
+* 2 T sugar
+* 2 T dried yeast
+* 2 c flour
+* 100g butter
+* 1/2 c sugar
+* 1 egg
+* 1 t salt
+* 1 1/2 T mixed spice
+* 1 t ground nutmeg 
+* 2 t cocoa
+* 1 t vanilla essence
+* 1 c mixed dried fruit
+* 2-3 c flour (warmed)
 
 Mix milk, hot water and 2T sugar in metal bowl.  Sprinkle in yeast.  Leave to stand until bubbles appear.  Add  2 c flour and leave to stand.
 

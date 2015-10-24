@@ -3,24 +3,24 @@ name: Chicken tortilla soup
 source: http://thepioneerwoman.com/cooking/2011/01/chicken-tortilla-soup/
 ---
 
-2 whole Boneless, Skinless Chicken Breasts
-1 T Olive Oil
-1-1/2 t Cumin
-1 t Chili Powder
-1/2 t Garlic Powder
-1/2 t Salt
-1 T Olive Oil
-1 cup Diced Onion
-1/4 cup Diced Green Bell Pepper
-1/4 cup Red Bell Pepper
-3 cloves Garlic, Minced
-1 can tomatoes (and green chilli)
-32 oz chicken stock
-3 T Tomato Paste
-4 cups hot water
-2 cans (15 Oz. Can) black beans, drained
-3 T cornmeal
-5 corn tortillas, cut in 2" strips
+* 2 whole Boneless, Skinless Chicken Breasts
+* 1 T Olive Oil
+* 1-1/2 t Cumin
+* 1 t Chili Powder
+* 1/2 t Garlic Powder
+* 1/2 t Salt
+* 1 T Olive Oil
+* 1 cup Diced Onion
+* 1/4 cup Diced Green Bell Pepper
+* 1/4 cup Red Bell Pepper
+* 3 cloves Garlic, Minced
+* 1 can tomatoes (and green chilli)
+* 32 oz chicken stock
+* 3 T Tomato Paste
+* 4 cups hot water
+* 2 cans (15 Oz. Can) black beans, drained
+* 3 T cornmeal
+* 5 corn tortillas, cut in 2" strips
 
 Preheat oven to 375 degrees. Mix cumin, chili pepper, garlic powder, and salt. Drizzle 1 tablespoon olive oil on chicken breasts, then sprinkle a small amount of spice mix on both sides. Set aside the rest of the spice mix.
 

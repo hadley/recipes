@@ -6,15 +6,15 @@ preparationTime: '60'
 comments: delicious
 ---
 
-170g Sweet Short Pastry
-3 eggs, separated
-1 c water
-Juice and rind of 2 medium lemons
-1 c sugar
-1 T butter
-4 T cornflour
-4 T castor sugar
-1/2 t vanilla essence
+* 170g Sweet Short Pastry
+* 3 eggs, separated
+* 1 c water
+* Juice and rind of 2 medium lemons
+* 1 c sugar
+* 1 T butter
+* 4 T cornflour
+* 4 T castor sugar
+* 1/2 t vanilla essence
 
 Roll pastry and line a 23cm pie dish and bake at 200C for 20 minutes - cool.
 

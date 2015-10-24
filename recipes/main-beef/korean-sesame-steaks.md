@@ -3,10 +3,10 @@ name: Korean sesame steaks
 source: Meat International
 ---
 
-4 Rib eye steaks or 500g skirt steak cut across grain in thin slice, or pork loin, chicken or lamb
-2 T soy sauce
-1-2 cloves garlic, crushed
-1 T sesame oil
+* 4 Rib eye steaks or 500g skirt steak cut across grain in thin slice, or pork loin, chicken or lamb
+* 2 T soy sauce
+* 1-2 cloves garlic, crushed
+* 1 T sesame oil
 
 Combine the steaks with the remaining ingredients in a shallow dish or unpunctured plastic bag.  Leave to stand for 30 minutes.  
 

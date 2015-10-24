@@ -5,17 +5,17 @@ cookTime: '22'
 preparationTime: '15'
 ---
 
-1 stick celery
-1 onion
-1 t butter
-2 carrots
-500g mince
-37g pkt soup powder
-2 T flour
-1 c water
-1 T Worcester sauce
-2 T tomato sauce
-1/2 c frozen peas
+* 1 stick celery
+* 1 onion
+* 1 t butter
+* 2 carrots
+* 500g mince
+* 37g pkt soup powder
+* 2 T flour
+* 1 c water
+* 1 T Worcester sauce
+* 2 T tomato sauce
+* 1/2 c frozen peas
 
 1.  Thinly slice celery and onion.  Combine in a medium-sized casserole dish with butter.  Micro-cook, uncovered, high power, 4 minutes.
 

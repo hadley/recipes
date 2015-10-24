@@ -2,18 +2,16 @@
 name: Rhubarb & Orange Cake or Pudding
 ---
 
-100g butter
-½ cup white sugar
-2 eggs
-1 cup and two teaspoons of plain white flour
-1 heaped teaspoon baking powder
-¼ cup of milk
-250gm rhubarb washed and chopped into 1 cm pieces
-¼ cup light golden brown sugar 
-1 small orange for zest and ¼ cup of juice
-
-
- 
+* 100g butter
+* ½ cup white sugar
+* 2 eggs
+* 1 cup and two teaspoons of plain white flour
+* 1 heaped teaspoon baking powder
+* ¼ cup of milk
+* 250gm rhubarb washed and chopped into 1 cm pieces
+* ¼ cup light golden brown sugar 
+* 1 small orange for zest and ¼ cup of juice
+*  
 
 Line a 23 x13 cm tin with baking paper.
 Heat the oven to 160 C

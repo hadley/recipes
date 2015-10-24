@@ -9,15 +9,15 @@ comments: |-
   Great for starter cooks.
 ---
 
-2 eggs
-3 mashed bananas
-1 c raw sugar
-4 T melted butter
-1 1/2 c wholemeal flour
-1 t baking soda
-1/4 t salt
-2 tablespoons chocolate chips
-½ cup pecans
+* 2 eggs
+* 3 mashed bananas
+* 1 c raw sugar
+* 4 T melted butter
+* 1 1/2 c wholemeal flour
+* 1 t baking soda
+* 1/4 t salt
+* 2 tablespoons chocolate chips
+* ½ cup pecans
 
 Preheat oven to 180C.
 

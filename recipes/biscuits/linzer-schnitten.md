@@ -4,20 +4,19 @@ source: Cornell Cookbook
 comments: A Christmas treat.
 ---
 
-2 eggs
-1 1/2 c sugar
-175g butter
-3 1/2 c flour
-1 t baking powder
-2 t cinnamon
-1 t ground cloves
-1/4 t salt
-1 t finely grated lemon rind
-raspberry or red plum jam
-
-Glaze:
-1 egg
-1/2 c sugar
+* 2 eggs
+* 1 1/2 c sugar
+* 175g butter
+* 3 1/2 c flour
+* 1 t baking powder
+* 2 t cinnamon
+* 1 t ground cloves
+* 1/4 t salt
+* 1 t finely grated lemon rind
+* raspberry or red plum jam
+* Glaze:
+* 1 egg
+* 1/2 c sugar
 
 Beat eggs lightly and gradually beat in sugar.
 

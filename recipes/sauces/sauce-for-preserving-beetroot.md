@@ -3,10 +3,10 @@ name: Sauce for preserving beetroot
 source: Tawa neighbour
 ---
 
-1 cup water
-1 cup sugar
-2 cups malt vinegar
-1 tablespoon salt.
+* 1 cup water
+* 1 cup sugar
+* 2 cups malt vinegar
+* 1 tablespoon salt.
 
 Boil sauce for ten minutes.  
 

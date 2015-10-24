@@ -5,10 +5,10 @@ cookTime: '60'
 preparationTime: '30'
 ---
 
-500g dried apricots
-9 c water
-5 lemons
-8 c sugar
+* 500g dried apricots
+* 9 c water
+* 5 lemons
+* 8 c sugar
 
 Soak apricots in half the water overnight.  Boil whole lemons, uncovered, in remaining water until soft.  Remove lemons and retain water.  When cold slice lemons thinly, removing pips and setting aside.
 

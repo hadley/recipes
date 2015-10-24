@@ -6,23 +6,22 @@ comments: |-
   Like pizza but much lower fat!
 ---
 
-Dough
-1 teaspoon sugar
-1/2 cup warm water
-1/2 cup warm milk
-1 tablespoon dried yeast
-2 cups flour
-1/2 teaspoon salt
-2 tablespoons oil
-
-Filling
-2-3 cups cold roasted 'Mediterranean' vegetables - red onions, courgettes, peppers, pumpkin etc
-1 bunch spinach - wash then cook until wilted in water clinging to leaves
-2 tablespoons tomato paste
-1-2 tablespoons pesto
-50g shaved ham or nay other tasty leftovers
-100g middle bacon (3 full rashers approx.)
-grated parmesan
+* Dough
+* 1 teaspoon sugar
+* 1/2 cup warm water
+* 1/2 cup warm milk
+* 1 tablespoon dried yeast
+* 2 cups flour
+* 1/2 teaspoon salt
+* 2 tablespoons oil
+* Filling
+* 2-3 cups cold roasted 'Mediterranean' vegetables - red onions, courgettes, peppers, pumpkin etc
+* 1 bunch spinach - wash then cook until wilted in water clinging to leaves
+* 2 tablespoons tomato paste
+* 1-2 tablespoons pesto
+* 50g shaved ham or nay other tasty leftovers
+* 100g middle bacon (3 full rashers approx.)
+* grated parmesan
 
 Make dough by sprinkling yeast over a mix of sugar, water and milk at lukewarm temperature.  When it begins to bubble add flour,salt and oil then knead until smooth and elastic.  Put in greased bowl and leave until doubled in size.
 

@@ -2,13 +2,13 @@
 name: Uncooked coffee gateau
 ---
 
-1 lb sponge cake
-6oz butter
-3/4 c castor sugar
-3 egg yolks
-3/4 c black coffee
-1 1/2 T coffee mixed with 1 1/2 T whisky or brandy, rum or sherry
-Whipped cream
+* 1 lb sponge cake
+* 6oz butter
+* 3/4 c castor sugar
+* 3 egg yolks
+* 3/4 c black coffee
+* 1 1/2 T coffee mixed with 1 1/2 T whisky or brandy, rum or sherry
+* Whipped cream
 
 Slice sponge into three horizontally, using top slices, line the side of a 7 inch loose bottomed cake tin.  
 

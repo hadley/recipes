@@ -4,22 +4,22 @@ source: Cornell Cookbook
 comments: EXCELLENT
 ---
 
-Crumb Crust:
-250g plain chocolate biscuits
-125g butter
-Filling:
-1/2 c water
-1 T gelatine
-1 pkt cream cheese (250g)
-3/4 c sugar
-300ml thickened cream
-1 T lemon juice
-425g can cherries
-Topping:
-1 T cornflour
-1 T rum
-1 T sugar
-1/2 c cream, extra
+* Crumb Crust:
+* 250g plain chocolate biscuits
+* 125g butter
+* Filling:
+* 1/2 c water
+* 1 T gelatine
+* 1 pkt cream cheese (250g)
+* 3/4 c sugar
+* 300ml thickened cream
+* 1 T lemon juice
+* 425g can cherries
+* Topping:
+* 1 T cornflour
+* 1 T rum
+* 1 T sugar
+* 1/2 c cream, extra
 
 Crumb Crust:
 

@@ -3,18 +3,18 @@ name: Hamburger stroganoff casserole
 source: Meat International
 ---
 
-1 packet "kluski" noodles
-50g butter
-2 large onions
-2 cloves garlic, sliced
-200-300g button mushrooms
-1 kg minced beef
-1 pkt mushroom soup
-1 T instant beef stock
-2 c water
-2-3 T tomato concentrate.
-1 carton sour cream
-1/4 c parmesan cheese
+* 1 packet "kluski" noodles
+* 50g butter
+* 2 large onions
+* 2 cloves garlic, sliced
+* 200-300g button mushrooms
+* 1 kg minced beef
+* 1 pkt mushroom soup
+* 1 T instant beef stock
+* 2 c water
+* 2-3 T tomato concentrate.
+* 1 carton sour cream
+* 1/4 c parmesan cheese
 
 Cook noodles until barely tender.  Drain, rinse, and spread in one or more shallow greased (or sprayed) ovenware dishes.
 

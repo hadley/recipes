@@ -5,16 +5,14 @@ comments: (Traditional version made and sold for Clonakilty Market & Inchydoney 
   & Spa by A Wickham in the early part of the 21st century.)
 ---
 
-1/2 lb butter (I use the regular kind. Butter needs to sit at room temperature for a while to be soft enough- not oily though.) 
-3/4 cup caster sugar
-2 and 1/2 ounces cornflour
-10 ounces of plain flour
-1/4 teaspoon salt
-
-                                         ******
-
-ALISON'S CHRISTMAS VARIATION:
-Add 1 teaspoon almond essence to the butter and sugar mix. Add 1 cup of almonds (lightly toasted then cooled and chopped)  to the mix after the dry ingredients.  Decorate with cherries if desired. **
+* 1/2 lb butter (I use the regular kind. Butter needs to sit at room temperature for a while to be soft enough- not oily though.) 
+* 3/4 cup caster sugar
+* 2 and 1/2 ounces cornflour
+* 10 ounces of plain flour
+* 1/4 teaspoon salt
+*                                          ******
+* ALISON'S CHRISTMAS VARIATION:
+* Add 1 teaspoon almond essence to the butter and sugar mix. Add 1 cup of almonds (lightly toasted then cooled and chopped)  to the mix after the dry ingredients.  Decorate with cherries if desired. **
 
 Cream butter and sugar and then add in remaining ingredients.   Mix well.
 Turn out onto a long strip of greaseproof paper.  Using the paper to help, shape into a long rectangular log about 2 inches by 1 inch and cut into 40 pieces (about 1/4 inch deep).

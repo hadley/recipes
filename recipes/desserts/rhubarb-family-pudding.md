@@ -4,19 +4,18 @@ source: Newspaper
 comments: EXCELLENT
 ---
 
-200g butter
-1 c sugar
-4 eggs 
-2 c flour 
-2 1/4 t baking powder 
-1/3 c milk 
-
-TOPPING:
-500g Rhubarb
-1/2 c sugar 
-1 T flour 
-1 t cinnamon 
-icing sugar
+* 200g butter
+* 1 c sugar
+* 4 eggs 
+* 2 c flour 
+* 2 1/4 t baking powder 
+* 1/3 c milk 
+* TOPPING:
+* 500g Rhubarb
+* 1/2 c sugar 
+* 1 T flour 
+* 1 t cinnamon 
+* icing sugar
 
 In a food processor or bowl, cream the warmed (but not melted) butter and sugar, add the eggs one at a time, then stir in the dry ingredients alternately with the milk, until both are combined.  
 

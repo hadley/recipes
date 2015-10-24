@@ -2,11 +2,11 @@
 name: Bagels
 ---
 
-1lb strong white flour
-1 T brown sugar
-2 t salt
-1 sachet (7g) easy blend yeast 
-300 ml water
+* 1lb strong white flour
+* 1 T brown sugar
+* 2 t salt
+* 1 sachet (7g) easy blend yeast 
+* 300 ml water
 
 Mix flour, sugar, salt and yeast.  Add enough water to make dough.  
 

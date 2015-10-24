@@ -6,18 +6,17 @@ preparationTime: '20'
 comments: yummy
 ---
 
-4oz butter
-4oz sugar
-1 egg
-1 1/2 c flour
-2 T custard powder
-1 t baking powder
-
-FILING:
-3oz butter
-1/2 tin sweetened condensed milk
-2 T golden syrup
-1/4 c sugar
+* 4oz butter
+* 4oz sugar
+* 1 egg
+* 1 1/2 c flour
+* 2 T custard powder
+* 1 t baking powder
+* FILING:
+* 3oz butter
+* 1/2 tin sweetened condensed milk
+* 2 T golden syrup
+* 1/4 c sugar
 
 Cream butter and sugar, add egg, then dry ingredients.  Divide shortcake in two.  Press one half into tin.
 

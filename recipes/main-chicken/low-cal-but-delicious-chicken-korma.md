@@ -4,19 +4,19 @@ source: Internet
 comments: "Serves 4 \n5 points per serve"
 ---
 
-450g skinless, boneless, chicken breast cubed
-2 medium onions chopped
-1 medium apple chopped
-4 teaspoons mild curry powder
-300 mls chicken or vegetable stock
-25g sultanas or raisins
-1 tablespoon tomato puree
-125g basmati rice
-1 medium banana
-8 tablespoons plain low fat yogurt
-pinch salt
-freash ground black pepper
-4 sprigs fresh coriander
+* 450g skinless, boneless, chicken breast cubed
+* 2 medium onions chopped
+* 1 medium apple chopped
+* 4 teaspoons mild curry powder
+* 300 mls chicken or vegetable stock
+* 25g sultanas or raisins
+* 1 tablespoon tomato puree
+* 125g basmati rice
+* 1 medium banana
+* 8 tablespoons plain low fat yogurt
+* pinch salt
+* freash ground black pepper
+* 4 sprigs fresh coriander
 
 Lightly spray fry pan with low fat cookiing spray. Saute onions and apple for 4 minutes.  Add curry powder and cook a few moments longer.
 

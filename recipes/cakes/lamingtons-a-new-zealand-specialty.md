@@ -5,13 +5,13 @@ comments: In US a lot of coconut is sold in a sweetened form. You need plain des
   - nothing else.
 ---
 
-2 T butter
-2 T cocoa
-6 T water, boiling
-3/4 lb icing sugar
-vanilla essence
-coconut
-A ready made rectangular sponge cake
+* 2 T butter
+* 2 T cocoa
+* 6 T water, boiling
+* 3/4 lb icing sugar
+* vanilla essence
+* coconut
+* A ready made rectangular sponge cake
 
 Melt butter and add cocoa and water.  Add icing sugar and essence and mix until smooth.  
 

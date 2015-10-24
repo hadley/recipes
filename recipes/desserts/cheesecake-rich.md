@@ -4,19 +4,19 @@ source: Cornell Cookbook
 comments: EXCELLENT
 ---
 
-CRUST:
-1/2 c flour
-2 T sugar
-50g cold butter
-1 egg yolk
-FILLING:
-750g (3 cartons) cream cheese
-1 c sugar
-3 T flour
-1 t vanilla
-1 t fine grated citrus rind
-3 eggs
-2 T milk
+* CRUST:
+* 1/2 c flour
+* 2 T sugar
+* 50g cold butter
+* 1 egg yolk
+* FILLING:
+* 750g (3 cartons) cream cheese
+* 1 c sugar
+* 3 T flour
+* 1 t vanilla
+* 1 t fine grated citrus rind
+* 3 eggs
+* 2 T milk
 
 To make the crust, either combine the first three ingredients in the food processor, mix until butter is finely chopped then add egg yolk and mix to a dough or rub or cut butter into dry ingredients, then add egg yolk and mix with a fork until combined.
 

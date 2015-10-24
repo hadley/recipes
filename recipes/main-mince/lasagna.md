@@ -3,23 +3,19 @@ name: Lasagna
 source: Jeffrey Edwards
 ---
 
-1 lb lasagna
-
-Meat layer:
-500g mince
-1 large jar of pasta sauce
-
-Cheese layer:
-Large tub of cottage cheese
-2 eggs
-1 cup of cheese
-Salt & pepper
-
-Veggies:
-Spinach
-Mushrooms
-
-Extra cheese for topping
+* 1 lb lasagna
+* Meat layer:
+* 500g mince
+* 1 large jar of pasta sauce
+* Cheese layer:
+* Large tub of cottage cheese
+* 2 eggs
+* 1 cup of cheese
+* Salt & pepper
+* Veggies:
+* Spinach
+* Mushrooms
+* Extra cheese for topping
 
 Boil lasagna according to package.  Brown mince and heat through with pasta sauce.  Mix cottage cheese, eggs & cheese together.  
 

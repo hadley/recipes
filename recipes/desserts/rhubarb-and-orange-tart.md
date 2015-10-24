@@ -6,14 +6,14 @@ preparationTime: '30'
 comments: delicious
 ---
 
-8oz sweet pastry
-1 lb rhubarb
-6oz sugar
-1oz flour
-1 egg, beaten
-Orange rind, grate
-2 T orange juice
-1/2 c water
+* 8oz sweet pastry
+* 1 lb rhubarb
+* 6oz sugar
+* 1oz flour
+* 1 egg, beaten
+* Orange rind, grate
+* 2 T orange juice
+* 1/2 c water
 
 Line a pie dish with sweet pastry.  
 

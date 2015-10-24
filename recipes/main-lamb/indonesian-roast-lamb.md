@@ -4,17 +4,17 @@ source: Meat International
 comments: Serve with rice.
 ---
 
-1 small shoulder roast
-juice of 1 lemon
-2 T dark soy sauce
-3-4 drops tabasco
-1 T oil
-2 cloves garlic, chopped
-1 t ground coriander
-1/2 t ground ginger
-1/4 c brown sugar
-2 T smooth peanut butter
-1/4 c water
+* 1 small shoulder roast
+* juice of 1 lemon
+* 2 T dark soy sauce
+* 3-4 drops tabasco
+* 1 T oil
+* 2 cloves garlic, chopped
+* 1 t ground coriander
+* 1/2 t ground ginger
+* 1/4 c brown sugar
+* 2 T smooth peanut butter
+* 1/4 c water
 
 Tie roast if necessary.  Put in an unpunctured bag with the next seven ingredients.  Marinate at least 1/2 hour, or up to two days. 
 

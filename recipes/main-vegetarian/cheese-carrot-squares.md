@@ -3,14 +3,14 @@ name: Cheese & Carrot Squares
 source: Living Today
 ---
 
-500g carrots
-1 onion, diced
-2 cloves garlic, crushed
-25g butter
-1 c self-raising flour
-1 c cheese, grated
-4 eggs, lightly beaten
-salt and pepper
+* 500g carrots
+* 1 onion, diced
+* 2 cloves garlic, crushed
+* 25g butter
+* 1 c self-raising flour
+* 1 c cheese, grated
+* 4 eggs, lightly beaten
+* salt and pepper
 
 Pre-heat the oven to 180C.  Peel the carrots and grate.
 Saute the onion and garlic in butter in a heavy pan until soft.

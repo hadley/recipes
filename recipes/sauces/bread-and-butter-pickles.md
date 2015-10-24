@@ -3,14 +3,14 @@ name: Bread and butter pickles
 source: Alison Holst Calendar
 ---
 
-2 L sliced cucumbers
-1/2 - 1 L sliced onion
-1/2 c salt
-3 c white wine vinegar
-2 c sugar
-1 T mustard seeds
-1 T celery seeds
-1 t turmeric
+* 2 L sliced cucumbers
+* 1/2 - 1 L sliced onion
+* 1/2 c salt
+* 3 c white wine vinegar
+* 2 c sugar
+* 1 T mustard seeds
+* 1 T celery seeds
+* 1 t turmeric
 
 Slice cucumbers and onions thinly into 2 L ice cream containers for easy measuring.  Sprinkle the sliced vegetables with salt, cover with cold water and leave to stand for 8 - 12 hours, then discard salty water and drain well.
 

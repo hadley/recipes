@@ -4,14 +4,13 @@ source: Edmonds Cook Book, page 119
 cookTime: '45'
 ---
 
-Stewed fruit
-
-SPONGE TOP:
-4oz (125g) butter
-4oz (125g) sugar
-1 egg
-4oz (125g) flour
-2 t baking powder
+* Stewed fruit
+* SPONGE TOP:
+* 4oz (125g) butter
+* 4oz (125g) sugar
+* 1 egg
+* 4oz (125g) flour
+* 2 t baking powder
 
 Half fill pudding dish or pie-disk with stewed, sweetened fruit and keep hot.  
 

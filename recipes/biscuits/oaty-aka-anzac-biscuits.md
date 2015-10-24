@@ -3,15 +3,15 @@ name: Oaty (aka ANZAC) biscuits
 comments: If you like a a softer cookie take out of the oven sooner.
 ---
 
-100g butter
-1/4 c golden syrup
-1 t vanilla essence
-1 c sugar
-1 c rolled oats
-1 c coconut
-1 c flour
-1/2 t baking soda
-2 T warm water
+* 100g butter
+* 1/4 c golden syrup
+* 1 t vanilla essence
+* 1 c sugar
+* 1 c rolled oats
+* 1 c coconut
+* 1 c flour
+* 1/2 t baking soda
+* 2 T warm water
 
 Melt the butter in a fairly large saucepan.  Measure the golden syrup in a 1/4 c measure rinsed in very hot water, so the syrup tips out easily.
 

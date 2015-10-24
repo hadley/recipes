@@ -3,23 +3,23 @@ name: Easy Mix, no crumble,  Christmas or Wedding Cake
 source: Jo from NHSC
 ---
 
-1 tin sweetened condensed milk
-1/4 lb butter
-2 T golden syrup
-4 eggs
-1 t vanilla essence
-1 t lemon essence
-1 t almond essence
-2 c flour
-pinch salt
-1/2 t mixed spice
-1/2 t nutmeg
-1/2 t curry powder
-3 lb mixed fruit
-1 t baking soda
-1/4 c milk
-16oz tin crushed pineapple (drained)
-2 tablespoons sherry
+* 1 tin sweetened condensed milk
+* 1/4 lb butter
+* 2 T golden syrup
+* 4 eggs
+* 1 t vanilla essence
+* 1 t lemon essence
+* 1 t almond essence
+* 2 c flour
+* pinch salt
+* 1/2 t mixed spice
+* 1/2 t nutmeg
+* 1/2 t curry powder
+* 3 lb mixed fruit
+* 1 t baking soda
+* 1/4 c milk
+* 16oz tin crushed pineapple (drained)
+* 2 tablespoons sherry
 
 Melt over hot water, 1 tin sweetened condensed milk, 1/4 lb. butter and 2 tablespoons golden syrup.  
 

@@ -4,15 +4,15 @@ source: Mmm Muffins, page 18
 cookTime: '20'
 ---
 
-1 egg
-3/4 c milk
-1/3 c oil
-1 3/4 c flour
-3/4 t salt
-1/4 c sugar
-2 1/2 t baking powder
-2 T lemon rind
-3/4 c blueberries
+* 1 egg
+* 3/4 c milk
+* 1/3 c oil
+* 1 3/4 c flour
+* 3/4 t salt
+* 1/4 c sugar
+* 2 1/2 t baking powder
+* 2 T lemon rind
+* 3/4 c blueberries
 
 Lightly oil a muffin tin and preheat the oven to 200C.  This recipe makes 12 muffins.
 

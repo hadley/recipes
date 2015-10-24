@@ -4,17 +4,16 @@ source: Alison Wickham
 comments: Satisfying and tasty for a cold night. Looks colourful and tastes great.
 ---
 
-250g lean bacon 
-2 leeks or 1 large onion - sliced finely
-1 large carrot grated
-2 cloves garlic minced
-1 large potato, peeled and diced
-1 15 ounce can chopped tomatoes and juice
-1/2 tsp brown sugar
-I/2 t chicken or veg. stock
-1/2 cup water
-
-2 cups very thinly sliced cabbage
+* 250g lean bacon 
+* 2 leeks or 1 large onion - sliced finely
+* 1 large carrot grated
+* 2 cloves garlic minced
+* 1 large potato, peeled and diced
+* 1 15 ounce can chopped tomatoes and juice
+* 1/2 tsp brown sugar
+* I/2 t chicken or veg. stock
+* 1/2 cup water
+* 2 cups very thinly sliced cabbage
 
 Brown bacon in a large saucepan - drain off excess fat. 
 

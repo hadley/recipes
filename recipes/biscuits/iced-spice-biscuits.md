@@ -6,16 +6,15 @@ preparationTime: '20'
 comments: Very nice as Christmas gifts.
 ---
 
-8oz flour
-4oz butter
-4oz brown sugar
-1 egg, beaten
-2 t mixed spice
-pinch salt
-
-ICING:
-4oz icing sugar
-1 T water, hot
+* 8oz flour
+* 4oz butter
+* 4oz brown sugar
+* 1 egg, beaten
+* 2 t mixed spice
+* pinch salt
+* ICING:
+* 4oz icing sugar
+* 1 T water, hot
 
 Cream butter and sugar.  Add egg.  Sift in flour, spice and salt.  Cut into shapes with cutters, cook at 180C for 12 minutes.  
 Ice when cool.

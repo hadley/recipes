@@ -6,14 +6,14 @@ comments: |-
   Lemon may be substituted for orange if desired.
 ---
 
-225g butter
-225g caster sugar
-6 eggs at room temperature
-110g wheat-free and gluten-free plain flour
-110g cornflour
-4 level teaspons gluten-free baking powder
-55 g ground almonds
-finely grated zest of an orange
+* 225g butter
+* 225g caster sugar
+* 6 eggs at room temperature
+* 110g wheat-free and gluten-free plain flour
+* 110g cornflour
+* 4 level teaspons gluten-free baking powder
+* 55 g ground almonds
+* finely grated zest of an orange
 
 Preheat oven to 180 C/Gas 4 and place muffin paper cases in a large 12 cup muffin tin. 
 
