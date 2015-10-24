@@ -27,7 +27,7 @@ save_recipe <- function(recipe) {
   
   if (meta$name == toupper(meta$name)) {
     meta$name <- tolower(meta$name)
-    substring(meta$name, 1, 1) <- to_upper(substring(meta$name, 1, 1))
+    substring(meta$name, 1, 1) <- toupper(substring(meta$name, 1, 1))
   }
   
   if (length(meta) > 0) {
