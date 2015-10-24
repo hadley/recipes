@@ -16,8 +16,6 @@ comments: "This is a biscuit recipe, not a slice and is complete.  \n\nAdmin. pl
 2oz walnuts
 3oz dates
 
----
-
 Cream butter and sugar.  Warm syrup and milk and add soda and ginger.  Add chopped dates and nuts.  Sift in flour, salt and mix well.
 
 Roll into balls, place on tray and flatten with a fork.

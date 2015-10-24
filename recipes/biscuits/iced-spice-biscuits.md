@@ -17,8 +17,6 @@ ICING:
 4oz icing sugar
 1 T water, hot
 
----
-
 Cream butter and sugar.  Add egg.  Sift in flour, spice and salt.  Cut into shapes with cutters, cook at 180C for 12 minutes.  
 Ice when cool.
 

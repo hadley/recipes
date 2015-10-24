@@ -15,7 +15,5 @@ comments: Hearty comfort food
 
 1 1/2 smoked gouda, grated
 
----
-
 Make roux and cook for ~10 minutes.  Add potatoes and green onions and cook for another 10 minutes.  Mix in remaining ingredients.
 

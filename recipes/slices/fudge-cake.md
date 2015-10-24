@@ -14,8 +14,6 @@ cookTime: '20'
 1 c coconut
 1 c sultanas
 
----
-
 Cream butter and sugar and vanilla essence.  Beat in egg, then add dry ingredients.  Spread in shallow tin (8" x 10").  Bake at 180C for 20 minutes.
 
 Cut and ice with chocolate icing while still warm.

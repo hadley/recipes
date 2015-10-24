@@ -12,7 +12,5 @@ source: Notebook
 pinch salt
 1 c cornflakes
 
----
-
 Cream butter and sugar.  Add lightly beaten egg.  Sift in flour and baking powder.  Mix in raisins, salt and cornflakes.  Bake at 180C for 20 minutes.
 

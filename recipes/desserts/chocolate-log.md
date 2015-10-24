@@ -15,8 +15,6 @@ comments: |-
 2T icing sugar
 1T brandy
 
----
-
 Beat yolks and add sugar and beat until thick and pale.  Break chocolate into pieces and melt. Add to yolks and sugar.  Beat egg whites until stiff and fold in. Fold in sifted flour. 
 
 Spread into a greased and floured sponge roll tin with grease proof paper on bottom at 190C for 15 minutes.  

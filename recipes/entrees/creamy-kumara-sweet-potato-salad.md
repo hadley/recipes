@@ -12,8 +12,6 @@ source: The vegie cookbook, page 60
 1/4 c milk
 freshly ground black pepper
 
----
-
 Scrub the kumara, do not peel.  Cut in half and boil for 20-25 minutes or until softened but still firm.  Drain and cut into bite-sized chunks.
 
 Place the kumara, raisins, pepper and orange rind in a large bowl.  Blend the orange juice, sour cream and milk together.  Pour over the kumara and mix well.  Season generously with black pepper.

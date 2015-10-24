@@ -16,8 +16,6 @@ comments: A Dutch thin crisp spicy biscuit.
 2 t mixed spice
 1/4 t baking soda
 
----
-
 Cream butter and sugar, add beaten eggs and almond essence.  Then add sifted dry ingredients.  Shape in log and place in fridge.  Slice when cool.  Bake at 180C for  15 minutes.
 
 Can also roll out dough and cut into shapes for Christmas.

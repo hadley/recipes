@@ -16,7 +16,5 @@ Sift flour and baking powder and add to creamed mix with milk. fold in berries- 
 Spoon into prepared muffin tins and bake for 15mins or until tops are springy.
  Let cool slightly before turning out of tins.  Sift icing sugar over top to serve.
 
----
-
 
 

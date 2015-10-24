@@ -13,8 +13,6 @@ comments: kids don't like it
 43g pkt thick vegetable soup
 1 1/2 c water
 
----
-
 1.  Prick sausages with a fork.  Arrange on paper towel in microwave oven.  Micro-cook, high power, 3 minutes.  Slice pre-cooked sausages.
 
 2.  Place sliced potatoes and onion in a casserole dish.  Add 1 T water.  Micro-cook, high power, 5-6 minutes. or until vegetables are tender.

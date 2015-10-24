@@ -12,7 +12,5 @@ source: Notebook
 1 c chopped walnuts
 1 egg
 
----
-
 Sift flour and rub in butter.  Add  brown sugar, cocoa, baking powder, chopped dates, chopped walnuts.  Mix with egg.  Bake for 20-25 at 180C.
 

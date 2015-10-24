@@ -13,8 +13,6 @@ comments: Easy and great to look at - even better to eat.
 1 cup walnut halves
 395g can sweetened condensed milk
 
----
-
 Preheat oven to 180 degrees C.  Line sponge roll tin with baking paper.
 
 Combine first five ingredients and press into pan.

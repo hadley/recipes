@@ -10,7 +10,5 @@ cornflour
 1 t butter
 1 t vanilla essence
 
----
-
 Cover sultanas and mixed spice with water and boil.  Thicken with cornflour and add butter and vanilla essence.  Cool.
 

@@ -16,8 +16,6 @@ source: Gifts from the Pantry the New Zealand way
 2 c white sugar
 3-4 c white vinegar
 
----
-
 Peel apples and cut into chunks.  Peel onions & garlic and slice finely.  Combine all ingredients into a large deep saucepan.
 
 Bring to boil stirring to dissolve sugar.  Reduce heat and simmer gently for 40 minutes until fruit is soft and mixture is thick.  Stir often to prevent sticking.  Add extra vinegar if it gets too thick.  Spoon into prepared jars and seal.

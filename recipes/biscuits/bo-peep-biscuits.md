@@ -13,7 +13,5 @@ preparationTime: '0'
 2oz cornflour
 1 t baking powder
 
----
-
 Cream butter and sugar, add egg then dry ingredients.  Place small teaspoons on greased tray.  Press a hollow in the top and fill with jam.  Bake at 180C for 20 minutes.
 

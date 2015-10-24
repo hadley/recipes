@@ -24,8 +24,6 @@ Filling
 100g middle bacon (3 full rashers approx.)
 grated parmesan
 
----
-
 Make dough by sprinkling yeast over a mix of sugar, water and milk at lukewarm temperature.  When it begins to bubble add flour,salt and oil then knead until smooth and elastic.  Put in greased bowl and leave until doubled in size.
 
 Roll out dough into rectangle about 30cmX36cm (on a non-stick flexible baking sheet to make the next steps easy).

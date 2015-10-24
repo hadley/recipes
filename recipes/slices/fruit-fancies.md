@@ -14,7 +14,5 @@ preparationTime: '0'
 1 T honey
 Milk
 
----
-
 Sift flour and baking powder, add other dry ingredients and fruit.  Add butter and honey melted together and add enough milk to make a moist mixture.  Press into a sponge roll tin and bake at 180C for 20 minutes.  Ice if desired and cut into squares.
 

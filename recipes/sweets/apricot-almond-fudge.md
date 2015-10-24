@@ -12,8 +12,6 @@ comments: Microwave recipe.
 Rind of 1/2 lemon finely grated
 1/2 t almond essence
 
----
-
 Place the butter, sugar and condensed milk in a large heatproof microwave bowl and cover loosely.  Microwave on 100% power for 4 minutes, stirring well every minute.  Alternatively boil for 2 minutes, stirring frequently to prevent catching.
 
 Remove from the microwave and mix in all other ingredients.  Press the mixture into a sponge roll tin and chill for about 20 minutes before icing.  

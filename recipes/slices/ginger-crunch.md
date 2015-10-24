@@ -17,8 +17,6 @@ TOPPING:
 4 t golden syrup
 2 t ground ginger
 
----
-
 Cream butter and sugar, add sifted dry ingredients.  Knead well and press into a greased shallow tin.  Bake for 20 to 25 minutes at 190C.
 
 TOPPING:

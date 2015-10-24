@@ -12,8 +12,6 @@ pinch salt
 1 egg
 1/2 t vanilla
 
----
-
 Beat first five ingredients until sandy. Whisk together milk, egg and vanilla, then gradually mix in. 
 
 Bake at 325C for 20-25 min.

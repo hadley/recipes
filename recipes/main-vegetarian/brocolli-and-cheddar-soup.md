@@ -22,8 +22,6 @@ Soup:
 2/3 c grated cheddar
 1-3 t mustard
 
----
-
 Croutons: mix butter, oil, mustard and salt and pour over torn-up bread.  Bake for 10-15 at 350C until crunchy.
 
 Soup: saute shallots & onions for a few minutes.  Add potato, cover and cover until slightly tender.  Uncover, add garlic & broth and bring to a boil.  Add broccoli and cook until just tender, ~4 minutes.

@@ -12,7 +12,5 @@ comments: Do not serve to vegetarians if 'jelly' comes from gelatine.
 2 T lime zest
 2 T lemon zest
 
----
-
 Combine 1 cup juice/water mix with gelatin and mix. Boil other cup and sugar until 255 F (hard ball stage). Mix with juice and zest. Refrigerate until set (~4 hours), then cut into pieces and coat in sugar.
 

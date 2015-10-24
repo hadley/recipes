@@ -21,8 +21,6 @@ Omit cinnamon and add:
   
 4. Add 1/4 cup chopped walnuts or pecans to topping
 
----
-
 Slice apples in pie dish.  Cover with water and cinnamon.  Rub butter into dry ingredients and sprinkle on top.  Bake at 170C for 20 minutes or until apples are soft and topping crisp and brown.
 
 Serve warm with vanilla ice cream or plain unsweetened yogurt.

@@ -23,8 +23,6 @@ SPONGE
 2 c self-raising flour
 1/4 c milk
 
----
-
 1. Combine dried fruit and water in a heatproof mixing bowl.  Micro-cook, high power, 4-5 minutes. or until fruit is plump.  Drain off excess liquid and reserve.  Leave fruit to stand in bowl.
 
 2. Cream 125g butter and castor sugar.  Beat in eggs one at a time, followed by the jam.  Stir in flour alternately with milk and reserved fruit liquid.

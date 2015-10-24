@@ -22,8 +22,6 @@ Variations
 
 - Almond.  Leave out fruit and use almond essence instead of vanilla.  Press an almond on top of each ball of mix.
 
----
-
 Cream butter, sugar and essence, add egg, then mix in dry ingredients.  Roll into balls and press with fork.  Bake 15 - 20 minutes at 160C until golden brown.  Cool on a rack.  Keep in airtight container to preserve crispness.  
 
 Makes about 32

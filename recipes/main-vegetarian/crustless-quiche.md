@@ -13,8 +13,6 @@ name: Crustless quiche
 1 c diced mushrooms
 1 c grated cheese
 
----
-
 Cook onion, garlic and butter until tender.  Cool and add eggs, salt and milk.  Pour into large bowl and add flour, then stir with fork.  Add potatoes, mushrooms and cheese.
 Pour into well sprayed 23cm flan tin.  Cook at 200C for 25-30 minutes.
 

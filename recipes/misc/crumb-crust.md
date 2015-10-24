@@ -7,7 +7,5 @@ source: Notebook
 4oz butter
 1/2t cinnamon
 
----
-
 Crush biscuit finely and mix with cinnamon and melted butted.  Press into dish.  Chill.
 

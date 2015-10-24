@@ -19,8 +19,6 @@ TOPPING:
 1 1/2 T cocoa
 1 3/4 c boiling water
 
----
-
 Sift flour, baking powder, salt and cocoa together, add sugar and stir in milk and butter.  Add vanilla and nuts.  Pour into overproof pie dish.
 
 TOPPING:

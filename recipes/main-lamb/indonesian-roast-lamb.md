@@ -16,8 +16,6 @@ juice of 1 lemon
 2 T smooth peanut butter
 1/4 c water
 
----
-
 Tie roast if necessary.  Put in an unpunctured bag with the next seven ingredients.  Marinate at least 1/2 hour, or up to two days. 
 
 Take roast from marinade.  Heat marinade with the peanut butter and water until thick and bubbly to make the glaze.

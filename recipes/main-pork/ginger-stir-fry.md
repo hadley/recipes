@@ -14,8 +14,6 @@ comments: Excellent
 1 T julienne of root ginger
 2 T Soy oil
 
----
-
 Combine the marinade ingredients well.
 Cut the pork in thin strips and place in the marinade.  Stir to coat well.  Refrigerate and marinade for 30 minutes.
 Cut cabbage leaves in 3 cm squares.  Slice spring onions diagonally.

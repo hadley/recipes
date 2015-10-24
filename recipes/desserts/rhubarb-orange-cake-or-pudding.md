@@ -15,8 +15,6 @@ name: Rhubarb & Orange Cake or Pudding
 
  
 
----
-
 Line a 23 x13 cm tin with baking paper.
 Heat the oven to 160 C
 Scrub the skin of one small orange clean

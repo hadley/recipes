@@ -14,8 +14,6 @@ comments: Can vary by adding 1 tablespoon orange or lemon zest, or chopped glace
 1 t pure vanilla
 1/2 t pure almond extract
 
----
-
 Heat oven to 180C.
 
 Beat eggs and extracts together in a small bowl.

@@ -13,7 +13,5 @@ Pepper
 Lemon juice
 1/4 pt whipped cream
 
----
-
 Mix ingredients and lightly add into whipped cream.  Chill.  Top shellfish with sauce.
 

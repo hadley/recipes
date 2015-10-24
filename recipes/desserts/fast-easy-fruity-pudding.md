@@ -18,8 +18,6 @@ a few drops each of lemon, almond and vanilla esssence
 1 t cinnamon
 1 t mixed spice
 
----
-
 Rinse fruit well under the hot tap in a seive to remove any grit.
 
 Prepare an average size microwaveable pudding bowl by greasing well.

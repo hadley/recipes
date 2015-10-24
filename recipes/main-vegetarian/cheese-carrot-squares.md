@@ -12,8 +12,6 @@ source: Living Today
 4 eggs, lightly beaten
 salt and pepper
 
----
-
 Pre-heat the oven to 180C.  Peel the carrots and grate.
 Saute the onion and garlic in butter in a heavy pan until soft.
 Combine the carrots with flour and cheese, tossing to mix well.  Add onion and garlic.  Stir in the eggs then season with salt and pepper.

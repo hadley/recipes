@@ -10,7 +10,5 @@ source: Adapted from http://www.marthastewart.com/343255/no-bake-peanut-butter-r
 2 t vanilla
 6 c cereal
 
----
-
 Bring water and sugar to a boil. Mix in peanut butter and vanilla. Mix with cereal
 

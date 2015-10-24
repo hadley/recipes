@@ -10,8 +10,6 @@ name: Date jumbles
 1oz cocoa
 1 t baking powder
 
----
-
 Warm butter, sugar and milk.  Add remaining ingredients and pour into sandwich tin.  Bake at 180C for 30 minutes.
 
 

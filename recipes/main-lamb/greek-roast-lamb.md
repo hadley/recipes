@@ -17,8 +17,6 @@ juice of 1 orange
 400g chopped tomatoes
 Salt and freshly ground black pepper
 
----
-
 Put lamb in roasting pan and scatter garlic cloves around.  Pour over juice and wine and arrange rosemary sprigs on top.  Season.
 Roast uncovered for 1 hour at 170C.
 

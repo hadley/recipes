@@ -13,7 +13,5 @@ ground back pepper
 1 T French dressing
 1/4 c mayonnaise
 
----
-
 Boil scrubbed potatoes until tender.  When cool peel and cube.  Gently mix potato cubes with remaining ingredients.  Serve cold.
 

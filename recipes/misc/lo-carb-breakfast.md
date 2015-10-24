@@ -17,7 +17,5 @@ Turn mixture with a spatula until cooked.
 
 Serve with fresh vegetables or tomato.
 
----
-
 
 

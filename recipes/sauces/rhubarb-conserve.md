@@ -11,8 +11,6 @@ comments: A tasty alternative to marmalade.
 2 Cups sugar
 1/2 cut chopped walnut pieces
 
----
-
 Trim rhubarb and slice into 1 cm chunks and place in large saucepan.
 Place 1 cup sugar, citrus rinds (use a floating blade peeler and avoid pith) and roughly chopped ginger into a food processor and whizz until finely chopped. Place into saucepan along with all other ingredients except walnuts.
 

@@ -12,7 +12,5 @@ cookTime: '20'
 1 t baking powder
 pinch of salt
 
----
-
 Melt butter and add to dry ingredients.  Mix well.  Press into sponge roll tin and bake at 140C for 20 minutes.
 

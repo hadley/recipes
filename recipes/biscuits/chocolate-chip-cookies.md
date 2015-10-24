@@ -14,7 +14,5 @@ source: Cornell Cookbook
 100g chocolate chips
 60g walnut pieces
 
----
-
 Cream butter, sugars and vanilla.  Add lightly beaten egg gradually, beating well after each addition.  Mix in sifted flour, salt and cocoa.  Add chocolate chips and chopped walnuts, mix well.  Shape teaspoonfuls into balls, press down lightly with a fork.  Bake at 200C for 10 minutes.
 

@@ -23,8 +23,6 @@ comments: |-
 1/2 c sugar
 1 1/2 c flour
 
----
-
 Lightly oil the muffin tin and preheat oven to 200C.  This recipe makes 12 muffins.
 
 Put the first six ingredients into a bowl and mix well.  Add the remaining ingredients and blend until just mixed.  Two-thirds fill the muffin tins and bake for 15-20 minutes.

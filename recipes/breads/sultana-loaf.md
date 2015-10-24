@@ -14,8 +14,6 @@ pinch of salt
 1 tsp baking soda
 1/2 cup chopped walnuts
 
----
-
 Rinse dried fruit in a sieve to remove any grit.  Place in a saucepan and cover with water and bring to the boil.  Add a tea bag and leave for 5 minutes. Drain well and return to cleaned saucepan. Discard tea bag.
   
 Add syrup and milk to hot mixture then add soda, milk and nuts.  

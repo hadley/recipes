@@ -10,8 +10,6 @@ source: Dan Nettleton
 1 (12 oz.) can beer
 2-3 Tbsp. melted margarine
 
----
-
 Grease loaf pan.  Mix dry ingredients.  Add beer and mix.  Put dough
 in loaf pan.  Pour melted margarine over dough and bake 55 minutes at
 375 degrees.

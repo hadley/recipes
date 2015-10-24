@@ -15,7 +15,5 @@ comments: Tasty but probably very unhealthy now we know about hyrdrogentaed veg 
 1 1/2 c rice bubbles
 1/4 c coconut (optional)
 
----
-
 Mix all dry ingredients together and add melted kremalta.  Pour into shallow tin to set
 

@@ -14,7 +14,5 @@ pinch salt
 1t baking soda
 3/4 c milk
 
----
-
 Put all dry ingredients except for the baking soda in bowl and add fruit and carrot.  Add butter and soda dissolved in warm milk.  Steam for 3 hours
 

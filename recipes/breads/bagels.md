@@ -8,8 +8,6 @@ name: Bagels
 1 sachet (7g) easy blend yeast 
 300 ml water
 
----
-
 Mix flour, sugar, salt and yeast.  Add enough water to make dough.  
 
 Knead.

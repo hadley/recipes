@@ -12,8 +12,6 @@ Juice of 1/2 lemon
 Pie shell
 Whipped cream
 
----
-
 Crush 1 cup of berries in blender, put puree in pot with sugar, butter and lemon juice.  Stir when boiling, thicken with cornflour, then remove from heat and cool a little.  Pour over strawberries neatly arranged pointed side up in a pastry shell and chill.
 Serve with cream.
 

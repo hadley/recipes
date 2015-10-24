@@ -11,7 +11,5 @@ Pepper and salt
 2 medium potatoes, grated
 1 t baking powder
 
----
-
 Beat egg, add flour, milk, cheese and seasonings.  Add potato and baking powder just before frying.  Fry in hot, shallow fat 5 minutes on each side.  Serve hot, garnished with parsley.
 

@@ -14,8 +14,6 @@ preparationTime: '20'
 1 T brown sugar
 1 T vinegar
 
----
-
 Place sausage in a saucepan with a little water.  Cover, bring to the boil then simmer gently for 5 minutes.  Drain, run cold water over them and slice lengthways.
 
 Grate the onion and apple.  Add to greased baking dish and spread over sides.  Arrange sausages on top and bake at 200C for 30 minutes.

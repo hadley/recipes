@@ -14,7 +14,5 @@ tomatoes as required
 1 T vinegar
 1 c water
 
----
-
 Fry sausages in a little fat until brown.  Place in a casserole and cover with onions and tomatoes. Mix other ingredients together and pour over.  Bake in a slow oven for 2 hours.
 

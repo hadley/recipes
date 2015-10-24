@@ -12,8 +12,6 @@ cookTime: '15'
 2 c flour
 4 t baking powder
 
----
-
 Light oil a muffin tin and preheat oven to 200C.  This recipe makes 12 muffins.
 
 Put the first five ingredients into a bowl and mix well.  Add the remaining ingredients and blend until just mixed.  Two-thirds fill and bake for 15 minutes.

@@ -14,7 +14,5 @@ comments: Delicious
 25g butter, melted
 6 thick slices wholegrain bread
 
----
-
 Mix together all ingredients, stir well.  Grill bread on one side.  Spread cheese mixture on other side.  Grill until cheese is melted and bubbly.
 

@@ -19,8 +19,6 @@ Glaze:
 1 egg
 1/2 c sugar
 
----
-
 Beat eggs lightly and gradually beat in sugar.
 
 Melt butter and add to egg mixture.

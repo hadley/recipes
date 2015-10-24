@@ -15,7 +15,5 @@ Vanilla
 1 c dates, chopped
 1 c peanuts
 
----
-
 Cream butter and sugar, add eggs then dry ingredients and fruit.  Put in small balls on tray and flatten them.  Bake at 180C for 15-20 minutes.
 

@@ -16,8 +16,6 @@ breadcrumbs
 
 Optional: cubed ham
 
----
-
 Layer sliced potatoes with salt, pepper and optionally ham in large baking dish.  Pour cheese sauce over layers.  Top with extra grated cheese and breadcrumbs.
 
 Bake at 370 F for one hour, until potatoes are cooked and top is golden brown.

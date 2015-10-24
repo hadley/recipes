@@ -13,8 +13,6 @@ vanilla essence
 coconut
 A ready made rectangular sponge cake
 
----
-
 Melt butter and add cocoa and water.  Add icing sugar and essence and mix until smooth.  
 
 Cut sponge into squares, coat each with mixture by dipping it in the mix using two forks.  Drain off excess and then roll in coconut. 

@@ -12,7 +12,5 @@ source: Notebook
 1t baking soda
 1/4 pint milk
 
----
-
 Cream butter, sugar and syrup.  Add egg.  Dissolve baking soda in milk and add alternately with dry ingredients.  Steam for 2 hours.
 

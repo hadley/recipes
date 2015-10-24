@@ -13,8 +13,6 @@ comments: You can cut into varied Christmas shapes and make a hole in the top by
 1t baking soda
 1/2t salt
 
----
-
 Melt butter, sugar and syrup. 
 
 Sift in dry ingredients.  

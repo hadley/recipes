@@ -16,8 +16,6 @@ pinch salt
 1 1/2 c water
 3 t coffee powder
 
----
-
 1.  Sift flour, salt, white sugar and 2 T cocoa into a 2-litre casserole or souffle dish.  Stir in milk, melted butter and vanilla essence.  Mix well.  Scrape down from sides and level the top.
 
 2.  Sift brown sugar and remaining cocoa over pudding mixture.

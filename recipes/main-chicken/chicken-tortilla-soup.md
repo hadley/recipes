@@ -22,8 +22,6 @@ source: http://thepioneerwoman.com/cooking/2011/01/chicken-tortilla-soup/
 3 T cornmeal
 5 corn tortillas, cut in 2" strips
 
----
-
 Preheat oven to 375 degrees. Mix cumin, chili pepper, garlic powder, and salt. Drizzle 1 tablespoon olive oil on chicken breasts, then sprinkle a small amount of spice mix on both sides. Set aside the rest of the spice mix.
 
 Place chicken breasts on a baking sheet. Bake for 20 to 25 minutes, or until chicken is done. Use two forks to shred chicken. Set aside.

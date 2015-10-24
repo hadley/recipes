@@ -16,8 +16,6 @@ I/2 t chicken or veg. stock
 
 2 cups very thinly sliced cabbage
 
----
-
 Brown bacon in a large saucepan - drain off excess fat. 
 
 Add leeks, carrot, garlic, potato and cook, stirring occasionally until softened but not brown. 

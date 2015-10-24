@@ -15,7 +15,5 @@ comments: excellent
 1 t baking powder
 225g (8oz) flour
 
----
-
 Cream butter and sugar, add eggs, mashed bananas, then baking soda dissolved in water.  Lastly sift in flour and baking powder.  Bake at 180C for 40 minutes.
 

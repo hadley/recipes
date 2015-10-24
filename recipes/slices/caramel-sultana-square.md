@@ -19,8 +19,6 @@ FILING:
 2 T golden syrup
 1/4 c sugar
 
----
-
 Cream butter and sugar, add egg, then dry ingredients.  Divide shortcake in two.  Press one half into tin.
 
 Melt butter, sweetened condensed milk, syrup and sugar and pour over base.  Sprinkle with sultanas and cover with remaining mixture.  Bake at 180C for 20-30 minutes.

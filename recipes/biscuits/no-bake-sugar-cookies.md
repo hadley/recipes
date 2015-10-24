@@ -13,7 +13,5 @@ comments: Jeff's favourite
 1 tsp soda
 1.5 tsp salt
 
----
-
 Beat eggs and sugar, add oil, sour cream and vanilla.  Mix in flour mixed with soda. Drop on cookie sheet and bake at 350 F for 10 minutes until pale gold.  
 

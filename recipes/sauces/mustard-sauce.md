@@ -12,7 +12,5 @@ preparationTime: '0'
 1 c water, from corned beef
 1/4 c vinegar
 
----
-
 Beat egg and sugar, add flour, mustard, then stir in liquid gradually.  Microwave on high until thick.
 

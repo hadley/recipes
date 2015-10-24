@@ -15,7 +15,5 @@ comments: Super easy and quick
 1 t vanilla
 1/2 c chocolate chips
 
----
-
 Mix all ingredients until smooth.  Bake at 350 for 25-30 minutes.
 

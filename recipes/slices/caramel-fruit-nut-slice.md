@@ -21,8 +21,6 @@ comments: 'Rich and delicious for a special occasion. Use 2 or three types of dr
 
 1 approx 400g can of sweetened condensed milk
 
----
-
 Line a sponge roll tin (20cmx30cm) with baking paper.
 
 Mix together sugar, flour, coconut, baking powder and combine with melted butter. Press into the lined tin and bake for 10 mins at 180 degrees C.

@@ -21,8 +21,6 @@ comments: Big enough for eight.  Very rich and delicous.
 1/8 t cinnamon
 1/8 t baking powder
 
----
-
 Sprinkle fruit with brandy and soak over night.  
 
 Cream butter and sugar.  Gradually add beaten eggs, beating constantly.  Stir in sifted dry ingredients, add bread crumbs alternately with fruit and nuts.  

@@ -11,8 +11,6 @@ source: http://www.cacaoweb.net/brownies3.html
 1 t baking powder
 170g butter, melted
 
----
-
 Beat eggs, sugar and vanilla. Sift in dry ingredients, and then mix in melted butter.
 
 Bake at 350 for 25-35 minutes.

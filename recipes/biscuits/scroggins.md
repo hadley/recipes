@@ -17,7 +17,5 @@ comments: good for tramps etc.
 1/2 c chopped nuts
 2 c rolled oats
 
----
-
 Cream butter, sugar and peanut butter.  Add essence and eggs and mix well.  Stir in remaining ingredients.  Bake at 190C for 15 minutes
 

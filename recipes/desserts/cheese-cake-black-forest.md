@@ -21,8 +21,6 @@ Topping:
 1 T sugar
 1/2 c cream, extra
 
----
-
 Crumb Crust:
 
 Crush biscuit finely, add melted butter; press mixture onto sides and base of greased 20cm spring form pan.  Refrigerate while preparing filling.  

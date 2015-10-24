@@ -12,7 +12,5 @@ source: Notebook
 1 T butter
 1 T water
 
----
-
 Beat sugar and egg until light and fluffy.  Add milk, flour, cream of tartar and baking soda.  Mix well add butter and water heated together.
 

@@ -14,8 +14,6 @@ name: 'Moist special occasion chocolate cake - Chelsea bake-off winner '
 1 1/2 cups Canola oli
 1 egg
 
----
-
 Combine all dry ingredients.  In a large bowl beat the 3 egg whites until stiff.  In a separate bowl, combine milk and vinegar, then add the rest of the wet ingredients together, including the whole egg and 3 egg yolks, and beat.  Mix wet and dry ingredients together, then fold in the beaten egg whites.  Pour into two well greased or baking paper- lined tins about 20- 23 cm in diameter.  Bake for 25-30 minutes in a moderate oven (180C for NZ non-fan).  Cool on a wire rack.  To serve, pile whipped cream on one cake, place the other cake on top and frost top with chocolate icing.  
 
 Chocolate Icing  

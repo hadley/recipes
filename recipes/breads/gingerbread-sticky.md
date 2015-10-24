@@ -14,8 +14,6 @@ preparationTime: '15'
 4 t ginger
 1 t baking soda
 
----
-
 Line a 20cm square baking pan.
 
 Melt butter then add brown sugar and golden syrup.  Add milk (without mixing) then sift in flour, ginger and baking soda.  Stir until evenly golden brown.

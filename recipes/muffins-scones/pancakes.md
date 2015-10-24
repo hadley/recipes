@@ -14,7 +14,5 @@ comments: Best pancake recipe yet
 2 t baking powder
 1 t salt
 
----
-
 Mix well wet with dry.
 

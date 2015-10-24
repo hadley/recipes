@@ -11,7 +11,5 @@ source: Onslow College Cookbook, page 5
 chopped parsley
 3 T sherry
 
----
-
 Brown garlic, onion and bacon lightly in butter.  Add chopped chicken livers and cook 10 -15 minutes.  Add sherry and parsley and put through liquidiser.  Shape into log, cover and put in fridge.  Slice thinly, garnish with parsley and lemon.
 

@@ -17,7 +17,5 @@ comments: |-
 1 1/2 cup rolled oats
 1/2 cup raisin
 
----
-
 Cream butter and sugars.  Add eggs and vanilla, then dry ingredients.  Add 2T extra flour to be more biscuit like.  Bake for 10-12 minutes at 350F
 

@@ -11,8 +11,6 @@ For 2 large servings
 3-4 tbsp liquid from corn or 0.25 cup milk
 1 cup self raising flour
 
----
-
 Heat about 1 cm deep of canola oil in a frypan on medium heat.
 
 Put egg and liquid in a bowl and mix lightly.  Stir in the corn then add flour. Mix until flour is just moistened. Do not over mix (important).

@@ -11,7 +11,5 @@ name: Carrot cake 1
 2 c finely grated carrot
 2 t cinnamon
 
----
-
 Sift dry ingredients, add oil, stir in beaten eggs and carrot.  Mix thoroughly.  Pour into a 9 inch greased tin.  Bake at 190C for 1 hour.
 

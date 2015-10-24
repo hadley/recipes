@@ -12,8 +12,6 @@ source: Cornell Cookbook
 1 c sultanas
 1/2 small tin crushed pineapple
 
----
-
 Cream butter and sugar.  Add beaten egg.  Mix in dry ingredients and fruit.
 
 Bake 180C for 45 minutes in 7 inch square tin.

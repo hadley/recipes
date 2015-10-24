@@ -10,8 +10,6 @@ comments: Delicious lower fat version of an old favourite.
 2 T fresh lemon juice
 pinch ground cumin
 
----
-
 Mince garlic in processor.  Add remaining ingredients and process, scraping down sides of the bowl regularly, until a coarse puree results.  Season to taste with salt and pepper.
 
 Transfer to a small bowl, cover and place in fridge.  Bring to room temperature before serving with raw vegetable sticks or pita bread.  Keeps refrigerated for at least three days.

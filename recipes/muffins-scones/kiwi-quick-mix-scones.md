@@ -18,8 +18,6 @@ Cheese - add 1 cup grated cheese and 1/4 teaspoon dry mustard powder to dry ingr
 Pinwheel - roll out into a rectangle 1cm thick.  Sprinkle with1/2 cup brown sugar and 1 teaspoon cinnamon.  Roll into log from short side and cut into slices.  Place on well greased foil or non-stick baking sheet for easy clean-up.
 Savoury - Add chopped cooked bacon and chopped parsley to dry ingreds.
 
----
-
 Preheat oven to hot - 400 -450 F  220C
 
 Sift flour, baking powder and salt.  Stir in any fruit/cheese etc.   

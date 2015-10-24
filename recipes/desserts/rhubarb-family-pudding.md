@@ -18,8 +18,6 @@ TOPPING:
 1 t cinnamon 
 icing sugar
 
----
-
 In a food processor or bowl, cream the warmed (but not melted) butter and sugar, add the eggs one at a time, then stir in the dry ingredients alternately with the milk, until both are combined.  
 
 Line a loose-bottomed 35 x 23 cm  tin with two strips of paper, so all sides and the bottom are covered, then spoon in the cake mixture in 16 spoonfuls, without spreading these smoothly.  

@@ -19,8 +19,6 @@ cookTime: '180'
 1 t each vanilla, lemon,  & almond essence
 1 1/2 t cinnamon
 
----
-
 Cream the butter, essences, syrup and sugar, then add the beaten egg and milk. Mix in dry ingredients then fruit.
 
 Fill lined square tin.  Bake at 135 C for 3 hours.

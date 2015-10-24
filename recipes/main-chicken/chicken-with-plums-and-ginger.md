@@ -26,7 +26,5 @@ Saute onion in pan until soft. Add all remaining ingredients except fresh plums,
 Bake in oven for 45 minutes at 350 degrees F.
 Serve with rice, salad or roast vegetables.
 
----
-
 
 

@@ -12,8 +12,6 @@ source: Notebook
 1 t soda
 1/2 c sugar
 
----
-
 Soak first three ingredient for 5 minutes.
 Add egg, mix in dry ingredients. 
 Bake 20 minutes at 180 C.

@@ -21,7 +21,5 @@ Prepare a 30cm round cake tin by lining it with paper.  Alternativey use a regul
 
 Place all ingredients except coffee in a large bowl.  Add hot coffee and beat with wooden spoon or beater until smooth and lump free.  Pour into tin/s and bake at 160C for 60 minutes.
 
----
-
 
 

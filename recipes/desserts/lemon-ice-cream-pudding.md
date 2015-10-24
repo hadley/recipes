@@ -19,8 +19,6 @@ FILLING
 1/4 c lemon juice
 2 t lemon rind, grated
 
----
-
 BASE
 Mix melted butter with crushed cornflakes and sugar, press all but 2 T into Swiss roll tin.  Place in fridge to harden
 

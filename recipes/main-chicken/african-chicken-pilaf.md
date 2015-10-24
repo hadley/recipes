@@ -17,8 +17,6 @@ name: African chicken pilaf
 1 T chopped cashews
 2 T chopped fresh coriander
 
----
-
 Heat half olive oil in large saute pan, add the onion and saute until softened, stir in the rice until coated with oil, then add the corander and turmeric, cooking for 2-3 minutes.
 
 Stir in tomato pieces and about 2/3 of the stock and bring to a simmer.   Cook gently for 20 minutes stirring occasionally to stop rice from sticking, adding more stock as necessary.

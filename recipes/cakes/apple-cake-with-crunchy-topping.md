@@ -18,8 +18,6 @@ CRUNCHY TOPPING:
 1/4 t cinnamon
 1/4 t nutmeg
 
----
-
 Grease and line 23cm cake tin.  Sift dry ingredients into large bowl.   Add butter water and eggs, then mix well.  Fold in apples then spread mixture into tin.  Spread over crunchy topping.  Bake at 180C for 1 1/4 hours.  Cool cake in pan.
 
 CRUNCHY TOPPING: combine all ingredients and mix well.

@@ -19,8 +19,6 @@ source: Cornell Cookbook
 1 c mixed dried fruit
 2-3 c flour (warmed)
 
----
-
 Mix milk, hot water and 2T sugar in metal bowl.  Sprinkle in yeast.  Leave to stand until bubbles appear.  Add  2 c flour and leave to stand.
 
 Cream butter and sugar, add egg, salt spices, cocoa and vanilla.

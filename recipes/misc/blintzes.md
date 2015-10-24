@@ -19,8 +19,6 @@ FILING:
 Lemon rind, grated
 Vanilla or cinnamon
 
----
-
 Mix batter by adding salt and water to eggs and stirring gradually into the flour until smooth.  Heat pan, grease well.  Pour only enough batter into pan to make a very thin pancake, tipping pan in all directions to cover bottom.  Bake of one side until it blisters.  Shake out of pan on to board.
 
 Press cottage cheese though colander, add egg and season to taste.

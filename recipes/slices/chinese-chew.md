@@ -15,7 +15,5 @@ comments: very nice
 1 t baking powder
 1 c coconut
 
----
-
 Melt butter and golden syrup.  Cool and add egg.  Add remaining ingredients and press into sponge roll tin.  Bake at 150C for 30 minutes.  Cut while warm.
 

@@ -17,7 +17,5 @@ comments: Excellent
 1 c sultanas
 1 c stewed apple
 
----
-
 Soak bread in milk and beat with a fork until soft.  Add baking soda, melted butter and golden syrup, then fruit and dry ingredients.  Cover and steam in a greased basin for 2 hours.
 

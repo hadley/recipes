@@ -13,7 +13,5 @@ salt and pepper
 1/3 c mustard
 1/3 c soy sauce
 
----
-
 Brown brisket, salt and pepper and garlic.  Cook in slow cooker on low for 8+ hours.
 

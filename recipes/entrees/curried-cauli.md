@@ -14,8 +14,6 @@ source: The vegie cookbook, page 53
 1 green pepper, finely chopped
 1/4 c currants
 
----
-
 Blanch the cauliflower in boiling water for 2-3 minutes.  Coll under cold running water.  Drain.
 Heat the oil in a pan, add the onion, curry powder and pumpkin seeds.  Stir-fry for 2-3 minutes or until the onion softens.  Mix in the sugar and water.  Remove from heat.
 Add the cauliflower, mushrooms, pepper and currants.  Mix thoroughly until well coated in curry mixture.  Serve warm or cold.

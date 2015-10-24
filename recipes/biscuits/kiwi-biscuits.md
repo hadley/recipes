@@ -11,8 +11,6 @@ source: Cornell Cookbook
 1 t baking powder
 2oz chocolate chips
 
----
-
 Cream butter and sugar, add condensed milk and essence. Mix in dry ingredients.
 
 Bake at 180 C for 20 minutes.

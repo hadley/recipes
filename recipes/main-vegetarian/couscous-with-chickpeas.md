@@ -6,8 +6,6 @@ comments: Very tasty indeed AW
 
 
 
----
-
 Heat in a large skillet over medium heat:
 
 3 T olive oil

@@ -18,8 +18,6 @@ FILLING:
 3 eggs
 2 T milk
 
----
-
 To make the crust, either combine the first three ingredients in the food processor, mix until butter is finely chopped then add egg yolk and mix to a dough or rub or cut butter into dry ingredients, then add egg yolk and mix with a fork until combined.
 
 Press mixture onto the bottom of a buttered or sprayed loose bottomed cake tin, 20 or 23 cm in diameter.  Bake base at 200 C for 5 minutes.

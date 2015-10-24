@@ -10,8 +10,6 @@ comments: Delicious with pavlova or meringue
 1 1/4 c thickened cream
 1 small mango, pureed
 
----
-
 With electric beaters, beat cream cheese, lemon juice and sugar until smooth.  Beat cream until soft peaks form, then fold into mango mixture.
 
 Serve on pavlova or meringues.

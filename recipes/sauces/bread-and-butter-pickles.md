@@ -12,8 +12,6 @@ source: Alison Holst Calendar
 1 T celery seeds
 1 t turmeric
 
----
-
 Slice cucumbers and onions thinly into 2 L ice cream containers for easy measuring.  Sprinkle the sliced vegetables with salt, cover with cold water and leave to stand for 8 - 12 hours, then discard salty water and drain well.
 
 In a large saucepan or jam pan, heat vinegar, sugar, seeds and turmeric.  When mixture boils add the drained vegetables.

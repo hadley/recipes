@@ -15,8 +15,6 @@ source: Well done cooking classes
 1/2 t cinnamon
 1/4 t ginger
 
----
-
 Mix cream cheese and sugar, then beat in all other ingredients.  Pour in to pie crusts and bake at 375 until set, ~ 50 minutes.
 
 Makes enough for two 9" pies.

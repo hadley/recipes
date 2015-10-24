@@ -15,8 +15,6 @@ cookTime: '60'
 2 c sugar
 1 c walnuts, chopped
 
----
-
 Chop dates, add baking soda and pour boiling water over.  Leave to cool.  Cream and sugar, add eggs.  Sift flour and salt, add to mixture with sultanas and walnuts.  Lastly add chopped dates and liquid.  
 
 Half fill 2 tins.  Bake at 170C for 1 hour.

@@ -12,7 +12,5 @@ preparationTime: '10'
 2 t  (or more) curry powder
 4 eggs, hard-boiled
 
----
-
 Put the butter in a saucepan and saute onion without browning it.  Sprinkle in flour and curry powder, cook for a few minutes, then gradually stir in milk.  Season with salt and cook till it thickens.  Shell the eggs, cut in halves, put in mix, and heat before serving.
 

@@ -21,8 +21,6 @@ pinch salt
 16oz tin crushed pineapple (drained)
 2 tablespoons sherry
 
----
-
 Melt over hot water, 1 tin sweetened condensed milk, 1/4 lb. butter and 2 tablespoons golden syrup.  
 
 Add 4 eggs beating in one at a time.  Add 1 teaspoon each of vanilla, lemon, and almond essence.   

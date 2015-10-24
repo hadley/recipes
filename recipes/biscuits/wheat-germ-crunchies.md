@@ -16,8 +16,6 @@ preparationTime: '10'
 1/2 c coconut
 1 c cornflakes
 
----
-
 Cream butter and sugar add egg and vanilla, beat well.  Sift in flour, baking powder and salt.  Add wheatgerm then coconut and cornflakes.  Roll into balls, put on greased trays and flatten with a fork.
 
 Bake about 15 minutes at 180 C.

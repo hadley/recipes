@@ -9,7 +9,5 @@ source: Notebook
 1/4 pint whipped cream
 1 c crushed pineapple
 
----
-
 Dissolve jelly in hot water, add lemon juice.  When beginning to set, beat until fluffy then gently fold in pineapple and whipped cream.  Set in wet mould.
 

@@ -14,7 +14,5 @@ softened butter
 1T chopped parsley
 salt and pepper to taste
 
----
-
 Butter bread evenly.  Remove crusts and cut each slice into for small squares. Press these butter-side down into patty tins.  Combine the remaining ingredients and place in spoonfuls in each of the uncooked bread cases.  Bake at 180C for 20-30 minutes or until cases and filling are golden brown.  Serve hot garnished with parsley or to follow soup, lunch or tea, or as savouries.
 

@@ -11,8 +11,6 @@ comments: A delicious special treat.
 2oz (50g) cornflakes
 1 t vanilla essence
 
----
-
 Cream butter and sugar.  Sift in flour, and cocoa.  Mix in cornflakes and essence then place in round teaspoon lots on a greased oven tray.
 
 Cook at 180 C for 15 minutes.

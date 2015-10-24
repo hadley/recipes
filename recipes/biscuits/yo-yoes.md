@@ -15,8 +15,6 @@ BUTTER FILLING
 1 T custard powder
 1-2 T hot water
 
----
-
 Cream butter, sugar and essence, add dry ingredients.  Roll into ball and flatten with fork.  Bake 20 minutes at 180C.  When cold put together with butter filling
 
 BUTTER FILLING

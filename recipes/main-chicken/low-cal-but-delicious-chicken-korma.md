@@ -18,8 +18,6 @@ pinch salt
 freash ground black pepper
 4 sprigs fresh coriander
 
----
-
 Lightly spray fry pan with low fat cookiing spray. Saute onions and apple for 4 minutes.  Add curry powder and cook a few moments longer.
 
 Add chicken and stir fry for 3-4 minutes until sealed.

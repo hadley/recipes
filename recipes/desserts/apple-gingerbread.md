@@ -19,8 +19,6 @@ TOPPING:
 1/2 cup golden syrup
 1/2 cup water
 
----
-
 Peel apples and put in baking dish.  Sprinkle over sugar and water.  Place in 180 C oven while preparing topping.
 
 Sift flour, ginger and soda in a bowl.  Add sugar.  Heat butter and golden syrup and mix into dry ingredients.  Pour over hot apples and bake 30-45 minutes at 180C.

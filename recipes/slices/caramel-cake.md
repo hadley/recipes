@@ -19,8 +19,6 @@ ICING:
 Vanilla
 1 1/2 c icing sugar
 
----
-
 Melt butter and syrup then add raisins and dry ingredients.  Press into sponge roll tin and bake 20 minutes at 180C.  Ice and cut when warm.
 
 ICING:

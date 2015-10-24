@@ -13,8 +13,6 @@ cookTime: '20'
 3/4 c sugar
 2 1/2 t baking powder
 
----
-
 Lightly oil a muffin tin and preheat the oven to 190C.  This recipe makes 24 muffins.
 
 Put the bananas into a bowl and mash well.  Add the next four ingredients and mix until just blended.  Two-thirds fill the muffin tins and bake for 20-25 minutes.

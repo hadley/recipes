@@ -16,7 +16,5 @@ salt and pepper
 2 c boiling water
 1 c carrot, grated
 
----
-
 Place raw sausages in microwave bowl.  Mix together dry ingredients and boiling water and pour over sausages with grated carrot.  Micro-cook, covered, on high, for 25 minutes.  Stir often.
 

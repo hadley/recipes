@@ -14,8 +14,6 @@ comments: Very easy and tasty.
 2 eating apples cored and chopped into chunks, but not peeled
 450ml hot vegetable or chicken stock
 
----
-
 Heat oil in pan. Roll meat in flour, thyme and seasoning.
 Brown meat in oil and transfer to casserole dish.
 Brown apples and vegetables in pan and then transfer to casserole dish.

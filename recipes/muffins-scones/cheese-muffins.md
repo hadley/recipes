@@ -13,7 +13,5 @@ comments: OK
 1 egg
 1/2 c milk
 
----
-
 Sift flour, rub in butter, add cheese and baking powder.  Beat eggs and milk and add to dry ingredients.  Put spoonfuls in greased patty pans.  Bake at 200C for 10-15 minutes.
 

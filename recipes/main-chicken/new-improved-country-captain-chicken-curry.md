@@ -20,8 +20,6 @@ comments: "Modified by AW. \nA great mild curry two pan dinner for two. Serves f
 
 Rice
 
----
-
  Roll chicken pieces in seasoned flour.  Melt butter in large flying pan on medium heat. Brown with butter, onion, garlic and curry powder until cooked.
 
 Add thyme, tomatoes, butternut, currants and brown sugar. Simmer for 20 minutes.  Add broccoli and simmer for a further 10 minutes. Serve over cooked plain jasmine or basmati rice.

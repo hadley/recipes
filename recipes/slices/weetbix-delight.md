@@ -18,8 +18,6 @@ TOPPING:
 1/2 tin sweetened condensed milk
 1 1/2 T golden syrup
 
----
-
 Add melted butter to dry ingredients.  Press into sponge roll tin.  Bake 15 minutes at 180C.
 
 Heat butter, sweetened condensed milk and syrup until blended.  Spread on base and return to oven for 3 minutes.  Ice with chocolate icing while warm.

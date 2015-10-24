@@ -11,8 +11,6 @@ source: Well done cooking
 0.5 oz sugar
 1 T vanilla
 
----
-
 Keep everything very cold.  In food processor, pulse flour, and, in pieces, butter. Mix all other ingredients and add gradually until mealy.
 
 Blind bake at 375 F for ~10 minutes.

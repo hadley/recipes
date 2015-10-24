@@ -14,7 +14,5 @@ Topping:
 1 c chopped nuts
 3-4 T chopped parsley
 
----
-
 Drain fish and combine with other ingredients.  Chill for 2 hours.  Roll into log and then in nuts and parsley.  Chill at least another 3 hours.
 

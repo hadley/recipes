@@ -13,7 +13,5 @@ source: Notebook
 vanilla essence
 salt
 
----
-
 Cream butter and sugar.  Beat eggs and rinse bowl with milk.  Sift in flour and baking powder and mix well.  Stir in sultanas, vanilla essence and salt.  Bake at 190C for 11 minutes.
 

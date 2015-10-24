@@ -9,7 +9,5 @@ name: Cheese log
 2-3 cloves of garlic
 2-3 T mayonnaise
 
----
-
 Mix all ingredients together and chill.  Take care to not make the mixture to sloppy
 

@@ -18,8 +18,6 @@ Icing :
 1 c of coconut
 3 t of cocoa
 
----
-
 Cream butter, sugar, golden syrup.  Then add other ingredients. Spread in a Swiss roll tin.  
 
 Bake 180C for 20-25 minutes.

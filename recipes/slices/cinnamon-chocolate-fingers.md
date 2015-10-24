@@ -19,8 +19,6 @@ TOPPING:
 1/2 t cinnamon
 1 D hot water
 
----
-
 Cream butter and sugar.  Sift together the dry ingredients and add.  Press into sponge roll tin.  Bake at 180C for 10 minutes..
 
 TOPPING

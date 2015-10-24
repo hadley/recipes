@@ -21,8 +21,6 @@ Syrup:
 1 T butter
 1/4 c brandy
 
----
-
 In a small bowl combine half the seeded raisins with the boiling water and the bicarbonate of soda.  In a large bowl cream together the softened butter and sugar until the mixture is light and fluffy.  Add the beaten eggs, one at a time and mix well.  Sift together the flour, baking powder and salt.  Fold the flour into the butter mixture.  Stir in the chopped walnuts and the remaining seeded raisins, then fold in the cooled mixture of seeded raisins water and soda.  Pour the cake batter into a buttered 20cm square cake tin .  
 
 Bake in a moderate oven, for about 45 minutes at 180 C or until cooked when tested.

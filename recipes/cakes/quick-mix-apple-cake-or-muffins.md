@@ -15,8 +15,6 @@ source: Cornell Cookbook
 1/2 c each walnuts & raisins
 Icing sugar
 
----
-
 Grate, peel or dice 2 cooking apples.  Put in bowl and sprinkle 1 c sugar.  Sift in dry ingredients.  Add melted butter and egg.  Add walnut and raisins. 
 
 Bake in round tin for 50-60 minutes at 180 C.

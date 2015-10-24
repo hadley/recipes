@@ -11,7 +11,5 @@ source: Notebook
 1/4 c chopped parsley
 1 t cornflour
 
----
-
 Cook noodles in unsalted water.  Drain, reserving 1/2 c of water.  Add butter, then stocks, sugar and parsley.  Mix cornflour to a paste and add.  Cook until noodles coated and no sauce left in pot.
 

@@ -12,8 +12,6 @@ clove crushed garlic
 1/4 t white pepper
 water to cover
 
----
-
 Peel and chop onions.  Gently cook with garlic in oil until soft.  Add pumpkin pieces and remaining ingredients.  Boil for 30 minutes until soft.
 
 Blend until creamy in food processor.  Thin if necessary with water, milk or cream.  Adjust seasonings if necessary. Serve piping hot(but do not boil if thinned with dairy products) with crusty bread.

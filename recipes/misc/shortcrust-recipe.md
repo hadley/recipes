@@ -12,7 +12,5 @@ comments: |-
 8oz flour
 1t baking powder
 
----
-
 Cream butter and sugar.  Add well beaten egg.  Sift in flour and baking powder.  Mix to a firm dough and chill in fridge.
 

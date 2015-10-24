@@ -14,8 +14,6 @@ large baguette
 4 tbsp Baileys 
 demerara sugar
 
----
-
 Heat oven to 180C.
 
 Grease large shallow ovenproof dish with butter.  Butter sliced bread.  Arrange bread in dish with dried fruit sprinkled between layers.  Spread apricot jam on lower layer.

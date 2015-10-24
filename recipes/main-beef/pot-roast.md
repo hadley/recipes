@@ -19,8 +19,6 @@ A couple of pounds of cheap pot roast meat
 
 potatoes
 
----
-
 Fry carrots in hot oil ~2 minutes (until browned) and remove. 
 
 Pat dry and season meat.  Brown all sides in a couple T of oil over high heat.  Add tomatoes, water, carrots and tomato paste and cook for 3.5 hours at 350F.

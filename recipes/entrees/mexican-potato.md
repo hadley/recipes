@@ -9,7 +9,5 @@ source: Cornell Cookbook
 1t steak seasoning
 1t chilli powder
 
----
-
 Wash and cut potatoes into 8 pieces, cover and microwave for 7 minutes on high.  Drain on paper.  Heat oil in frying pan and potatoes and seasoning.  Cook until golden.
 

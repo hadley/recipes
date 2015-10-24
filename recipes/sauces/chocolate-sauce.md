@@ -9,7 +9,5 @@ source: Notebook
 1T cocoa
 1/2 c water
 
----
-
 Melt butter in microwave.  Then mix in sugar, custard powder and cocoa.  Stir in water then microwave on high until thick.
 

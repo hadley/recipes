@@ -19,8 +19,6 @@ FILLING:
 1/4 c sugar
 1 T golden syrup
 
----
-
 Melt butter and add other ingredients.  Press half mixture into sponge roll tin.  
 
 FILLING

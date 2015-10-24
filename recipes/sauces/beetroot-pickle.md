@@ -19,8 +19,6 @@ comments: 'I used this for three large beetroot we were given while A was away i
 
 225g caster sugar
 
----
-
 Peel the cooked beets and cut into 3cm hunks. Heat the vinegar, water, sugar and spices in a large pan. Bring just to the boiling poin. Add the beets and cook for 2-3 minutes. Then, pack in sterile jars, fill with hot liquid. Seal. 
 
 If you don't fancy properly pickling them, simply follow the instructions, place the beets in a fridge-friendly container, allow the beets to cool fully and then store in the fridge for up to a week.

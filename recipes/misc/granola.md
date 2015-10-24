@@ -13,8 +13,6 @@ coconut
 sunflower seeds
 nuts
 
----
-
 Melt oil and honey.  Add in remaining ingredients and cool.
 
 Bake 15 mins 180 C.  Stir after 7 mins.  

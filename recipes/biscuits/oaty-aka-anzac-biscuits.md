@@ -13,8 +13,6 @@ comments: If you like a a softer cookie take out of the oven sooner.
 1/2 t baking soda
 2 T warm water
 
----
-
 Melt the butter in a fairly large saucepan.  Measure the golden syrup in a 1/4 c measure rinsed in very hot water, so the syrup tips out easily.
 
 Stir the essence and golden syrup into the barely liquid butter, then remove from the heat.

@@ -13,8 +13,6 @@ comments: Very similar to Mella's West Cork Fudge.
 1/4 teaspoon salt
 1 Tablespoon golden syrup
 
----
-
 Heat all ingredients very gently in a large heavy bottomed non stick saucepan.  
 
 Stir until the mix is boiling. Simmer about 30 minutes, stirring frequently until thick and dark golden brown  - about 120 C on a candy/jam thermometer (hard ball stage).  

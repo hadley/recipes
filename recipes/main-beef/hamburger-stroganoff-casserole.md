@@ -16,8 +16,6 @@ source: Meat International
 1 carton sour cream
 1/4 c parmesan cheese
 
----
-
 Cook noodles until barely tender.  Drain, rinse, and spread in one or more shallow greased (or sprayed) ovenware dishes.
 
 While noodles cook, brown the onions, mushrooms and garlic in butter.  Remove from the pan.  Brown the mince until it loses its pinkness then add the soup mix, instant stock and water (or use 1/2 c wine, 1.5 c water).  Simmer five minutes, then add the mixture, tomato concentrate and sour cream.  Simmer five minutes longer, then spoon over the noodles.  Sprinkle with parmesan cheese.  Refrigerate until required.

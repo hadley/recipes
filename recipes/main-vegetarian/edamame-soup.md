@@ -11,7 +11,5 @@ comments: Delicious and very simple
 1 quart (1.2 litres or 2 pints) vegetable stock 
 2 tablespoons creme fraiche 
 
----
-
 Saute onion and potato.  Cover and allow to soften for 4 minutes.  Add bean and stock and simmer for 15-20 minutes until beans are tender.  Puree, then stir in cream.
 

@@ -12,7 +12,5 @@ preparationTime: '10'
 1/2 c wholemeal flour, raw sugar, desiccated coconut
 1/2 t baking powder
 
----
-
 Melt butter and honey together and add dry ingredients.  Press into a greased 23cm tin and bake at 180C for 15 minutes.  When cool ice with lemon icing.
 

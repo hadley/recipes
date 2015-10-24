@@ -19,8 +19,6 @@ comments: |-
 2 tablespoons chocolate chips
 ½ cup pecans
 
----
-
 Preheat oven to 180C.
 
 Line a non-stick loaf tin with baking parchment.

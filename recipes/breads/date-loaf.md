@@ -10,8 +10,6 @@ source: Cornell Cookbook
 1 T butter
 1 t baking soda
 
----
-
 Boil water, fruit and brown sugar 10 minutes.  Add butter.  Cool the mixture until nearly cold then add flour and baking soda.  
 
 Put in loaf tin and bake 1-11/2 hours at 180 C.
