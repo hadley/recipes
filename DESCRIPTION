@@ -12,10 +12,11 @@ Depends:
     rmarkdown,
     readr,
     htmltools,
-    rmarkdown
+    rmarkdown,
+    purrr
 Imports:
-    magrittr
-Suggests:
+    magrittr,
+    stringr,
     dplyr,
     tidyr
 License: Creative Commons Attribution 4.0 International

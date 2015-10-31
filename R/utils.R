@@ -12,3 +12,7 @@ md_to_html <- function(input) {
   
   read_file(tmp_out)
 }
+
+mkdir <- function(x, recursive = FALSE) {
+  purrr::walk(x, dir.create, showWarnings = FALSE, recursive = recursive)
+}

@@ -3,6 +3,7 @@ write_site <- function() {
     dir.create("www")
   
   write_index()
+  categories$path %>% walk(write_category)
 }
 
 write_index <- function() {
@@ -11,23 +12,60 @@ write_index <- function() {
   writeLines(page, "www/index.html")
 }
 
-category_nav <- function(cur = NULL) {
-  bullets <- paste0(
-    "<li><a href='/", categories$path, "'>", categories$category, "</a></li>"
-  )
-
-  if (!is.null(cur)) {
-    cur <- cur == categories$path
-    bullets[cur] <- paste0("<li>", categories$category[cur], "</li>")
-  }
+write_category <- function(path) {
+  title <- categories$category[categories$path == path]
+  nav <- category_nav(path)
+  body <- recipes_nav(path)
   
+  page <- render_page(title, nav, body)
+  
+  mkdir(file.path("www", path))
+  writeLines(page, file.path("www", path, "index.html"))
+}
+
+link <- function(href, text, current = "") {
+  ifelse(href == current, 
+    text,
+    paste0("<a href='", href, "'>", text, "</a>")
+  )
+}
+bullets <- function(href, text, current = "") {
+  li <- paste0("<li>", link(href, text, current), "</li>")
   paste0(
     "<ul>\n",
-    paste0("  ", bullets, "\n", collapse = ""),
+    paste0("  ", li, "\n", collapse = ""), 
     "</ul>\n"
   )
 }
 
+category_nav <- function(current = "") {
+  bullets(categories$path, categories$category, current)
+}
+
+recipes_nav <- function(category, current = "") {
+  recipes <- recipes_list(category)
+  bullets(recipes$html, recipes$name, current)
+}
+
+recipes_list <- function(category) {
+  path <- file.path("recipes", category)
+  stopifnot(file.exists(path))
+  
+  files <- dir(path, full.names = TRUE)
+  
+  names <- files %>% 
+    map_chr(~read_lines(., n_max = 1)) %>% 
+    unname() %>%
+    stringr::str_replace("^# ", "")
+  
+  dplyr::data_frame(
+    name = names, 
+    md = basename(files), 
+    html = str_replace(md, "\\.md$", ".html"),
+    path = files
+  ) %>%
+    dplyr::arrange(name)
+}
 
 render_page <- function(title, navigation, body) {
   layout <- read_file("templates/layout.html")
