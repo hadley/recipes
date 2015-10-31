@@ -1,18 +1,18 @@
-"category","path"
-"Entrees, Salads & Soups","entrees"
-"Muffins & Scones","muffins-scones"
-"Cakes","cakes"
-"Desserts","desserts"
-"Breads & Loaves","breads"
-"Main - Beef","main-beef"
-"Main - Chicken","main-chicken"
-"Main - Mince","main-mince"
-"Main - Fish","main-fish"
-"Main - Lamb","main-lamb"
-"Main - Pork & Sausages","main-pork"
-"Main - Vegetarian","main-vegetarian"
-"Miscellaneous","misc"
-"Sauces, Jams, Toppings & Spreads","sauces"
-"Sweets","sweets"
-"Biscuits","biscuits"
-"Slices","slices"
+category_id,category,path
+1,"Entrees, Salads & Soups",entrees
+2,Cakes,cakes
+3,Desserts,desserts
+4,Breads & Loaves,breads
+5,Main - Beef,main-beef
+6,Main - Chicken,main-chicken
+7,Main - Fish,main-fish
+8,Main - Lamb,main-lamb
+9,Main - Mince,main-mince
+10,Main - Pork & Sausages,main-pork
+11,Main - Vegetarian,main-vegetarian
+12,Miscellaneous,misc
+13,Muffins & Scones,muffins-scones
+14,"Sauces, Jams, Toppings & Spreads",sauces
+15,Sweets,sweets
+16,Biscuits,biscuits
+17,Slices,slices
