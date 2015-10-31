@@ -1,8 +1,3 @@
-library(whisker)
-library(rmarkdown)
-library(readr)
-library(htmltools)
-library(rmarkdown)
 
 md_to_html <- function(input) {
   tmp_in <- tempfile()

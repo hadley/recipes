@@ -1,0 +1,23 @@
+Package: recipes
+Title: Wickham family recipes
+Version: 1.0.0
+Authors@R: c(
+    person("Alison", "Wickham", role = "cph"),
+    person("Brian", "Wickham", role = "cph"),
+    person("Charlotte", "Wickham", role = "cph"),
+    person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre", "cph"))
+  )
+Depends:
+    whisker,
+    rmarkdown,
+    readr,
+    htmltools,
+    rmarkdown
+Imports:
+    magrittr
+Suggests:
+    dplyr,
+    tidyr
+License: Creative Commons Attribution 4.0 International
+LazyData: true
+RoxygenNote: 5.0.0
