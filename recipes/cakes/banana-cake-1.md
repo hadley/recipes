@@ -1,17 +1,13 @@
-# Banana Cake 2
-From: Rally cook book, page 21
-Time: 35 minutes
+# Banana Cake 1
+From: Newspaper
 
-* 125g (4oz.) butter
-* 175g (6oz) sugar
-* 2 eggs
-* 2 bananas, mashed
-* 1 t baking soda
-* 2 T boiling water
-* 1 t baking powder
-* 225g (8oz) flour
+* 125g butter
+* 1/2 c sugar
+* 1/2 t baking soda
+* 1/4 c milk
+* 2 large bananas, mashed
+* 2 1/4 c self-raising flour
+* 2 eggs, beaten
 
-Cream butter and sugar, add eggs, mashed bananas, then baking soda dissolved in water.  Lastly sift in flour and baking powder.  Bake at 180C for 40 minutes.
-
-Comments: excellent
+Melt butter and sugar.  Remove from heat, add baking soda, and leave for 5 minutes.   Mix mashed bananas, milk and eggs together.  Add alternately with sifted flour to melted butter mix.  Pour into cake tin and cook for 40 minutes and 180C.
 

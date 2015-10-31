@@ -1,24 +1,13 @@
-# Carrot cake 2
-From: Cornell Cookbook
+# Carrot cake 1
 
-* 125g butter
-* 2 medium carrots grated
-* 1 c sugar
-* 1 egg
-* 1 c raisins
-* 1 1/2 c flour
-* 1 t cinnamon
-* 1/2 t nutmeg
-* 1/2 t allspice
-* 1 t salt
-* 1 t baking soda
-* Frosting:
-* 1oz butter
-* 2oz cream cheese
-* 1 t lemon rind
-* 1 1/2 c icing sugar
+* 1 c wholemeal flour
+* 1 c flour
+* 2 t baking soda
+* 2 c raw sugar
+* 1 c cooking oil
+* 4 eggs, beaten
+* 2 c finely grated carrot
+* 2 t cinnamon
 
-Melt butter and add grated carrots.  Add in egg and sugar and stir with a fork.  Stir in raisins.  Mix in flour, spice and baking soda. Bake in 9 inch square tin at 180 C for 40-45 minutes.  Cover with cream cheese frosting.
-
-To make frosting:  cream butter and cream cheese together.  Add lemon rind and icing sugar.
+Sift dry ingredients, add oil, stir in beaten eggs and carrot.  Mix thoroughly.  Pour into a 9 inch greased tin.  Bake at 190C for 1 hour.
 

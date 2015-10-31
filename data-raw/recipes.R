@@ -1,6 +1,7 @@
 library(dplyr)
 library(readr)
 library(tidyr)
+library(stringr)
 
 # scp had.co.nz://home/hadley/public/recipes.had.co.nz/db/recipes.sqlite3 .
 recipes <- src_sqlite("data-raw/recipes.sqlite3") %>% 
@@ -10,12 +11,12 @@ recipes <- src_sqlite("data-raw/recipes.sqlite3") %>%
 categories <- read_csv("data-raw/categories.csv")
 
 slug <- function(x) {
-  x <- tolower(x)
-  x <- gsub("'", "", x)
-  x <- gsub("[^a-z]+", "-", x)
-  x <- gsub("-+", "-", x)
-  x <- gsub("^-|-$", "", x)  
-  x <- make.unique(x, "-")
+  x %>%
+    tolower() %>%
+    str_replace_all("'", "") %>% 
+    str_replace_all("[^a-z0-9]+", "-") %>% 
+    str_replace_all("-+", "-") %>% 
+    str_replace_all("^-|-$", "")
 }
 
 recipes <- recipes %>% 
