@@ -8,7 +8,8 @@ write_site <- function(path = "www") {
   copy_static("orchid.gif", path)
   copy_static("scaffold.css", path)
 
-  categories$category_id %>% walk(write_category, path = path)
+  recipes <- load_recipes()
+  categories$category_id %>% walk(write_category, recipes, path = path)
   
 }
 
@@ -18,12 +19,12 @@ write_index <- function(path = "www") {
   writeLines(page, file.path(path, "index.html"))
 }
 
-write_category <- function(cat_id, path = "www") {
+write_category <- function(cat_id, recipes, path = "www") {
   cat <- find_category(cat_id)
   
   title <- cat$title
   nav <- category_nav(cat_id)
-  body <- recipes_nav(cat_id)
+  body <- recipes_nav(cat_id, recipes)
   
   page <- render_page(title, nav, body)
 
@@ -55,29 +56,9 @@ category_nav <- function(cat_id = NULL) {
   bullets(paste0("/", categories$path, "/index.html"), categories$category, find_category(cat_id)$path)
 }
 
-recipes_nav <- function(cat_id, current = "") {
-  recipes <- recipes_list(cat_id)
-  bullets(recipes$html, recipes$name, current)
-}
-
-recipes_list <- function(cat_id) {
-  path <- file.path("recipes", find_category(cat_id)$path)
-  stopifnot(file.exists(path))
-  
-  files <- dir(path, full.names = TRUE)
-  
-  names <- files %>% 
-    map_chr(~read_lines(., n_max = 1)) %>% 
-    unname() %>%
-    stringr::str_replace("^# ", "")
-  
-  dplyr::data_frame(
-    name = names, 
-    md = basename(files), 
-    html = str_replace(md, "\\.md$", ".html"),
-    path = files
-  ) %>%
-    dplyr::arrange(name)
+recipes_nav <- function(cat_id, recipes, current = "") {
+  recipes <- dplyr::filter(recipes, category == find_category(cat_id)$path)
+  bullets(recipes$dest, recipes$name, current)
 }
 
 render_page <- function(title, navigation, body) {
@@ -87,6 +68,15 @@ render_page <- function(title, navigation, body) {
     body = body)
   )
 }
+
+render_recipe <- function(path, navigation, body) {
+  render_template("layout.html", list(
+    title = htmltools::htmlEscape(title), 
+    navigation = navigation, 
+    body = body)
+  )
+}
+
 
 render_template <- function(name, data = list()) {
   path <- system.file("templates", name, package = "recipes", mustWork = TRUE)
@@ -105,4 +95,24 @@ find_category <- function(cat_id) {
   if (is.null(cat_id)) return(NULL)
   
   as.list(categories[categories$category_id == cat_id, , drop = FALSE])
+}
+
+
+load_recipes <- function() {
+  paths <- dir("recipes", recursive = TRUE)
+  recipes <- paths %>% map_chr(~ read_file(file.path("recipes", .)))
+  
+  names <- recipes %>% 
+    stringr::str_split(stringr::fixed("\n"), n = 2) %>% 
+    map_chr(1) %>% 
+    stringr::str_replace("^# ", "")
+
+  dplyr::data_frame(
+    name = names,
+    category = dirname(paths),
+    src = paths, 
+    dest = str_replace(paths, "\\.md$", ".html"),
+    recipe = recipes
+  ) %>%
+    dplyr::arrange(name)
 }
