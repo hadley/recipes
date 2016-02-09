@@ -1,29 +1,40 @@
-write_site <- function() {
-  if (!file.exists("www"))
-    dir.create("www")
-  
-  write_index()
-  categories$path %>% walk(write_category)
+#' Create the complete site.
+#' 
+#' @export
+write_site <- function(path = "www") {
+  mkdir(path)
+
+  write_index(path)
+  categories$category_id %>% walk(write_category, path = path)
+  file.copy(system.file("public", "orchid.gif", package = "recipes"), path, overwrite = TRUE)
+  file.copy(system.file("public", "scaffold.css", package = "recipes"), path, overwrite = TRUE)
 }
 
-write_index <- function() {
-  body <- md_to_html(read_lines("recipes/index.md"))
+write_index <- function(path = "www") {
+  body <- md_to_html(render_template("index.md"))
   page <- render_page("All recipes", category_nav(), body)
-  writeLines(page, "www/index.html")
+  writeLines(page, file.path(path, "index.html"))
 }
 
-write_category <- function(path) {
-  title <- categories$category[categories$path == path]
-  nav <- category_nav(path)
-  body <- recipes_nav(path)
+write_category <- function(cat_id, path = "www") {
+  cat <- find_category(cat_id)
+  
+  title <- cat$title
+  nav <- category_nav(cat_id)
+  body <- recipes_nav(cat_id)
   
   page <- render_page(title, nav, body)
-  
-  mkdir(file.path("www", path))
-  writeLines(page, file.path("www", path, "index.html"))
+
+  mkdir(file.path(path, cat$path))
+  writeLines(page, file.path(path, cat$path, "index.html"))
 }
 
+
 link <- function(href, text, current = "") {
+  if (is.null(current)) {
+    current <- ""
+  }
+  
   ifelse(href == current, 
     text,
     paste0("<a href='", href, "'>", text, "</a>")
@@ -38,17 +49,17 @@ bullets <- function(href, text, current = "") {
   )
 }
 
-category_nav <- function(current = "") {
-  bullets(categories$path, categories$category, current)
+category_nav <- function(cat_id = NULL) {
+  bullets(paste0("/", categories$path, "/index.html"), categories$category, find_category(cat_id)$path)
 }
 
-recipes_nav <- function(category, current = "") {
-  recipes <- recipes_list(category)
+recipes_nav <- function(cat_id, current = "") {
+  recipes <- recipes_list(cat_id)
   bullets(recipes$html, recipes$name, current)
 }
 
-recipes_list <- function(category) {
-  path <- file.path("recipes", category)
+recipes_list <- function(cat_id) {
+  path <- file.path("recipes", find_category(cat_id)$path)
   stopifnot(file.exists(path))
   
   files <- dir(path, full.names = TRUE)
@@ -68,12 +79,23 @@ recipes_list <- function(category) {
 }
 
 render_page <- function(title, navigation, body) {
-  layout <- read_file("templates/layout.html")
-  
-  whisker.render(layout, list(
+  render_template("layout.html", list(
     title = htmltools::htmlEscape(title), 
     navigation = navigation, 
     body = body)
   )
 }
 
+render_template <- function(name, data = list()) {
+  path <- system.file("templates", name, package = "recipes", mustWork = TRUE)
+  template <- readLines(path)
+  
+  whisker.render(template, data)
+}
+
+
+find_category <- function(cat_id) {
+  if (is.null(cat_id)) return(NULL)
+  
+  as.list(categories[categories$category_id == cat_id, , drop = FALSE])
+}

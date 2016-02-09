@@ -1,7 +1,0 @@
-<ul>
-	<%- for recipe in recipes -%>
-	<li<%= " class='current'" if recipe.id == current %>><%= link_to(recipe.name, :action => 'show', :name => recipe.urlname, :id => recipe.id) %></li>
-	<%- end -%>
-</ul>
-
-<p class="admin"><%= link_to 'New recipe', :action => 'new', :category_id => category_id %></p>

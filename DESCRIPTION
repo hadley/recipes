@@ -21,4 +21,4 @@ Imports:
     tidyr
 License: Creative Commons Attribution 4.0 International
 LazyData: true
-RoxygenNote: 5.0.0
+RoxygenNote: 5.0.1

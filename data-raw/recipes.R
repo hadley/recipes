@@ -27,4 +27,11 @@ recipes <- recipes %>%
     slug = slug(name)
   )
 
-devtools::use_data(categories, recipes, overwrite = TRUE, internal = TRUE)
+# Save out recipes as md so can easily diff
+paths <- file.path("recipes", categories$path)
+lapply(paths, dir.create, recursive = TRUE, showWarnings = FALSE)
+for (i in seq_len(nrow(recipes))) {
+  recipes::save_recipe(recipes[i, ])  
+}
+
+devtools::use_data(categories, overwrite = TRUE, internal = TRUE)

@@ -1,15 +1,6 @@
 #' @importFrom magrittr %>%
 NULL
 
-export <- function() {
-  paths <- file.path("recipes", categories$path)
-  lapply(paths, dir.create, recursive = TRUE, showWarnings = FALSE)
-
-  for (i in seq_len(nrow(recipes))) {
-    save_recipe(recipes[i, ])  
-  }
-}
-
 save_recipe <- function(recipe) {
   recipe <- lapply(recipe, trim)
   
@@ -21,7 +12,7 @@ save_recipe <- function(recipe) {
     if (time > 0) paste0("Time: ", time, " minutes\n"),
     "\n",
     
-    recipe$ingredients %?% bullets(recipe$ingredients),
+    recipe$ingredients %?% basic_bullets(recipe$ingredients),
     "\n\n", 
     recipe$method,
     "\n",
@@ -57,7 +48,7 @@ fix_name <- function(x) {
   x
 }
 
-bullets <- function(x) {
+basic_bullets <- function(x) {
   lines <- strsplit(x, "\n")[[1]]
   lines <- lines[lines != ""]
   paste0("* ", lines, collapse = "\n")
