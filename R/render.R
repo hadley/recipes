@@ -5,9 +5,11 @@ write_site <- function(path = "www") {
   mkdir(path)
 
   write_index(path)
+  copy_static("orchid.gif", path)
+  copy_static("scaffold.css", path)
+
   categories$category_id %>% walk(write_category, path = path)
-  file.copy(system.file("public", "orchid.gif", package = "recipes"), path, overwrite = TRUE)
-  file.copy(system.file("public", "scaffold.css", package = "recipes"), path, overwrite = TRUE)
+  
 }
 
 write_index <- function(path = "www") {
@@ -91,6 +93,11 @@ render_template <- function(name, data = list()) {
   template <- readLines(path)
   
   whisker.render(template, data)
+}
+
+copy_static <- function(src, dest) {
+  from <- system.file("static", src, package = "recipes")
+  file.copy(from, dest, overwrite = TRUE)
 }
 
 
