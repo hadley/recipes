@@ -11,6 +11,7 @@ body {
 .body {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   flex: 1;
   width: 100%;
 }
@@ -42,13 +43,12 @@ footer p {
 }
 
 
-@media (min-width: 600px) {
+@media (min-width: 736px) {
   body {
     min-height: 100vh;
   }
   .body {
     flex-direction: row;
-    width: 75%;
   }
   main {
     max-width: 40em;
@@ -56,11 +56,13 @@ footer p {
   nav {
     flex-direction: column;
     min-width: 15em;
+    max-width: 20em;
+
     width: 30%;
     order: -1;
   }
   nav .nav {
-    margin: 0.5em 0;
+    margin: 0 0 1em 0;
     flex: none;
   }
 }
