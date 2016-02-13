@@ -9,8 +9,16 @@ write_site <- function(path = "www") {
   copy_static("scaffold.css", path)
 
   recipes <- load_recipes()
-  categories$category_id %>% walk(write_category, recipes, path = path)
   
+  categories$category_id %>% walk(write_category, recipes, path = path)
+  list(
+    name = recipes$name, 
+    cat_id = recipes$category_id, 
+    recipe = recipes$recipe,
+    dest = recipes$dest
+  ) %>% 
+    pwalk(write_recipe, recipes = recipes, path = path)
+
 }
 
 write_index <- function(path = "www") {
@@ -23,13 +31,28 @@ write_category <- function(cat_id, recipes, path = "www") {
   cat <- find_category(cat_id)
   
   title <- cat$title
-  nav <- category_nav(cat_id)
   body <- recipes_nav(cat_id, recipes)
+  nav <- category_nav(cat_id)
   
   page <- render_page(title, nav, body)
 
   mkdir(file.path(path, cat$path))
   writeLines(page, file.path(path, cat$path, "index.html"))
+}
+
+write_recipe <- function(name, cat_id, recipe, dest, recipes = load_recipes(), path = "www") {
+  
+  title <- name
+  nav <- paste(category_nav(cat_id), recipes_nav(cat_id, recipes, dest))
+  body <- md_to_html(recipe)
+    
+  page <- render_template("layout.html", list(
+    title = htmltools::htmlEscape(title), 
+    navigation = nav, 
+    body = body)
+  )
+  
+  writeLines(page, file.path(path, dest))
 }
 
 
@@ -39,7 +62,7 @@ link <- function(href, text, current = "") {
   }
   
   ifelse(href == current, 
-    text,
+    paste0("<a href='", href, "' class='current'>", text, "</a>"),
     paste0("<a href='", href, "'>", text, "</a>")
   )
 }
@@ -53,12 +76,26 @@ bullets <- function(href, text, current = "") {
 }
 
 category_nav <- function(cat_id = NULL) {
-  bullets(paste0("/", categories$path, "/index.html"), categories$category, find_category(cat_id)$path)
+  paste0(
+    "<h2 class='first'>Categories</h2>\n\n",
+    bullets(
+      paste0("/", categories$path, "/index.html"), 
+      categories$category, 
+      find_category(cat_id)$path
+    )
+  )
 }
 
 recipes_nav <- function(cat_id, recipes, current = "") {
-  recipes <- dplyr::filter(recipes, category == find_category(cat_id)$path)
-  bullets(recipes$dest, recipes$name, current)
+  recipes <- dplyr::filter(recipes, category_id == cat_id)
+  paste0(
+    "<h2 class='first'>Recipes</h2>\n\n",
+    bullets(
+      paste0("/", recipes$dest), 
+      recipes$name, 
+      paste0("/", current)
+    )
+  )
 }
 
 render_page <- function(title, navigation, body) {
@@ -100,7 +137,7 @@ find_category <- function(cat_id) {
 
 load_recipes <- function() {
   paths <- dir("recipes", recursive = TRUE)
-  recipes <- paths %>% map_chr(~ read_file(file.path("recipes", .)))
+  recipes <- paths %>% map_chr(~ readr::read_file(file.path("recipes", .)))
   
   names <- recipes %>% 
     stringr::str_split(stringr::fixed("\n"), n = 2) %>% 
@@ -111,8 +148,9 @@ load_recipes <- function() {
     name = names,
     category = dirname(paths),
     src = paths, 
-    dest = str_replace(paths, "\\.md$", ".html"),
+    dest = stringr::str_replace(paths, "\\.md$", ".html"),
     recipe = recipes
   ) %>%
-    dplyr::arrange(name)
+    dplyr::arrange(name) %>% 
+    dplyr::inner_join(dplyr::select(categories, category_id, category = path), by = "category")
 }

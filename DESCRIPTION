@@ -10,13 +10,13 @@ Authors@R: c(
 Depends:
     whisker,
     rmarkdown,
-    readr,
     htmltools,
     rmarkdown,
     purrr
 Imports:
     magrittr,
     stringr,
+    readr,
     dplyr,
     tidyr
 License: Creative Commons Attribution 4.0 International
