@@ -20,15 +20,16 @@ body {
   }
   
   nav {
-  	width: 30%;
-  	min-width: 15em;
-  	margin: 1em;
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
   }
   
   nav .nav {
+    flex: 1;
     background-color: #C8D8C8;
     padding: 1em;
-    margin-bottom: 1em;
+    margin: 0 0.5em;
   }
 
 footer {
@@ -53,8 +54,13 @@ footer p {
     max-width: 40em;
   }
   nav {
-    width: 25%;
-    order: -1
+    flex-direction: column;
+    min-width: 15em;
+    width: 30%;
+    order: -1;
+  }
+  nav .nav {
+    margin: 0.5em 0;
   }
 }
 
