@@ -4,5 +4,5 @@ language: r
 cache: packages
 
 script: 
-  - R CMD install .
+  - R CMD INSTALL .
   - R -e "recipes::write_site()"
