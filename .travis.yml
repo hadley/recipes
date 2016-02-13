@@ -3,6 +3,16 @@
 language: r
 cache: packages
 
-script: 
+script:
   - R CMD INSTALL .
   - R -e "recipes::write_site()"
+
+deploy:
+  skip_cleanup: true
+  
+  local-dir: www
+  provider: s3
+  access_key_id: AKIAJ4FYQ65OBV3JYJRA
+  bucket: recipes.wickham.nz
+  secret_access_key:
+    secure: EiFjPZ7BuGFrFG3XCYrWlBE6drsoQV9GF5H8z3p5dAnq11rThzfXmZYa7JlZR9jdGAle2vwqlQggRNqhYz6F5Kq6qhkqm6PApIO3xFkio//9qk8lh4AqLhZuLs9bkFyrPQbGEWqTcLpVzSAeSuKb5s8j6cwtvAtPvKSOBH5oeDU=
