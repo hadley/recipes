@@ -18,3 +18,4 @@ Saute celery, onion, garlice and mushoroms in oil for 5 mins until tender.  Add 
 Add some stir fried chicken if liked.  
 t = teaspoon
 
+

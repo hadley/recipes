@@ -1,5 +1,4 @@
 # Scroggins
-From: Daniels Grandmother
 
 * 6oz butter
 * 2 T peanut butter
@@ -16,5 +15,7 @@ From: Daniels Grandmother
 
 Cream butter, sugar and peanut butter.  Add essence and eggs and mix well.  Stir in remaining ingredients.  Bake at 190C for 15 minutes
 
-Comments: good for tramps etc.
+
+Comments: good for tramps etc.  
+Source: Daniels Grandmother
 

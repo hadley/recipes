@@ -1,5 +1,4 @@
 # Couscous with chickpeas
-From: Joy of cooking
 
 
 
@@ -31,5 +30,7 @@ Cover, remove from heat and stand 5 minues.  Fluff coucous with fork.
 Season with salt and ground black pepper to taste.
 Garnish with 1/4 c chopped fresh parsley or cilantro
 
-Comments: Very tasty indeed AW
+
+Comments: Very tasty indeed AW  
+Source: Joy of cooking
 

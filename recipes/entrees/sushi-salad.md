@@ -1,5 +1,4 @@
 # Sushi Salad
-From: Inspired by Keiko, our Japanese friend.
 
 * For two servings - scale up as needed.
 * 1 heaped cup sushi rice
@@ -18,5 +17,7 @@ Lightly beat egg and water and cook as an omelet until just firm.
 Stir fillings through rice mix. Cut up omelet and sushi nori into bite sized rectangles and arrange decoratively on top.
 Serve.
 
-Comments: If you love sushi, this is a quick, tasty and easy way to prepare it.
+
+Comments: If you love sushi, this is a quick, tasty and easy way to prepare it.  
+Source: Inspired by Keiko, our Japanese friend.
 

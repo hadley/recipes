@@ -1,6 +1,4 @@
 # Cheese toast
-From: Kid's Cookbook, page 14
-Time: 20 minutes
 
 * 1 egg
 * 1 c cheese, grated
@@ -12,5 +10,8 @@ Time: 20 minutes
 
 Mix together all ingredients, stir well.  Grill bread on one side.  Spread cheese mixture on other side.  Grill until cheese is melted and bubbly.
 
-Comments: Delicious
+Time: 20 minutes  
+
+Comments: Delicious  
+Source: Kid's Cookbook, page 14
 

@@ -1,6 +1,4 @@
 # Carrot Muffins
-From: MMM Muffins, page 23
-Time: 15 minutes
 
 * 1 c milk
 * 1 egg
@@ -16,4 +14,7 @@ Time: 15 minutes
 Lightly oil and muffin tin and preheat oven to 190C.  This recipe makes 12 muffins.
 
 Put the first seven ingredients into a bowl and mix well.  Then add the remaining ingredients and blend until just mixed.  Two-thirds fill the muffin tins and bake for 15 minutes.
+
+Time: 15 minutes  
+Source: MMM Muffins, page 23
 

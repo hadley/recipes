@@ -22,3 +22,4 @@ Spread mixture carefully over pears.  Bake 180 C 35-40 minutes.  Invert the tin 
 
 Drained tinned pears may be used on place of fresh pears.
 
+

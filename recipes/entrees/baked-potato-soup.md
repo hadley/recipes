@@ -1,5 +1,4 @@
 # Baked potato soup
-From: http://southernfood.about.com/od/potatosoups/r/bl30324f.htm
 
 * 1/2 c butter
 * 1/2 c flour
@@ -12,5 +11,7 @@ From: http://southernfood.about.com/od/potatosoups/r/bl30324f.htm
 
 Make roux and cook for ~10 minutes.  Add potatoes and green onions and cook for another 10 minutes.  Mix in remaining ingredients.
 
-Comments: Hearty comfort food
+
+Comments: Hearty comfort food  
+Source: http://southernfood.about.com/od/potatosoups/r/bl30324f.htm
 

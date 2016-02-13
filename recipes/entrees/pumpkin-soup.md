@@ -14,3 +14,4 @@ Peel and chop onions.  Gently cook with garlic in oil until soft.  Add pumpkin p
 
 Blend until creamy in food processor.  Thin if necessary with water, milk or cream.  Adjust seasonings if necessary. Serve piping hot(but do not boil if thinned with dairy products) with crusty bread.
 
+

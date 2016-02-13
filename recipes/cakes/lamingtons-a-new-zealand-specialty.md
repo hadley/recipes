@@ -14,5 +14,6 @@ Cut sponge into squares, coat each with mixture by dipping it in the mix using t
 
 Fiddly but worth it.
 
-Comments: In US a lot of coconut is sold in a sweetened form. You need plain dessicated (dried) coconut for this recipe. The bag should list the contents as 100% coconut - nothing else.
+
+Comments: In US a lot of coconut is sold in a sweetened form. You need plain dessicated (dried) coconut for this recipe. The bag should list the contents as 100% coconut - nothing else.  
 

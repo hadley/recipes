@@ -1,6 +1,4 @@
 # Banana loaf
-From: Modified "Rally cook book" page 114
-Time: 60 minutes
 
 * 2 eggs
 * 3 mashed bananas
@@ -24,7 +22,10 @@ Place lined loaf tin. Decorate top with whole nuts and chocolate chips as desire
 
 Bake at 180C for for 1 hour.
 
+Time: 60 minutes  
+
 Comments: Delicious and super simple to make.
 
-Great for starter cooks.
+Great for starter cooks.  
+Source: Modified "Rally cook book" page 114
 

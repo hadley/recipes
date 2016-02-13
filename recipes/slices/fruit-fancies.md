@@ -1,6 +1,4 @@
 # Fruit fancies
-From: Rally cook book, page 69
-Time: 60 minutes
 
 * 6oz flour
 * 1 t baking powder
@@ -12,4 +10,7 @@ Time: 60 minutes
 * Milk
 
 Sift flour and baking powder, add other dry ingredients and fruit.  Add butter and honey melted together and add enough milk to make a moist mixture.  Press into a sponge roll tin and bake at 180C for 20 minutes.  Ice if desired and cut into squares.
+
+Time: 60 minutes  
+Source: Rally cook book, page 69
 

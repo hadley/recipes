@@ -1,5 +1,4 @@
 # Frozen lemon pie
-From: Onslow College Cookbook, page 118
 
 * Base:
 * 2 c crushed malt meal wafers
@@ -15,4 +14,6 @@ From: Onslow College Cookbook, page 118
 * 1/4 c lemon juice
 
 Mix biscuit crumbs, melted butter and sugar together and press into 2 8" tins retaining 2 T of mixture.  Separate eggs and beat whites till glossy, then in sugar till glossy,.  Beat yolks till thick and fold in.  Whip into crust and sprinkle with reserved crumbs.  Freeze.
+
+Source: Onslow College Cookbook, page 118
 

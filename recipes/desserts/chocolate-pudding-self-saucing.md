@@ -1,6 +1,4 @@
 # Chocolate pudding, self-saucing
-From: NZ Microwave Cookbook, page 83
-Time: 27 minutes
 
 * 1 c self-raising flour
 * pinch salt
@@ -20,4 +18,7 @@ Time: 27 minutes
 3.  Combine water and coffee powder.  Micro-cook, high power, 2 minutes.  Pour carefully over the pudding.
 
 4.  Micro-cook the pudding, high power, 8-10 minutes. or until the sponge rises up through the sauce.
+
+Time: 27 minutes  
+Source: NZ Microwave Cookbook, page 83
 

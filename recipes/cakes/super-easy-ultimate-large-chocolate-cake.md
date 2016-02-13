@@ -1,5 +1,4 @@
 # Super Easy Ultimate Large Chocolate Cake
-From: Annabel Langbein - New Zealand super-cook
 
 * 3 cups self raising flour
 * 2 cups sugar
@@ -15,7 +14,9 @@ From: Annabel Langbein - New Zealand super-cook
 
 
 
+
 Comments: Large and fabulously moist and delicious.  See how to make it here:
 http://www.youtube.com/user/annabellangbein?blend=3&ob=5#p/u/0/E5fdrbfdtbg
-Lovely to watch too!
+Lovely to watch too!  
+Source: Annabel Langbein - New Zealand super-cook
 

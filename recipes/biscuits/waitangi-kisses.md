@@ -1,5 +1,4 @@
 # Waitangi kisses
-From: Cornell Cookbook
 
 * 4oz butter
 * 4oz sugar
@@ -14,4 +13,6 @@ Cream butter and sugar.  Add egg and cocoa then fold in flour and baking powder.
 When cold ice two together.
 
 Alternatively make large teaspoonfuls and ice the tops.
+
+Source: Cornell Cookbook
 

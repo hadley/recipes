@@ -1,5 +1,4 @@
 # Play Dough
-From: Rally cook book, page 159
 
 * 2 c flour
 * 1 c salt
@@ -9,4 +8,6 @@ From: Rally cook book, page 159
 * Food colouring
 
 Mix dry ingredients in a saucepan.  Add water and colouring and lastly oil.  Heat gently and turn slowly until it is cooked, or when it comes away from the sides easily.  Work lightly with floured hands and store in an air-tight container.
+
+Source: Rally cook book, page 159
 

@@ -1,5 +1,4 @@
 # Zucchini/Courgette Chocolate Cake
-From: Meals without meat
 
 * 125g butter
 * 1 c brown sugar
@@ -24,5 +23,7 @@ Pour into tin, and sprinkle with chocolate pieces if desired.
 
 Bake at 170C for 45 minutes.
 
-Comments: Great with Strawberries.  AW
+
+Comments: Great with Strawberries.  AW  
+Source: Meals without meat
 

@@ -1,5 +1,4 @@
 # Blintzes
-From: Rally cook book, page 117
 
 * BATTER:
 * 2 eggs
@@ -19,5 +18,7 @@ Press cottage cheese though colander, add egg and season to taste.
 
 Place rounded tablespoon of filing in the centre of each pancake.  Fold over from both sides, and then fold over top to make a square.  Fry on both sides until golden brown.  Serve hot.
 
-Comments: Nice
+
+Comments: Nice  
+Source: Rally cook book, page 117
 

@@ -1,6 +1,4 @@
 # Baked sausages
-From: Onslow College Cookbook, page 92
-Time: 120 minutes
 
 * 1 lb sausages
 * 1 large onion
@@ -13,4 +11,7 @@ Time: 120 minutes
 * 1 c water
 
 Fry sausages in a little fat until brown.  Place in a casserole and cover with onions and tomatoes. Mix other ingredients together and pour over.  Bake in a slow oven for 2 hours.
+
+Time: 120 minutes  
+Source: Onslow College Cookbook, page 92
 

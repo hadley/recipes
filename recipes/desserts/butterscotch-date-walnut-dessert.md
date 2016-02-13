@@ -1,5 +1,4 @@
 # Butterscotch date walnut dessert
-From: Newspaper
 
 * 1 1/2 cup dates
 * 1 1/2 cup water
@@ -22,4 +21,6 @@ Boil dates in water for 5 minutes.  Mash with potato masher.  Remove from heat a
 Turn out onto rack after 10 minutes.  Slice warm cake and top with ice cream and sauce.
 
 To make sauce, heat butter and brown sugar over moderate heat.  Remove from heat and stir in sour cream and add flavourings.
+
+Source: Newspaper
 

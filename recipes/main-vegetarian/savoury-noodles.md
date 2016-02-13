@@ -1,5 +1,4 @@
 # Savoury Noodles
-From: Notebook
 
 * 1 1/2 c macaroni
 * 2 T butter
@@ -10,4 +9,6 @@ From: Notebook
 * 1 t cornflour
 
 Cook noodles in unsalted water.  Drain, reserving 1/2 c of water.  Add butter, then stocks, sugar and parsley.  Mix cornflour to a paste and add.  Cook until noodles coated and no sauce left in pot.
+
+Source: Notebook
 

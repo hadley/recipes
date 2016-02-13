@@ -1,5 +1,4 @@
 # Peanut butter cupcakes
-From: Joy of cooking
 
 * 1 3/4 c flour
 * 1/2 c brown sugar
@@ -14,5 +13,7 @@ From: Joy of cooking
 
 Mix all ingredients until smooth.  Bake at 350 for 25-30 minutes.
 
-Comments: Super easy and quick
+
+Comments: Super easy and quick  
+Source: Joy of cooking
 

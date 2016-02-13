@@ -1,5 +1,4 @@
 # Almond Biscotti
-From: JoyofBaking.com
 
 * 1 cup almonds toasted and chopped coarsely
 * 1 t baking powder
@@ -27,5 +26,7 @@ Cool on wire rack.. Keep in airtight container.
 
 Makes about 40 pieces.  Dip in coffee or wine to eat.
 
-Comments: Can vary by adding 1 tablespoon orange or lemon zest, or chopped glace cherries or dipping in chocolate.
+
+Comments: Can vary by adding 1 tablespoon orange or lemon zest, or chopped glace cherries or dipping in chocolate.  
+Source: JoyofBaking.com
 

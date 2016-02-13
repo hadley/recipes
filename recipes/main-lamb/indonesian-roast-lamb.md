@@ -1,5 +1,4 @@
 # Indonesian roast lamb
-From: Meat International
 
 * 1 small shoulder roast
 * juice of 1 lemon
@@ -21,5 +20,7 @@ Roast meat at 170C for 1-1.5 hours, as desired, brushing with glaze during last 
 
 To microwave, brush uncooked roast with glaze.  Cook at 50% to 50% power level, to an internal temperature of 70C, and about 15 minutes for each 750g.  Allow to stand for 10 minutes.  Slice and pour glaze, thinned if necessary, over meat.
 
-Comments: Serve with rice.
+
+Comments: Serve with rice.  
+Source: Meat International
 

@@ -1,5 +1,4 @@
 # Macaroni cheese
-From: Weight Watchers Microwave, page 82
 
 * 6 teaspoons (30g) margarine
 * 6 teaspoons plain flour
@@ -16,4 +15,6 @@ In 2 litre casserole add margarine; microwave on high until melted, 40-50 second
 Put mix in 21x21x4 casserole dish that has been sprayed with non-stick spray.  Put tomato and parmesan on top.  Microwave on high 4-5 minutes.  Place under grill until lightly browned if necessary.
 
 Each serve: 2 protein exchanges, 1 bread, 1/4 vegetable, 1 fat. 1/4 milk, 40 kJ optional.
+
+Source: Weight Watchers Microwave, page 82
 

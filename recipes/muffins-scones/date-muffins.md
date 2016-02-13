@@ -1,5 +1,4 @@
 # Date Muffins
-From: MMM Muffins, page 41
 
 * 1 c milk
 * 1 egg
@@ -13,4 +12,6 @@ From: MMM Muffins, page 41
 
 Lightly oil a muffin tin and preheat oven to 190 C.
 Put the first seven ingredients into a bowl and mix well.  Add the remaining ingredients and blend until just mixed.  Two-thirds fill the muffin tins and place half a date on top of each muffin.  Bake for 15-20 minutes.
+
+Source: MMM Muffins, page 41
 

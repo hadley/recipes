@@ -1,5 +1,4 @@
 # Beef Curry
-From: Brian Wickham
 
 * 1.5 kg blade or topside steak
 * 2 large carrots
@@ -24,4 +23,6 @@ From: Brian Wickham
 4.  Add rest of ingredients.
 5.  Cook in 150 C oven for 120 minutes.
 Serve with rice, and condiments such as banana, peanuts, sultanas, pineapple pieces, sliced tomatoes, and sliced cucumber.
+
+Source: Brian Wickham
 

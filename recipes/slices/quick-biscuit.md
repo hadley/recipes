@@ -1,5 +1,4 @@
 # Quick Biscuit
-From: Cornell Cookbook
 
 * 5oz butter
 * 1T golden syrup
@@ -11,4 +10,6 @@ From: Cornell Cookbook
 * 1 egg, beaten
 
 Melt butter and sugar.  Add remaining ingredients and mix well.  Bake in a Swiss roll tin at 150C for 20 minutes.  When cool ice with lemon icing.
+
+Source: Cornell Cookbook
 

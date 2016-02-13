@@ -1,6 +1,4 @@
 # Apricot and Lemon Jam
-From: Family Circle Bestever Christmas Book, page 41
-Time: 90 minutes
 
 * 500g dried apricots
 * 9 c water
@@ -12,4 +10,7 @@ Soak apricots in half the water overnight.  Boil whole lemons, uncovered, in rem
 Boil apricots in their soaking water until tender, add sugar and sliced lemons, together with the reserved water and pips.  (Tie the pips in a small muslin square.)  Boil until the jam thickens and a teaspoon of the mixture placed on a saucer wrinkles when pushed with a finger.
 
 Remove pips and spoon jam into sterilised jars.  Seal while still hot.
+
+Time: 90 minutes  
+Source: Family Circle Bestever Christmas Book, page 41
 

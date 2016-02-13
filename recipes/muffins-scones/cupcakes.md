@@ -1,5 +1,4 @@
 # Cupcakes
-From: Hummingbird bakery (NZ version)
 
 * 120g flour
 * 140g caster sugar
@@ -42,4 +41,6 @@ Cut out segment of cook cupcake and fill with 200g:
 * kirsch cherries
 * dulche de leche
 * ganache
+
+Source: Hummingbird bakery (NZ version)
 

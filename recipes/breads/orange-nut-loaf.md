@@ -1,5 +1,4 @@
 # Orange nut loaf
-From: Onslow College Cookbook, page 152
 
 * 1/4 c dates, chopped
 * 2 c flour
@@ -17,5 +16,7 @@ Put the orange juice into a c and fill with boiling water.  Add the baking soda.
 
 Bake in a loaf tin for 45 minutes at 180 C.
 
-Comments: EXCELLENT
+
+Comments: EXCELLENT  
+Source: Onslow College Cookbook, page 152
 

@@ -1,5 +1,4 @@
 # Kisses
-From: Notebook
 
 * 4oz butter
 * 4oz sugar
@@ -9,4 +8,6 @@ From: Notebook
 * 1t baking powder
 
 Cream butter and sugar.  Beat in eggs.  Sift in flour cornflour and baking powder.  Mix well.  Bake at 200C for 8-10 minutes.  When cold put together with raspberry jam.
+
+Source: Notebook
 

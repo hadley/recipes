@@ -1,6 +1,4 @@
 # Christmas Cake, Pineapple
-From: Newspaper
-Time: 270 minutes
 
 * 1 - 1.5 kg dried fruit
 * 450g can pineapple, crushed
@@ -20,4 +18,7 @@ Mix the spices with three c of flour and put aside.  Cream butter, sugar and ess
 Toss together prepared fruit and remaining spiced flour in a large bowl or a roasting pan.  Stir in the creamed mixture.  The mixture should be just soft enough to drop from a spoon.  If it seems too soft add extra flour.
 
 Press mixture into a 23cm  lined tin, levelling the top.  Decorate with blanched almonds and cherries if desired. Bake at 150C for 1 1/2 hours, then at 130C for about 2 hours longer.
+
+Time: 270 minutes  
+Source: Newspaper
 

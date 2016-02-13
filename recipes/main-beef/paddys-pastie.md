@@ -25,3 +25,4 @@ Mix together remaining ingredients thoroughly.  Cut the scrubbed potatoes into l
 Put the uncooked mixture into the lower uncooked pastry circle and cover with the remaining circle.  Dampen the two crusts where they meet, pinch them together and trim, leaving enough to fold over.  Crimp or otherwise decorate the edges.  Brush with beaten egg for golden glaze.  Cut a few steam vents in top.
 Bake at 200C for 30 minutes then at 180C for another 30 minutes.
 
+

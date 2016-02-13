@@ -19,3 +19,4 @@ Combine syrup and butter in pan, stir over heat until smooth.  Combine sifted fl
 ICING
 Combine butter, honey, and vanilla in bowl.  Gradually beat in sifted icing sugar and water until smooth.
 
+

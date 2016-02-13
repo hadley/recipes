@@ -28,5 +28,6 @@ Sit on a trivet in a large saucepan and add boiling water 2/3 up the sides of th
 
 Steam for 6 hours checking occasionally and topping up with boiling water.
 
-Comments: Big enough for eight.  Very rich and delicous.
+
+Comments: Big enough for eight.  Very rich and delicous.  
 

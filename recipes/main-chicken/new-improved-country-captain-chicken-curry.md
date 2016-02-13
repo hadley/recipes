@@ -1,5 +1,4 @@
 # New Improved COUNTRY CAPTAIN CHICKEN CURRY
-From: Original recipe Joy of Cooking
 
 * 2 chicken breasts, skinned and cut into cubes
 * 2 heaped tablespoons butter
@@ -18,8 +17,10 @@ From: Original recipe Joy of Cooking
 
 Add thyme, tomatoes, butternut, currants and brown sugar. Simmer for 20 minutes.  Add broccoli and simmer for a further 10 minutes. Serve over cooked plain jasmine or basmati rice.
 
+
 Comments: Modified by AW. 
 A great mild curry two pan dinner for two. Serves four with accompanying dishes like naan breads and Indian condiments like chutneys, cucumbers in yogurt, sliced bananas, nuts  etc.
 
-Double or triple recipe for more servings.
+Double or triple recipe for more servings.  
+Source: Original recipe Joy of Cooking
 

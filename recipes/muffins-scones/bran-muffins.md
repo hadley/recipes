@@ -1,5 +1,4 @@
 # Bran Muffins
-From: Notebook
 
 * 1 heaped c bran
 * 1 c milk
@@ -12,4 +11,6 @@ From: Notebook
 Soak first three ingredient for 5 minutes.
 Add egg, mix in dry ingredients. 
 Bake 20 minutes at 180 C.
+
+Source: Notebook
 

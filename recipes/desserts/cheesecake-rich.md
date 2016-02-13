@@ -1,5 +1,4 @@
 # Cheesecake, rich
-From: Cornell Cookbook
 
 * CRUST:
 * 1/2 c flour
@@ -25,5 +24,7 @@ Pour onto the partially cooked base.  Bake at 200 C for 15 minutes, then at 150 
 
 Leave to stand for 30 minutes then run a sharp knife around the sides of the tin and remove leaving the cheesecake sitting on the base of the tin.
 
-Comments: EXCELLENT
+
+Comments: EXCELLENT  
+Source: Cornell Cookbook
 

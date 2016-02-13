@@ -1,6 +1,4 @@
 # Bo-peep biscuits
-From: Rally cook book, page 14
-Time: 20 minutes
 
 * 4oz butter
 * 4oz sugar
@@ -11,4 +9,7 @@ Time: 20 minutes
 * 1 t baking powder
 
 Cream butter and sugar, add egg then dry ingredients.  Place small teaspoons on greased tray.  Press a hollow in the top and fill with jam.  Bake at 180C for 20 minutes.
+
+Time: 20 minutes  
+Source: Rally cook book, page 14
 

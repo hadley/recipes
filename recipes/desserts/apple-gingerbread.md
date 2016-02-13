@@ -1,6 +1,4 @@
 # Apple gingerbread
-From: Rally cook book, page 177
-Time: 55 minutes
 
 * 3-4 apples
 * 1/2 sugar
@@ -20,5 +18,8 @@ Sift flour, ginger and soda in a bowl.  Add sugar.  Heat butter and golden syrup
 
 Alternatively heat already cooked apples in a microwave proof dish.  When hot pour mixture over and microwave, on high, for 6 minutes.
 
-Comments: very good
+Time: 55 minutes  
+
+Comments: very good  
+Source: Rally cook book, page 177
 

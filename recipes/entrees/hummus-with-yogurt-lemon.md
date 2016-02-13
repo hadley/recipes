@@ -13,5 +13,6 @@ Transfer to a small bowl, cover and place in fridge.  Bring to room temperature 
 
 Makes a cup and a half.
 
-Comments: Delicious lower fat version of an old favourite.
+
+Comments: Delicious lower fat version of an old favourite.  
 

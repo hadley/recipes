@@ -1,5 +1,4 @@
 # Gingerbread men
-From: Notebook
 
 * 6oz butter
 * 1 c sugar
@@ -21,5 +20,7 @@ Bake on greased trasy at 180C for 10 minutes, or until golden brown.
 
 Makes loads - you can halve the recipe if wished.
 
-Comments: You can cut into varied Christmas shapes and make a hole in the top by using a straw to use as decorations.  Leave plain or ice.
+
+Comments: You can cut into varied Christmas shapes and make a hole in the top by using a straw to use as decorations.  Leave plain or ice.  
+Source: Notebook
 

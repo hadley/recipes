@@ -1,6 +1,4 @@
 # Iced Caramel Shortcake
-From: Onslow College Cookbook, page 144
-Time: 30 minutes
 
 * 6 oz butter
 * 1 t baking powder
@@ -22,4 +20,7 @@ FILLING
 Bring all to boil, stirring.  Pour on to base.  
 
 Add 1T to remaining mixture and sprinkle on top.  Bake at 170C for 30 minutes.  Ice with chocolate icing while hot.  Cut and remove from tin while warm.
+
+Time: 30 minutes  
+Source: Onslow College Cookbook, page 144
 

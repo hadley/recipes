@@ -1,6 +1,4 @@
 # Weetbix delight
-From: Rally cook book, page 74
-Time: 18 minutes
 
 * 5 crushed weetbix
 * 1 1/2 c flour
@@ -17,5 +15,8 @@ Add melted butter to dry ingredients.  Press into sponge roll tin.  Bake 15 minu
 
 Heat butter, sweetened condensed milk and syrup until blended.  Spread on base and return to oven for 3 minutes.  Ice with chocolate icing while warm.
 
-Comments: delicious
+Time: 18 minutes  
+
+Comments: delicious  
+Source: Rally cook book, page 74
 

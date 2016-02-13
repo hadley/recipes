@@ -1,5 +1,4 @@
 # Mustard Sauce
-From: Edmonds Cook Book, page 151
 
 * 1 egg
 * 1/4 c sugar
@@ -9,4 +8,6 @@ From: Edmonds Cook Book, page 151
 * 1/4 c vinegar
 
 Beat egg and sugar, add flour, mustard, then stir in liquid gradually.  Microwave on high until thick.
+
+Source: Edmonds Cook Book, page 151
 

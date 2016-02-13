@@ -12,3 +12,4 @@ Pour boiling water over apricots and leave to stand.  Cream butter and sugar wel
 
 Bake in a 8" tin at 180C for 45-55 minutes.
 
+

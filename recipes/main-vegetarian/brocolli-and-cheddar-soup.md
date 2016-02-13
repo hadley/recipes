@@ -1,5 +1,4 @@
 # Brocolli and cheddar soup
-From: http://www.101cookbooks.com/archives/broccoli-cheddar-soup-recipe.html
 
 * Croutons:
 * 2 T butter melted
@@ -23,4 +22,6 @@ Croutons: mix butter, oil, mustard and salt and pour over torn-up bread.  Bake f
 Soup: saute shallots & onions for a few minutes.  Add potato, cover and cover until slightly tender.  Uncover, add garlic & broth and bring to a boil.  Add broccoli and cook until just tender, ~4 minutes.
 
 Puree with immersion blender, and add cheese.   
+
+Source: http://www.101cookbooks.com/archives/broccoli-cheddar-soup-recipe.html
 

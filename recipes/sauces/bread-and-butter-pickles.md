@@ -1,5 +1,4 @@
 # Bread and butter pickles
-From: Alison Holst Calendar
 
 * 2 L sliced cucumbers
 * 1/2 - 1 L sliced onion
@@ -19,4 +18,6 @@ As soon as the mixture come back to the boil, ladle vegetables and liquid into c
 Remove bands when pickles are quite cold and wash jars to remove any vinegary syrup.
 
 Store in a cool, dark place.
+
+Source: Alison Holst Calendar
 

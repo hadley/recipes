@@ -1,5 +1,4 @@
 # Beer Bread
-From: Dan Nettleton
 
 * 3 cups all-purpose flour
 * 3 tsp. baking powder
@@ -14,4 +13,6 @@ in loaf pan.  Pour melted margarine over dough and bake 55 minutes at
 
 Alternate recipe:  Instead of 3 Tbsp. sugar, add 3/4 cup brown sugar,
 1 tsp. cinnamon, and 1/2 cup raisins or walnuts.
+
+Source: Dan Nettleton
 

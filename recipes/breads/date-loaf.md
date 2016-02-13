@@ -1,5 +1,4 @@
 # Date loaf 
-From: Cornell Cookbook
 
 * 2 c water
 * 1 c dried fruit - raisins or dates etc 
@@ -11,4 +10,6 @@ From: Cornell Cookbook
 Boil water, fruit and brown sugar 10 minutes.  Add butter.  Cool the mixture until nearly cold then add flour and baking soda.  
 
 Put in loaf tin and bake 1-11/2 hours at 180 C.
+
+Source: Cornell Cookbook
 

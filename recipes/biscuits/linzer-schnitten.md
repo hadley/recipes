@@ -1,5 +1,4 @@
 # Linzer schnitten
-From: Cornell Cookbook
 
 * 2 eggs
 * 1 1/2 c sugar
@@ -29,5 +28,7 @@ Glaze:
 
 Beat egg and sugar together until very thick.  Brush over baked strips while hot.  Return to the oven for a few minutes until dry.  Cut into diagonal pieces and allow to cool.
 
-Comments: A Christmas treat.
+
+Comments: A Christmas treat.  
+Source: Cornell Cookbook
 

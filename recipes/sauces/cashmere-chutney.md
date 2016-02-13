@@ -1,5 +1,4 @@
 # Cashmere Chutney
-From: Gifts from the Pantry the New Zealand way
 
 * 450g tart apples
 * 225 g onions
@@ -17,4 +16,6 @@ From: Gifts from the Pantry the New Zealand way
 Peel apples and cut into chunks.  Peel onions & garlic and slice finely.  Combine all ingredients into a large deep saucepan.
 
 Bring to boil stirring to dissolve sugar.  Reduce heat and simmer gently for 40 minutes until fruit is soft and mixture is thick.  Stir often to prevent sticking.  Add extra vinegar if it gets too thick.  Spoon into prepared jars and seal.
+
+Source: Gifts from the Pantry the New Zealand way
 

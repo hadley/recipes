@@ -1,6 +1,4 @@
 # Cinnamon Chocolate Fingers
-From: Onslow College Cookbook, page 142
-Time: 10 minutes
 
 * 4 oz sugar
 * 4 oz butter
@@ -20,4 +18,7 @@ Cream butter and sugar.  Sift together the dry ingredients and add.  Press into 
 
 TOPPING
 In a saucepan put the icing sugar, golden syrup, hot water, butter and cinnamon.  Warm over low heat until boiling.  While it is still hot, pour over the hot cake.  Cool and set.  Cut into fingers.
+
+Time: 10 minutes  
+Source: Onslow College Cookbook, page 142
 

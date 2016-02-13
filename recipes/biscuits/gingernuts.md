@@ -1,5 +1,4 @@
 # Gingernuts
-From: Newspaper
 
 * 100g butter
 * 1 Tablespoon golden syrup
@@ -11,4 +10,6 @@ From: Newspaper
 * 1 3/4 cups flour
 
 Melt butter and golden syrup.  Add sugar, ginger and egg, beat with a fork until well mixed.  Add baking soda then unsifted flour.  Mix to make a dough.  Roll into balls and bake at 180 C for 10 minutes until golden brown.  No need to flatten them- they do it themselves.
+
+Source: Newspaper
 

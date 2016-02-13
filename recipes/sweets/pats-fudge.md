@@ -1,5 +1,4 @@
 # Pat's fudge
-From: Cornell Cookbook
 
 * 4oz butter
 * 1 can sweetened condensed milk
@@ -11,4 +10,6 @@ Stir until the mix is boiling. Simmer about 30 minutes, stirring frequently unti
 Cool for a few minutes in a sink of cold water , then beat with a wooden spoon or electric hand beater until very thick. Pour into a greased tin, or heat proof container equivalent to 240cm or 9 inches square. Mark into squares when the candy is warm and cut up when set.
 Vanilla and nuts may be added if desired, prior to beating.
 Keep in an airtight container.
+
+Source: Cornell Cookbook
 

@@ -1,5 +1,4 @@
 # Fruit filling for Shortcrust
-From: Notebook
 
 * 4oz sultanas
 * 3 t mixed spice
@@ -9,4 +8,6 @@ From: Notebook
 * 1 t vanilla essence
 
 Cover sultanas and mixed spice with water and boil.  Thicken with cornflour and add butter and vanilla essence.  Cool.
+
+Source: Notebook
 

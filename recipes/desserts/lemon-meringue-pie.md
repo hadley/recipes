@@ -1,6 +1,4 @@
 # Lemon Meringue Pie
-From: Edmonds Cook Book, page 124
-Time: 95 minutes
 
 * 170g Sweet Short Pastry
 * 3 eggs, separated
@@ -18,5 +16,8 @@ FILLING:  Into a small pot place yolks of 3 eggs, water, lemon juice and rind, s
 
 MERANGUE:  Beat egg-whites until stiff then add the castor sugar a little at a time, beating well after each addition, then finally beat in the vanilla.  Spread meringue well over to the edges to seal.  Cook at 200C for 10 to 15 minutes until golden brown.
 
-Comments: delicious
+Time: 95 minutes  
+
+Comments: delicious  
+Source: Edmonds Cook Book, page 124
 

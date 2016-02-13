@@ -1,5 +1,4 @@
 # Chocolate peanut slab
-From: Rally cook book, page 203
 
 * 8oz kremelta solid white vegetable fat
 * 1 c milk powder
@@ -12,5 +11,7 @@ From: Rally cook book, page 203
 
 Mix all dry ingredients together and add melted kremalta.  Pour into shallow tin to set
 
-Comments: Tasty but probably very unhealthy now we know about hyrdrogentaed veg fat.
+
+Comments: Tasty but probably very unhealthy now we know about hyrdrogentaed veg fat.  
+Source: Rally cook book, page 203
 

@@ -1,6 +1,4 @@
 # Curried Eggs
-From: Edmonds Cook Book, page 70
-Time: 20 minutes
 
 * 40g (1 1/2oz) butter
 * 1 onion, small, finely chopped
@@ -10,4 +8,7 @@ Time: 20 minutes
 * 4 eggs, hard-boiled
 
 Put the butter in a saucepan and saute onion without browning it.  Sprinkle in flour and curry powder, cook for a few minutes, then gradually stir in milk.  Season with salt and cook till it thickens.  Shell the eggs, cut in halves, put in mix, and heat before serving.
+
+Time: 20 minutes  
+Source: Edmonds Cook Book, page 70
 

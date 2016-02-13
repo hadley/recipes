@@ -1,5 +1,4 @@
 # Chinese Beef
-From: Onslow College Cookbook, page 62
 
 * 1/2 lb cold roast beef
 * 1 med. onion
@@ -13,4 +12,6 @@ From: Onslow College Cookbook, page 62
 * 1 T oil
 
 Slice the beef into half inch strips.  Slice onions finely.  Cut celery into slices and chop mushrooms.  Heat oil in frypan, add the prepared vegetables and cook them over a low heat for 10 - 15 minutes.  Blend the cornflour, ginger and soy sauce together in a bowl.  Remove the pan from the heat and stir this mixture into the vegetables.  Return pan to the heat and when the sauce has thickened, sit in the beef, season to taste, then cook  it over a low heat for a further five minutes.  Meanwhile boil rice in salted water.  Drain.
+
+Source: Onslow College Cookbook, page 62
 

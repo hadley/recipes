@@ -10,3 +10,4 @@ Drain juice from pineapple and make up with up 1 c of water.  Pour into unperfor
 
 Bake at 180C for 1 hour, turning bag after 30 minutes.  Serve on rice or noodles and sprinkle with chopped parsley.
 
+

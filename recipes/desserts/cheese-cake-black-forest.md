@@ -1,5 +1,4 @@
 # Cheese cake, black forest
-From: Cornell Cookbook
 
 * Crumb Crust:
 * 250g plain chocolate biscuits
@@ -30,5 +29,7 @@ Topping:
 
 Place sugar and cornflour in a sauce pan, gradually stir in reserved syrup.  Stir until boiling, remove from heat, add rum.  Continue stirring for a few minutes to allow mixture to cool slightly.  Spread topping over cheese cake.  Swirl lightly into mixture with spoon.  Refrigerate until set.  Pipe around edge of cheese cake with whipped cream.
 
-Comments: EXCELLENT
+
+Comments: EXCELLENT  
+Source: Cornell Cookbook
 

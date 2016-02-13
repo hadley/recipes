@@ -16,5 +16,6 @@ Fold in sifted flour and baking powder alternately with sour cream.  Mix gently 
 
 Leave cake in tin for a few minutes and then pour over glaze.  Leave until cool and then remove from tin.  Serve with yogurt, or whipped cream and a dash of lemon butter.
 
-Comments: Made for Charlottes birthday 2005
+
+Comments: Made for Charlottes birthday 2005  
 

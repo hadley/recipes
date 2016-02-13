@@ -1,5 +1,4 @@
 # Almond creams
-From: Cornell Cookbook
 
 * 6oz (175g) butter
 * 3/4 c icing sugar
@@ -23,4 +22,6 @@ Make the icing by mixing the softened butter with the essence and sugar, adding 
 Cut the chilled biscuit dough into 40-60 thin slices, depending on the thickness of the biscuits desired.  Bake at 180 C for about 12 minutes, until the edges start to brown slightly.
 
 Cool on a wire rack.  Sandwich together with filling when biscuits are almost but no quite, cold.
+
+Source: Cornell Cookbook
 

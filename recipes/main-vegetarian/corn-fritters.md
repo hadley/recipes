@@ -1,5 +1,4 @@
 # Corn Fritters
-From: Meals Without Meat A & S Holst
 
 * For 2 large servings
 * 1 egg
@@ -13,5 +12,7 @@ Put egg and liquid in a bowl and mix lightly.  Stir in the corn then add flour. 
 
 Put teaspoonfuls of mix into hot oil and fry until golden brown on bottom.  Turn and cook on other side.  Drain on paper towels.  Serve hot.
 
-Comments: For a tasty and quick meal at short notice.
+
+Comments: For a tasty and quick meal at short notice.  
+Source: Meals Without Meat A & S Holst
 

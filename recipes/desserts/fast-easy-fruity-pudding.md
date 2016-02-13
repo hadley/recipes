@@ -24,7 +24,8 @@ Place in the microwave and cook for seven minutes on high.
 
 Pour sherry or brandy over to taste if desired.  Serve hot with vanilla icecream, yogurt or custard.
 
+
 Comments: Very good if you like the flavour of traditional Christmas pudding, but not the heavy fruity texture. 
 
-Can be made and consumed within half an hour!
+Can be made and consumed within half an hour!  
 

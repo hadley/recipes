@@ -1,6 +1,4 @@
 # Pineapple Muffins
-From: MMM Muffins, page 52
-Time: 15 minutes
 
 * 1/2 c pineapple, chopped
 * 1 c pineapple juice
@@ -13,4 +11,7 @@ Time: 15 minutes
 Light oil a muffin tin and preheat oven to 200C.  This recipe makes 12 muffins.
 
 Put the first five ingredients into a bowl and mix well.  Add the remaining ingredients and blend until just mixed.  Two-thirds fill and bake for 15 minutes.
+
+Time: 15 minutes  
+Source: MMM Muffins, page 52
 

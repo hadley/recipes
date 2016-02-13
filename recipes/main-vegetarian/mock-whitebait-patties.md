@@ -1,5 +1,4 @@
 # Mock Whitebait Patties
-From: Edmonds Cook Book, page 85
 
 * 1 egg
 * 2 1/2 T flour
@@ -10,4 +9,6 @@ From: Edmonds Cook Book, page 85
 * 1 t baking powder
 
 Beat egg, add flour, milk, cheese and seasonings.  Add potato and baking powder just before frying.  Fry in hot, shallow fat 5 minutes on each side.  Serve hot, garnished with parsley.
+
+Source: Edmonds Cook Book, page 85
 

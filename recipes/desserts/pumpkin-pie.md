@@ -1,5 +1,4 @@
 # Pumpkin pie
-From: Well done cooking classes
 
 * 8oz cream cream, room temp
 * 3/4 c sugar
@@ -15,4 +14,6 @@ From: Well done cooking classes
 Mix cream cheese and sugar, then beat in all other ingredients.  Pour in to pie crusts and bake at 375 until set, ~ 50 minutes.
 
 Makes enough for two 9" pies.
+
+Source: Well done cooking classes
 

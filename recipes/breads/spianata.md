@@ -42,7 +42,8 @@ Spread thinly with tomato paste and pesto.  Spread spinach, leftovers and roaste
 
 Heat oven to 200C
 
+
 Comments: Great for lunch or to take to a picnic/pot luck.
 Looks spectacular and serves 6.
-Like pizza but much lower fat!
+Like pizza but much lower fat!  
 

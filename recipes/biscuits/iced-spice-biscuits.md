@@ -1,6 +1,4 @@
 # Iced spice biscuits
-From: Notebook
-Time: 32 minutes
 
 * 8oz flour
 * 4oz butter
@@ -17,5 +15,8 @@ Ice when cool.
 
 You can also stick two together with raspberry jam and ice the top one with pale pink coloured icing.
 
-Comments: Very nice as Christmas gifts.
+Time: 32 minutes  
+
+Comments: Very nice as Christmas gifts.  
+Source: Notebook
 

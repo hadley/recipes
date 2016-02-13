@@ -1,5 +1,4 @@
 # Smoked pork chops
-From: Jeff's grandma
 
 * 3 big tablespoons of crisco
 * pork chops
@@ -12,4 +11,6 @@ Rinse chops and dip in flour & salt & pepper mix.  Heat crisco over medium heat.
 Pour off most of fat and then mix in flour to thicken.  Mix in milk.
 
 Serve with mashed potatoes.
+
+Source: Jeff's grandma
 

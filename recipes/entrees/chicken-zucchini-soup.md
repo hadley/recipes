@@ -13,5 +13,6 @@ Melt butter in a large pot.  Add uncooked chicken and cook until done but not br
 
 Stir in flour and cook for a couple of  minutes.  Add stock and cooked chicken and bring to boil, stirring until soup thickens slightly. Simmer for a minute or two.  Stir in milk and season with salt and pepper.  Serves 4
 
-Comments: This recipe can be halved to serve 2. A quick, colourful and tasty way of using up courgettes/zucchini.
+
+Comments: This recipe can be halved to serve 2. A quick, colourful and tasty way of using up courgettes/zucchini.  
 

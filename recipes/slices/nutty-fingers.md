@@ -1,6 +1,4 @@
 # Nutty Fingers
-From: Onslow College Cookbook, page 143
-Time: 20 minutes
 
 * 1 c coconut
 * 3/4 c brown sugar
@@ -11,4 +9,7 @@ Time: 20 minutes
 * pinch of salt
 
 Melt butter and add to dry ingredients.  Mix well.  Press into sponge roll tin and bake at 140C for 20 minutes.
+
+Time: 20 minutes  
+Source: Onslow College Cookbook, page 143
 

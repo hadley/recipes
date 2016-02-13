@@ -1,5 +1,4 @@
 # Pecan pie
-From: Well done cooking classes
 
 * 3 eggs
 * 180g water
@@ -11,4 +10,6 @@ From: Well done cooking classes
 * 240g pecan pieces
 
 Mix together.  Fill pie crusts and bake at 400 F for 10 minutes, then reduce temp to 325 F and bake until center is set, about 65 minutes.
+
+Source: Well done cooking classes
 

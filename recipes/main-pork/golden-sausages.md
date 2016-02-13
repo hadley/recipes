@@ -1,6 +1,4 @@
 # Golden Sausages
-From: Rally cook book, page 155
-Time: 40 minutes
 
 * 500g sausages
 * 1 T brown sugar
@@ -14,4 +12,7 @@ Time: 40 minutes
 * 1 c carrot, grated
 
 Place raw sausages in microwave bowl.  Mix together dry ingredients and boiling water and pour over sausages with grated carrot.  Micro-cook, covered, on high, for 25 minutes.  Stir often.
+
+Time: 40 minutes  
+Source: Rally cook book, page 155
 

@@ -1,5 +1,4 @@
 # Brownies (cream cheese)
-From: http://www.joyofbaking.com/barsandsquares/CreamCheeseBrownies.html
 
 * Brownie Layer:
 * 1/2 cup (113 grams) unsalted butter, cut into pieces
@@ -20,4 +19,6 @@ Melt butter and chocolate in double-boiler. Whisk in other ingredients one at a 
 Pour brownie batter in to lined tin, reserving 1/2 cup. Pour on cream cheese layer.  Add remaining batter in 16 dollops, then use skewer to make marbled effect.
 
 Bake at 350 F for 30 minutes.  Cool on wire rack and then chill until firm.
+
+Source: http://www.joyofbaking.com/barsandsquares/CreamCheeseBrownies.html
 

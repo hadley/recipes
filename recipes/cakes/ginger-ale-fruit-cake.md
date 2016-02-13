@@ -1,5 +1,4 @@
 # Ginger Ale Fruit Cake
-From: Notebook
 
 * 300ml ginger ale
 * 1/2 lb sultanas
@@ -16,4 +15,6 @@ From: Notebook
 * 1 t baking powder
 
 Soak sultanas, dates, currant, raisins and peel in ginger ale overnight.  The next day cream butter and sugar and add in eggs.  Sift in flour and baking powder and mix well.  Add soaked fruit and essences and bake at 140-150C for 3 hours.
+
+Source: Notebook
 

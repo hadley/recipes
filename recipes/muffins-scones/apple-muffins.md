@@ -1,5 +1,4 @@
 # Apple muffins
-From: Onslow College Cookbook, page 151
 
 * 8oz (225g) flour
 * 1/2 t salt
@@ -15,5 +14,7 @@ Sift the dry ingredients.  Stew the apples and while hot add the butter to melt.
 
 Put into greased muffin tins and cook for about 15 minutes at 200 C.
 
-Comments: SUPERB
+
+Comments: SUPERB  
+Source: Onslow College Cookbook, page 151
 

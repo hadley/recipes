@@ -1,5 +1,4 @@
 # Jaffa Slice
-From: Onslow College Cookbook, page 140
 
 * 7 1/2 oz butter
 * 1 1/2 D golden syrup
@@ -11,4 +10,6 @@ From: Onslow College Cookbook, page 140
 * grated rind of an orange
 
 Melt butter and golden syrup.  Add remaining ingredients and mix well.  Spread in 8" x 8" tin.  Bake at 180C for 20 minutes.  Ice with jaffa (cocoa + orange juice) icing.
+
+Source: Onslow College Cookbook, page 140
 

@@ -1,5 +1,4 @@
 # Strawberry Jam
-From: Alison Holst Calendar
 
 * 1 kg strawberries
 * 1/4 c water
@@ -11,4 +10,6 @@ Hull the berries.  Bring to boil with the water in a jam pan, crushing with a po
 Boil briskly for 3 minutes then add acid and stir well.   This dramatically changes the colour of the jam.
 
 Boil 5 minutes longer then pour into clean, warm bottles and seal.
+
+Source: Alison Holst Calendar
 

@@ -1,5 +1,4 @@
 # Rock Cakes, Grandma's
-From: Notebook
 
 * 4oz butter
 * 6oz sugar
@@ -12,4 +11,6 @@ From: Notebook
 * salt
 
 Cream butter and sugar.  Beat eggs and rinse bowl with milk.  Sift in flour and baking powder and mix well.  Stir in sultanas, vanilla essence and salt.  Bake at 190C for 11 minutes.
+
+Source: Notebook
 

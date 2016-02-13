@@ -1,6 +1,4 @@
 # Chocolate Fudge Pudding
-From: Onslow College Cookbook, page 101
-Time: 60 minutes
 
 * 1 c flour
 * 1 t baking powder
@@ -20,4 +18,7 @@ Sift flour, baking powder, salt and cocoa together, add sugar and stir in milk a
 
 TOPPING:
 Mix together ingredients and pour over main mixture.  Bake at 180C for 50 - 60 minutes.  Serve with cream.
+
+Time: 60 minutes  
+Source: Onslow College Cookbook, page 101
 

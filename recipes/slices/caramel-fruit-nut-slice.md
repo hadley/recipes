@@ -1,5 +1,4 @@
 # Caramel Fruit & Nut Slice
-From: Rita V
 
 * 1/2 cup sugar
 * 1 cup plain flour
@@ -24,5 +23,7 @@ Freezes well.
 
 Easy to transport.
 
-Comments: Rich and delicious for a special occasion. Use 2 or three types of dried fruits that look colourful and combine well flavourwise.  
+
+Comments: Rich and delicious for a special occasion. Use 2 or three types of dried fruits that look colourful and combine well flavourwise.    
+Source: Rita V
 

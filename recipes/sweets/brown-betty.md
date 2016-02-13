@@ -1,5 +1,4 @@
 # Brown Betty
-From: Kid's Microwave cookbook, page 72
 
 * 1 c icing sugar
 * 2 c brown sugar
@@ -10,4 +9,6 @@ From: Kid's Microwave cookbook, page 72
 * 1/4 c walnuts, chopped
 
 Grease sponge roll tin.  Put icing sugar, brown sugar, golden syrup and butter in a large bowl.  Add the milk and cream of tartar.  Stir well.  Micro-cook, uncovered, on high for 5 minutes, stirring once.  Micro-cook on high for 4 minutes, stir once after 2 minutes.  Stir in walnuts.  Micro-cook, on high, for another 2 minutes.   Beat for 2 minutes until thick.  Pour into tin.
+
+Source: Kid's Microwave cookbook, page 72
 

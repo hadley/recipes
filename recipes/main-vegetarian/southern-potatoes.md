@@ -1,5 +1,4 @@
 # Southern potatoes
-From: From Susannah Koontz Webb
 
 * 4 pounds red potatoes
 * 6 bacon slices
@@ -17,4 +16,6 @@ Cook bacon in a large skillet until crisp.  Remove bacon and drain on paper towe
 Cut potatoes into 1/4-inch pieces (you can peel the potatoes, but I leave the skins on for an extra kick of vitamins).  Place potatoes in boiling, salted water in a Dutch oven to cover and cook 15-20 minutes or until tender.  Drain and return to Dutch oven.
  
 Add bacon/onion mixture to potatoes as well as sour cream, 1 cup of cheese, butter, milk (I use half-n-half), salt and pepper (and garlic, if desired).  Combine all ingredients with a potato masher until blended.  Spoon mixture into a lightly greased 13" x 9" baking dish.  Top with remaining cheese and bake at 350 degrees for 10 minutes or until cheese melts.
+
+Source: From Susannah Koontz Webb
 

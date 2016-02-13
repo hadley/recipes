@@ -1,14 +1,13 @@
 # Pikelets
-From: Notebook
 
-* 2 T sugar
 * 1 egg
-* 1 c milk
 * 1 c flour
+* 2 T sugar
 * 1 t cream of tartar
+* 1/2 c milk
 * 1/2 t baking soda
-* 1 T butter
-* 1 T water
 
-Beat sugar and egg until light and fluffy.  Add milk, flour, cream of tartar and baking soda.  Mix well add butter and water heated together.
+Mix the baking soda into the milk.  Beat egg, add sugar and beat again for two minutes.  Add sifted flour alternately with milk containing soda.  Cook on hot griddle in tablespoon lots. Turn when bubbles rise.
+
+Source: Onslow College Cookbook, page 154
 

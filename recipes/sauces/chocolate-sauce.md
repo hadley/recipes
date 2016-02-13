@@ -1,5 +1,4 @@
 # Chocolate Sauce
-From: Notebook
 
 * 1T butter
 * 2T sugar
@@ -8,4 +7,6 @@ From: Notebook
 * 1/2 c water
 
 Melt butter in microwave.  Then mix in sugar, custard powder and cocoa.  Stir in water then microwave on high until thick.
+
+Source: Notebook
 

@@ -1,6 +1,4 @@
 # Sausage Bake
-From: Let's cook some more, page 20
-Time: 50 minutes
 
 * 6-8 sausages
 * 1 onion, grated
@@ -14,4 +12,7 @@ Time: 50 minutes
 Place sausage in a saucepan with a little water.  Cover, bring to the boil then simmer gently for 5 minutes.  Drain, run cold water over them and slice lengthways.
 
 Grate the onion and apple.  Add to greased baking dish and spread over sides.  Arrange sausages on top and bake at 200C for 30 minutes.
+
+Time: 50 minutes  
+Source: Let's cook some more, page 20
 

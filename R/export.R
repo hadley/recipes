@@ -5,15 +5,15 @@ save_recipe <- function(recipe) {
   
   out <- paste0(
     "# ", fix_name(recipe$name), "\n",
-    recipe$source %?% paste0("From: ", recipe$source, "\n"),
-    if (time > 0) paste0("Time: ", time, " minutes\n"),
     "\n",
     
     recipe$ingredients %?% basic_bullets(recipe$ingredients),
     "\n\n", 
     recipe$method,
-    "\n",
-    recipe$comments %?% paste0("\nComments: ", recipe$comments, "\n")
+    "\n\n",
+    if (time > 0) paste0("Time: ", time, " minutes  \n"),
+    recipe$comments %?% paste0("\nComments: ", recipe$comments, "  \n"),
+    recipe$source %?% paste0("Source: ", recipe$source, "\n")
   )
   
   path <- paste0("recipes/", recipe$path, "/", recipe$slug, ".md")

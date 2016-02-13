@@ -1,5 +1,4 @@
 # Chocolate coconut cake
-From: Cornell Cookbook
 
 * 125g butter
 * 1 c brown sugar
@@ -15,4 +14,6 @@ Cream butter and sugar until light and fluffy.  Add egg, beat well.  Stir  in si
 Combine coconut, icing sugar and milk, mix until smooth, spread evenly over cake mixture.  Spoon remaining cake mixture evenly  on top of the filling.  
 
 Bake in moderate oven 30 minutes or until cooked when tested.  If desired, top this delicious cake with chocolate icing.
+
+Source: Cornell Cookbook
 

@@ -1,5 +1,4 @@
 # Chicken casserole
-From: Cornell Cookbook
 
 * chicken pieces for four people
 * seasoned flour
@@ -20,4 +19,6 @@ Coat chicken pieces with seasoned flour.  Place in casserole, add onion, pineapp
 Cook at 250 F (120C) for 2 and 1/2 hours.  Add tomatoes if liked.  Stir once during cooking.
 
 Microwave on high for 25 minutes.
+
+Source: Cornell Cookbook
 

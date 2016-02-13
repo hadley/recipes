@@ -1,5 +1,4 @@
 # Hearty bacon & cabbage soup/stew
-From: Alison Wickham
 
 * 250g lean bacon 
 * 2 leeks or 1 large onion - sliced finely
@@ -29,5 +28,7 @@ Any cold left over sausages or salami can also be sliced and added towards the e
 
 Stretch to feed four by adding a can of baked beans in tomato sauce.
 
-Comments: Satisfying and tasty for a cold night. Looks colourful and tastes great.
+
+Comments: Satisfying and tasty for a cold night. Looks colourful and tastes great.  
+Source: Alison Wickham
 

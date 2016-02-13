@@ -22,5 +22,6 @@ Bake a further 20 mins until golden.
 
 Remove from oven and cool in tin.  Cut when cold.
 
-Comments: Easy and great to look at - even better to eat.
+
+Comments: Easy and great to look at - even better to eat.  
 

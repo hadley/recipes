@@ -1,6 +1,4 @@
 # Scalloped sausage casserole
-From: NZ Microwave Cookbook, page 26
-Time: 48 minutes
 
 * 8 sausages
 * 1 large onion, thinly sliced
@@ -17,5 +15,8 @@ Time: 48 minutes
 
 4.  Mix sliced sausages into cooked vegetables.  Power sauce over casserole.  Micro-cook, high power 5-6 minutes.
 
-Comments: kids don't like it
+Time: 48 minutes  
+
+Comments: kids don't like it  
+Source: NZ Microwave Cookbook, page 26
 

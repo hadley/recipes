@@ -1,5 +1,4 @@
 # Yo Yoes
-From: Edmonds Cook Book, page 52
 
 * 175g (6oz) butter
 * 50g (2oz) icing sugar
@@ -16,4 +15,6 @@ Cream butter, sugar and essence, add dry ingredients.  Roll into ball and flatte
 
 BUTTER FILLING
 Soften butter and add other ingredients.
+
+Source: Edmonds Cook Book, page 52
 

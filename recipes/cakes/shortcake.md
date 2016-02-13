@@ -1,5 +1,4 @@
 # Shortcake
-From: Onslow College Cookbook, page 158
 
 * 4 oz butter
 * 4 oz sugar
@@ -31,4 +30,6 @@ Caramel - heat slowly together until caramel coloured.  Add 1 T boiling water.
 Lemon - Mix butter and sugar in top of double boiler.  Add beaten egg and finely grated rind and juice of lemon.  Cook until it thickens, stirring all the time.  Cool.
 
 Fruit - Simmer for 30 minutes.
+
+Source: Onslow College Cookbook, page 158
 

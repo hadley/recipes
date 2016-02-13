@@ -1,5 +1,4 @@
 # Apple crumble pudding
-From: AW modification of traditonal NZ recipe
 
 * 4 cooking apples
 * 3/4 c water
@@ -20,5 +19,7 @@ Slice apples in pie dish.  Cover with water and cinnamon.  Rub butter into dry i
 
 Serve warm with vanilla ice cream or plain unsweetened yogurt.
 
-Comments: An old fashioned, fast, easy, fairly low calorie dessert that is always delicious whether served plain or dressed up for company.
+
+Comments: An old fashioned, fast, easy, fairly low calorie dessert that is always delicious whether served plain or dressed up for company.  
+Source: AW modification of traditonal NZ recipe
 

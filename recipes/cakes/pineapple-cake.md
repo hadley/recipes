@@ -1,5 +1,4 @@
 # Pineapple cake
-From: Cornell Cookbook
 
 * 5oz butter
 * 5oz sugar
@@ -13,4 +12,6 @@ From: Cornell Cookbook
 Cream butter and sugar.  Add beaten egg.  Mix in dry ingredients and fruit.
 
 Bake 180C for 45 minutes in 7 inch square tin.
+
+Source: Cornell Cookbook
 

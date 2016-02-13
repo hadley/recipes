@@ -1,5 +1,4 @@
 # Chicken tortilla soup
-From: http://thepioneerwoman.com/cooking/2011/01/chicken-tortilla-soup/
 
 * 2 whole Boneless, Skinless Chicken Breasts
 * 1 T Olive Oil
@@ -30,4 +29,6 @@ Pour in tomatoes, chicken stock, tomato paste, water, and black beans. Bring to 
 Mix cornmeal with a small amount of water. Pour into the soup, then simmer for an additional 30 minutes. Check seasonings, adding more if needed---add more chili powder if it needs more spice, and be sure not to undersalt. Turn off heat and allow to sit for 15 to 20 minutes before serving. Five minutes before serving, gently stir in tortilla strips.
 
 Ladle into bowls, then top with sour cream, diced red onion, diced avocado, pico de gallo, and grated cheese, if you have it! (The garnishes really make the soup delicious.)
+
+Source: http://thepioneerwoman.com/cooking/2011/01/chicken-tortilla-soup/
 

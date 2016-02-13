@@ -1,5 +1,4 @@
 # Rhubarb family pudding
-From: Newspaper
 
 * 200g butter
 * 1 c sugar
@@ -24,5 +23,7 @@ Bake at 190C for 40-45 minutes, until golden brown and springs back when touched
 
 Cool in the tin for 15 minutes, then lift away from the sides of the tin, and remove the paper at the sides of the cake.  Sprinkle evenly with icing sugar, using a fine sieve.  Serve warm or reheated, cut in squares or rectangles.
 
-Comments: EXCELLENT
+
+Comments: EXCELLENT  
+Source: Newspaper
 

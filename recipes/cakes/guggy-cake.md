@@ -1,5 +1,4 @@
 # Guggy Cake
-From: Notebook
 
 * 4oz butter
 * 2t mixed spice
@@ -12,5 +11,7 @@ From: Notebook
 
 Warm all ingredients except for flour and baking powder.  Cool and add flour and baking powder.  Bake at 180C for 45 minutes.
 
-Comments: delicious!
+
+Comments: delicious!  
+Source: Notebook
 

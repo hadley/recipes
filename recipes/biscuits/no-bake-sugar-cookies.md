@@ -1,5 +1,4 @@
 # "No-bake" sugar cookies
-From: Jeff's grandma
 
 * 2 cup sugar
 * 2 eggs
@@ -12,5 +11,7 @@ From: Jeff's grandma
 
 Beat eggs and sugar, add oil, sour cream and vanilla.  Mix in flour mixed with soda. Drop on cookie sheet and bake at 350 F for 10 minutes until pale gold.  
 
-Comments: Jeff's favourite
+
+Comments: Jeff's favourite  
+Source: Jeff's grandma
 

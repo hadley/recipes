@@ -17,7 +17,8 @@ Distribute evenly among the 12 cases.  Bake for 15 -25 minutes until golden and 
 
 Cool on a wire rack and ice if desired when cold.  May be frozen.
 
+
 Comments: Makes 12  cupcakes (one and a half inch high muffin cases) or 24 small ones.
 
-Lemon may be substituted for orange if desired.
+Lemon may be substituted for orange if desired.  
 

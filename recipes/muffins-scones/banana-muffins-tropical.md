@@ -1,6 +1,4 @@
 # Banana muffins, tropical
-From: MmM Muffins, page 16
-Time: 20 minutes
 
 * 2 bananas, mashed
 * 2/3 c yoghurt
@@ -14,4 +12,7 @@ Time: 20 minutes
 Lightly oil a muffin tin and preheat the oven to 190C.  This recipe makes 24 muffins.
 
 Put the bananas into a bowl and mash well.  Add the next four ingredients and mix until just blended.  Two-thirds fill the muffin tins and bake for 20-25 minutes.
+
+Time: 20 minutes  
+Source: MmM Muffins, page 16
 

@@ -1,5 +1,4 @@
 # Vanilla (or any other) Crisp Biscuits
-Time: 15 minutes
 
 * 125g (4oz) butter
 * 175g (6oz) sugar
@@ -17,10 +16,12 @@ Cream butter, sugar and essence, add egg, then mix in dry ingredients.  Roll int
 
 Makes about 32
 
+Time: 15 minutes  
+
 Comments: USA - Use a heaped teaspoon baking powder.    
 
 
 Variation by AW
 Substitute 8oz flour with 1 oz cocoa, 3 oz rolled oats and 4oz flour 
-Add chopped pecans or walnuts too if you like.
+Add chopped pecans or walnuts too if you like.  
 

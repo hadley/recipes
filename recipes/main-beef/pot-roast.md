@@ -1,5 +1,4 @@
 # Pot roast
-From: From Jeff & internet
 
 * A couple of pounds of cheap pot roast meat
 * 2 handfuls of 1-inch carrot slices
@@ -21,4 +20,6 @@ Pat dry and season meat.  Brown all sides in a couple T of oil over high heat.  
 (Optional) Add potatoes 90 minutes before done.
 
 Rest for 20 minutes.  Pour off some sauce and thicken with cornstarch.
+
+Source: From Jeff & internet
 

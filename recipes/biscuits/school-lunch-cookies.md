@@ -1,5 +1,4 @@
 # School Lunch Cookies
-From: Cornell Cookbook
 
 * 125g butter
 * 2 T golden syrup
@@ -13,4 +12,6 @@ From: Cornell Cookbook
 * 1/2 c wheatgerm
 
 Melt butter, sugar and golden syrup.  Dissolve baking soda in boiling water and add.  Add flour, rolled oats, dried milk, coconut and wheatgerm.  Place teaspoonfuls on greased tray.  Bake at 170C for 15-20 minutes.
+
+Source: Cornell Cookbook
 

@@ -1,6 +1,4 @@
 # Date, Honey and Oat Slice
-From: newspaper
-Time: 25 minutes
 
 * 100g butter
 * 1 T honey
@@ -10,4 +8,7 @@ Time: 25 minutes
 * 1/2 t baking powder
 
 Melt butter and honey together and add dry ingredients.  Press into a greased 23cm tin and bake at 180C for 15 minutes.  When cool ice with lemon icing.
+
+Time: 25 minutes  
+Source: newspaper
 

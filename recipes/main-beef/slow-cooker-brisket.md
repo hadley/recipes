@@ -1,5 +1,4 @@
 # Slow cooker brisket
-From: Adapted from somewhere on the internet
 
 * 2.5 lb brisket
 * salt and pepper
@@ -11,4 +10,6 @@ From: Adapted from somewhere on the internet
 * 1/3 c soy sauce
 
 Brown brisket, salt and pepper and garlic.  Cook in slow cooker on low for 8+ hours.
+
+Source: Adapted from somewhere on the internet
 

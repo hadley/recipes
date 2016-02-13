@@ -1,5 +1,4 @@
 # Date Pudding
-From: Notebook
 
 * 3 eggs, beaten
 * 1 c sugar
@@ -10,4 +9,6 @@ From: Notebook
 * 1 c walnuts
 
 Beat eggs and sugar until light.  Add flour baking powder and salt.  Stir in dates and nuts.  Bake in pan of hot water for 1 hour at 180C.
+
+Source: Notebook
 

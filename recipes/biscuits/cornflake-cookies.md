@@ -1,5 +1,4 @@
 # Cornflake Cookies
-From: Notebook
 
 * 125g sugar
 * 125g butter
@@ -11,4 +10,6 @@ From: Notebook
 * 1 c cornflakes
 
 Cream butter and sugar.  Add lightly beaten egg.  Sift in flour and baking powder.  Mix in raisins, salt and cornflakes.  Bake at 180C for 20 minutes.
+
+Source: Notebook
 

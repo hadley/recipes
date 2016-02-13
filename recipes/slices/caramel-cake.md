@@ -1,6 +1,4 @@
 # Caramel cake
-From: Rally cook book, page 63
-Time: 50 minutes
 
 * 6oz butter
 * 1 T golden syrup
@@ -19,5 +17,8 @@ Melt butter and syrup then add raisins and dry ingredients.  Press into sponge r
 ICING:
 Melt butter, syrup and vanilla.  Add icing sugar and mix well.
 
-Comments: very good
+Time: 50 minutes  
+
+Comments: very good  
+Source: Rally cook book, page 63
 

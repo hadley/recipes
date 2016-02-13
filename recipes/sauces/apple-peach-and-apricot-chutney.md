@@ -1,5 +1,4 @@
 # Apple, peach and apricot chutney
-From: Mary H
 
 * 500g cooking apples, cored, peeled & chopped
 * 110g dried peaches
@@ -13,5 +12,7 @@ From: Mary H
 
 Combines all ingredients in a heavy pot and bring to boil.  Vigorously simmer for 30 minutes until thick.  Stir frequently.  Will thicken as it cools.  Pour into  clean jars.
 
-Comments: Double recipe
+
+Comments: Double recipe  
+Source: Mary H
 

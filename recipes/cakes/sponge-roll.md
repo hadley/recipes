@@ -1,6 +1,4 @@
 # Sponge roll
-From: Rally cook book, page 47
-Time: 44 minutes
 
 * 3 eggs
 * 3oz castor sugar
@@ -10,5 +8,8 @@ Time: 44 minutes
 
 Beat egg whites with salt until stiff.  Add yolks and sugar and beat until thick and creamy and sugar is dissolved.  Fold in sifted dry ingredients.  Have ready a sponge roll tin buttered and floured.  Pour in batter and spread evenly.  Bake 14 minutes at 200C.  Turn out on a dry cloth.  Spread with boiling jam.  Roll in cloth and leave until cold.
 
-Comments: very good
+Time: 44 minutes  
+
+Comments: very good  
+Source: Rally cook book, page 47
 

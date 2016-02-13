@@ -1,5 +1,4 @@
 # Ginger Steamed Pudding
-From: Notebook
 
 * 4oz butter
 * 2oz sugar
@@ -11,4 +10,6 @@ From: Notebook
 * 1/4 pint milk
 
 Cream butter, sugar and syrup.  Add egg.  Dissolve baking soda in milk and add alternately with dry ingredients.  Steam for 2 hours.
+
+Source: Notebook
 

@@ -1,6 +1,4 @@
 # Gingerbread, Sticky
-From: Newspaper
-Time: 75 minutes
 
 * 125g butter
 * 3/4 c brown sugar, packed
@@ -16,4 +14,7 @@ Line a 20cm square baking pan.
 Melt butter then add brown sugar and golden syrup.  Add milk (without mixing) then sift in flour, ginger and baking soda.  Stir until evenly golden brown.
 
 Pour into pan and bake at 160 C for 1 hour.
+
+Time: 75 minutes  
+Source: Newspaper
 

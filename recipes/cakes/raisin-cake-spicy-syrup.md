@@ -1,6 +1,4 @@
 # Raisin Cake, Spicy Syrup
-From: The Victorian Kitchen Book of Cakes and Cookies, page 27
-Time: 85 minutes
 
 * 2oz (50g) butter
 * 8oz (225g) castor sugar
@@ -13,4 +11,7 @@ Time: 85 minutes
 * Pinch of cinnamon, ground cloves & nutmeg
 
 Cream butter and sugar.  Add eggs one at a time and mix well.  Dissolve baking soda in cold water and add with remaining ingredients.  Beat thoroughly for a few minutes.  Turn into well greased cake tin and bake at 180C for 55 minutes.
+
+Time: 85 minutes  
+Source: The Victorian Kitchen Book of Cakes and Cookies, page 27
 

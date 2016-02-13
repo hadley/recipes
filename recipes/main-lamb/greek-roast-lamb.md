@@ -20,6 +20,7 @@ Skim  off fat.  Squeeze garlic from 4 cloves and spread on top of lamb. (Remove 
 
 Mix together vegetables and place around lamb. Make an airtight tent over the pan with foil and return to bake for  a further 1 1/2 hours.  Alternatively place all in a large covered casserole dish.
 
+
 Comments: Tender and delicious.
-WW 5 points per serve of 125g meat per person.
+WW 5 points per serve of 125g meat per person.  
 

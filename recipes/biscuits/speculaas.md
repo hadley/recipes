@@ -1,6 +1,4 @@
 # Speculaas
-From: Rally cook book, page 20
-Time: 15 minutes
 
 * 8oz butter
 * 8oz brown sugar
@@ -16,5 +14,8 @@ Cream butter and sugar, add beaten eggs and almond essence.  Then add sifted dry
 
 Can also roll out dough and cut into shapes for Christmas.
 
-Comments: A Dutch thin crisp spicy biscuit.
+Time: 15 minutes  
+
+Comments: A Dutch thin crisp spicy biscuit.  
+Source: Rally cook book, page 20
 

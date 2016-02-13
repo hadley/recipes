@@ -1,6 +1,4 @@
 # Ginger Crunch
-From: Modified Edmonds recipe, page 38 1978 ed.
-Time: 25 minutes
 
 * 6oz butter
 * 4oz sugar
@@ -17,4 +15,7 @@ Cream butter and sugar, add sifted dry ingredients.  Knead well and press into a
 
 TOPPING:
 Heat all ingredients in a pot until melted.   Pour over cake when hot, and cut into squares before it gets cold.
+
+Time: 25 minutes  
+Source: Modified Edmonds recipe, page 38 1978 ed.
 

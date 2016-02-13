@@ -1,5 +1,4 @@
 # Edamame Soup
-From: 101 cookbooks.com
 
 * 1 teaspoon olive oil 
 * 1 medium onion, finely chopped 
@@ -10,5 +9,7 @@ From: 101 cookbooks.com
 
 Saute onion and potato.  Cover and allow to soften for 4 minutes.  Add bean and stock and simmer for 15-20 minutes until beans are tender.  Puree, then stir in cream.
 
-Comments: Delicious and very simple
+
+Comments: Delicious and very simple  
+Source: 101 cookbooks.com
 

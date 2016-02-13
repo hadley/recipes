@@ -1,5 +1,4 @@
 # Brownies
-From: Cornell Cookbook
 
 * 1 1/2 cups sugar
 * 90gm butter or margarine 
@@ -11,4 +10,6 @@ From: Cornell Cookbook
 * 3/4 c chopped nuts
 
 Cream sugar and butter.  Add beaten eggs and mix well.  Sift in remaining dry ingredients then mix in vanilla and chopped nuts.  Cook at 180C for 15 minutes.
+
+Source: Cornell Cookbook
 

@@ -1,5 +1,4 @@
 # Peanut butter rice krispie treats
-From: Adapted from http://www.marthastewart.com/343255/no-bake-peanut-butter-rice-krispies-cook
 
 * 1/2 c water
 * 1 c sugar
@@ -9,4 +8,6 @@ From: Adapted from http://www.marthastewart.com/343255/no-bake-peanut-butter-ric
 * 6 c cereal
 
 Bring water and sugar to a boil. Mix in peanut butter and vanilla. Mix with cereal
+
+Source: Adapted from http://www.marthastewart.com/343255/no-bake-peanut-butter-rice-krispies-cook
 

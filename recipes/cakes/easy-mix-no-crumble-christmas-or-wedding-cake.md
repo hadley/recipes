@@ -1,5 +1,4 @@
 # Easy Mix, no crumble,  Christmas or Wedding Cake
-From: Jo from NHSC
 
 * 1 tin sweetened condensed milk
 * 1/4 lb butter
@@ -32,4 +31,6 @@ Bake in 9" square lined tin at 250 F (120ºC) for 4-5 hours.  Pour 2 tablespoons
 If made in a round 9" tin it will be a deeper cake and may take six or more hours to cook.
 
 If you wish to decorate the top with cherries and nuts, flour the bottom of each one before placing it to prevent it sinking out of sight during baking.
+
+Source: Jo from NHSC
 

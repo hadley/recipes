@@ -1,5 +1,4 @@
 # Meatballs
-From: Hadley Wickham
 
 * 500g mince
 * 1 egg
@@ -8,5 +7,7 @@ From: Hadley Wickham
 
 Mix well, make into meatballs and cook in frying pan.  Use with sweet and sour pork sauce or with a spaghetti sauce.  Serve with rice for the former and spaghetti with the latter.
 
-Comments: Excellent
+
+Comments: Excellent  
+Source: Hadley Wickham
 

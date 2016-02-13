@@ -1,5 +1,4 @@
 # Minestrone
-From: Jennifer Sleeman
 
 * 1 medium onion
 * 1 tablespoon olive oil
@@ -16,4 +15,6 @@ From: Jennifer Sleeman
 Chop onions and gently cook in oil.  When soft stir in flour and cook for a few minutes longer - do  not brown.  Stir in 200 mls water and cook until thickened.  
 
 Neatly dice all vegetables. Add all remaining ingredients except pasta.  Cook for about 10 minutes then add pasta.  Cook for a further 10 minutes.  Taste adn season.   Serve and enjoy.
+
+Source: Jennifer Sleeman
 

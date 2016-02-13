@@ -1,6 +1,4 @@
 # Date squares
-From: Rally cook book, page 68
-Time: 30 minutes
 
 * 4oz butter
 * 1 D golden syrup
@@ -13,5 +11,8 @@ Time: 30 minutes
 
 Melt butter and golden syrup.  Cool and add beaten egg.  Pour in the remaining ingredients and mix well.  Press into a Swiss roll tin and bake at 180C for 20-30 minutes.
 
-Comments: delicious
+Time: 30 minutes  
+
+Comments: delicious  
+Source: Rally cook book, page 68
 

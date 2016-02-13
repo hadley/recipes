@@ -1,6 +1,4 @@
 # Mincemeat Pinwheels
-From: Family Circle Bestever Christmas Book, page 48
-Time: 40 minutes
 
 * 90g butter
 * 1/2 c brown sugar
@@ -17,5 +15,8 @@ Roll out onto lightly floured surface to a rectangle 20 x 28 cm.  Spread evenly 
 
 Using a sharp knife cut log into 8 mm-thick rounds.  Place on prepared trays and bake for 10 minutes at 180C.
 
-Comments: An alternative to mince pies
+Time: 40 minutes  
+
+Comments: An alternative to mince pies  
+Source: Family Circle Bestever Christmas Book, page 48
 

@@ -1,5 +1,4 @@
 # Afghans
-From: Edmonds Cookbook, NZ.
 
 * 7oz (200g) butter
 * 3oz (75g) sugar
@@ -26,5 +25,7 @@ Melt butter and stir in cocoa & vanilla.  Add icing sugar and enough milk to mak
 
 When cookies are cold spread on top of each cookie generously and top with a walnut half.
 
-Comments: A delicious special treat.
+
+Comments: A delicious special treat.  
+Source: Edmonds Cookbook, NZ.
 

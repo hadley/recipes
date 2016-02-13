@@ -1,5 +1,4 @@
 # Hot cross buns
-From: Cornell Cookbook
 
 * 1 c milk
 * 1/2 c hot water
@@ -24,4 +23,6 @@ Cream butter and sugar, add egg, salt spices, cocoa and vanilla.
 Combine two mixtures and add mixed fruit.  Add warmed flour to make firm dough.  Knead cut into 20 pieces and leave to rise till doubled.
 
 Press down, form into buns and cook 225 C for 10-12 minutes.  Glaze with 2 T sugar mixed in heated 1.5 t water.
+
+Source: Cornell Cookbook
 

@@ -1,6 +1,4 @@
 # Lemon Ice Cream Pudding
-From: Rally cook book, page 88
-Time: 60 minutes
 
 * BASE
 * 75g butter, melted
@@ -19,6 +17,9 @@ Mix melted butter with crushed cornflakes and sugar, press all but 2 T into Swis
 FILLING
 Lightly whip cream.  Separate eggs.  Beat egg whites until foamy.  Gradually add sugar and beat until stiff.  Beat yolks until creamy. Fold yolks into whites, then carefully mix in remaining ingredients.  Pile on base and sprinkle with retained base mixture and freeze.  Serves 10.
 
+Time: 60 minutes  
+
 Comments: NB
-Be careful if you live in a place where people are advised to avoid eating raw eggs.
+Be careful if you live in a place where people are advised to avoid eating raw eggs.  
+Source: Rally cook book, page 88
 

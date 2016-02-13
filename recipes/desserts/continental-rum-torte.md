@@ -1,6 +1,4 @@
 # Continental Rum Torte
-From: Onslow College Cookbook, page 104
-Time: 30 minutes
 
 * CAKE:
 * 3 eggs, separated
@@ -22,4 +20,7 @@ Beat whites of eggs with salt till stiff, gradually add sugar.  Fold in yolks an
 Melt chopped chocolate with sugar and water.  Add yolks, stir over boiling water to cook yolks for a few minutes but do not over heat.  Beat whites until very stiff and dry, gradually pour in the chocolate mixture and fold in gently.  Place side of tin around cooled cake.  Break surface of cake with a fork in several places, almost through to the base.  Spoon chocolate mixture over cake 1 T at a time, letting it run into the spaces.  Chill thoroughly till set.
 
 Serve garnished with strawberries and cream.
+
+Time: 30 minutes  
+Source: Onslow College Cookbook, page 104
 

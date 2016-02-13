@@ -1,5 +1,4 @@
 # Russian Fudge
-From: Rally cook book, page 204
 
 * 1/2 cup milk
 * 3 cup sugar
@@ -18,5 +17,7 @@ Vanilla and nuts may be added if desired, prior to beating.
 
 Keep in an airtight container.
 
-Comments: Very similar to Mella's West Cork Fudge.
+
+Comments: Very similar to Mella's West Cork Fudge.  
+Source: Rally cook book, page 204
 

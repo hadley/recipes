@@ -1,5 +1,4 @@
 # Mango Cream
-From: Family Circle Bestever Christmas Book, page 12
 
 * 250g cream cheese
 * 1 T lemon juice
@@ -11,5 +10,7 @@ With electric beaters, beat cream cheese, lemon juice and sugar until smooth.  B
 
 Serve on pavlova or meringues.
 
-Comments: Delicious with pavlova or meringue
+
+Comments: Delicious with pavlova or meringue  
+Source: Family Circle Bestever Christmas Book, page 12
 

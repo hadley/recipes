@@ -1,5 +1,4 @@
 # Special chicken casserole
-From: Onslow College Cookbook, page 75
 
 * 1 chicken
 * 1 pkt mushroom soup
@@ -16,4 +15,6 @@ From: Onslow College Cookbook, page 75
 * paprika
 
 Boil chicken with onion and mixed herbs inside chicken.  Reserve stock. Take chicken off bones. In frypan lightly fry green peppers (chopped) and mushrooms.  Make up soup with 1 cup water.  Add to peppers and mushrooms.  Add flour to stock and blend in cream.  Add to frypan.  Add chopped ham and chicken pieces and sherry.  Put into casserole and heat in oven.  Sprinkle paprika over to serve.
+
+Source: Onslow College Cookbook, page 75
 

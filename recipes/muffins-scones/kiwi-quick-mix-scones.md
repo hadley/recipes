@@ -1,5 +1,4 @@
 # Kiwi Quick Mix Scones
-From: Rally Cook Book
 
 * 1 1/2 cups plain flour
 * 1/4 teaspoon salt
@@ -25,7 +24,9 @@ Pat out into a rectangle on a lightly floured counter and cut into shapes - 8-10
 
 Brush tops with milk and bake immediately in a hot oven for 10 minutes.
 
+
 Comments: Best eaten the day they are made.  Serve with butter.
 
-USA - if they don't rise as much as they should, try increasing baking powder quantity. 
+USA - if they don't rise as much as they should, try increasing baking powder quantity.   
+Source: Rally Cook Book
 

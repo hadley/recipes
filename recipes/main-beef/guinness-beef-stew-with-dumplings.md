@@ -31,5 +31,6 @@ Place dumplings in round shapes on top and bake a further 30 minutes at 180C.
 DUMPLINGS:
 Sift dry ingredients, work in butter.  Mix together egg and milk and add to mixture.  Add parsley.  
 
-Comments: Serves 8
+
+Comments: Serves 8  
 

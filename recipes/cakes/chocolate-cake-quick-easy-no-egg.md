@@ -1,6 +1,4 @@
 # Chocolate cake - quick & easy no egg
-From: Rally cook book, page 43
-Time: 40 minutes
 
 * 4oz butter
 * 1 c sugar
@@ -18,5 +16,8 @@ Melt butter, sugar, syrup and milk in a large pot.  Cool.  Add sifted dry ingred
 
 Ice with chooclate icing.
 
-Comments: excellent
+Time: 40 minutes  
+
+Comments: excellent  
+Source: Rally cook book, page 43
 

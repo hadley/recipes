@@ -1,6 +1,4 @@
 # Fruity sponge pudding
-From: NZ Microwave Cookbook, page 84
-Time: 50 minutes
 
 * FRUIT TOPPING
 * 1/2 c dried apricots
@@ -24,5 +22,8 @@ Time: 50 minutes
 
 3.  Stir brown sugar, cinnamon and 2 T butter into fruit mixture.  Spread sponge over the top.  Micro-cook, covered, medium-low power, 13-15 minutes.  Test for doneness with a skewer.  Stand covered, 5-10 minutes.  Turn out on to serving plate.
 
-Comments: Very good
+Time: 50 minutes  
+
+Comments: Very good  
+Source: NZ Microwave Cookbook, page 84
 

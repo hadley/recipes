@@ -1,5 +1,4 @@
 # Pie dough
-From: Well done cooking
 
 * 1 lb butter
 * 1 lb 5 oz pastry flour
@@ -11,4 +10,6 @@ From: Well done cooking
 Keep everything very cold.  In food processor, pulse flour, and, in pieces, butter. Mix all other ingredients and add gradually until mealy.
 
 Blind bake at 375 F for ~10 minutes.
+
+Source: Well done cooking
 

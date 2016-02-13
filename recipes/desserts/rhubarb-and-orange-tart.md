@@ -1,6 +1,4 @@
 # Rhubarb and Orange tart
-From: Rally cook book, page 183
-Time: 60 minutes
 
 * 8oz sweet pastry
 * 1 lb rhubarb
@@ -15,5 +13,8 @@ Line a pie dish with sweet pastry.
 
 Wash rhubarb and cut into 2 1/2 cm lengths.  Place on pastry.  Bring water, sugar, rind and juice to boil in a saucepan.  Place egg and flour in a bowl and pour the juice and water over, stirring to blend, return to heat and stir until thick.  Pour over rhubarb.  Cut strips of pastry to form a lattice on top.  Bake at 200C for 30 minutes.
 
-Comments: delicious
+Time: 60 minutes  
+
+Comments: delicious  
+Source: Rally cook book, page 183
 

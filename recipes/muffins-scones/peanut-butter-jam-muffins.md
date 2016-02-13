@@ -1,6 +1,4 @@
 # Peanut Butter & Jam Muffins
-From: MMM Muffins, page 51
-Time: 30 minutes
 
 * 1 T  melted margarine
 * 1/2 c peanut butter
@@ -18,5 +16,8 @@ Time: 30 minutes
 Lightly oil the muffin tin and preheat the oven to 200 C.  This recipe makes 12 muffins.
 Put the first five ingredients into a bowl and mix well, then add the flour and baking powder and blend until just mixed.  Put a large spoonful of the batter into each muffin tin, then drop a small spoonful of jam in the centre of each and cover with remaining batter.  Sprinkle with the topping mixture and bake for 10-15 minutes.
 
-Comments: Excellent
+Time: 30 minutes  
+
+Comments: Excellent  
+Source: MMM Muffins, page 51
 

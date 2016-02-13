@@ -1,5 +1,4 @@
 # Granola
-From: Notebook, page 14
 
 * 1/4 c oil
 * 1 T honey
@@ -14,4 +13,6 @@ From: Notebook, page 14
 Melt oil and honey.  Add in remaining ingredients and cool.
 
 Bake 15 mins 180 C.  Stir after 7 mins.  
+
+Source: Notebook, page 14
 

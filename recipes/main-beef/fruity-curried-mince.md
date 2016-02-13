@@ -1,6 +1,4 @@
 # Fruity curried mince
-From: NZ Microwave Cookbook, page 24
-Time: 48 minutes
 
 * 2 large onions
 * 2 t curry powder
@@ -25,4 +23,7 @@ Time: 48 minutes
 3.  Add flour, beef stock, crushed pineapple, lemon, salt, pepper, gravy browning, sultanas and brown sugar.  Mix well, breaking up mince.
 
 4.  Micro-cook, covered, high power, 10 minutes., stirring once during cooking.  Stand covered 5-10 minutes.  Serve hot on a bed of rice.
+
+Time: 48 minutes  
+Source: NZ Microwave Cookbook, page 24
 

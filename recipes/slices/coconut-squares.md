@@ -1,5 +1,4 @@
 # Coconut squares
-From: Onslow College Cookbook, page 138
 
 * 4oz butter
 * 1/2 c of sugar
@@ -23,5 +22,7 @@ Icing:
 
 Warm condensed milk and butter in a saucepan over low heat.  Blend in icing sugar, then coconut and lastly the cocoa.  Mix well and spread on cake while hot.  Cut into squares when it has cooled a little.
 
-Comments: VERY GOOD
+
+Comments: VERY GOOD  
+Source: Onslow College Cookbook, page 138
 

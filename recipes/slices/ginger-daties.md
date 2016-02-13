@@ -1,5 +1,4 @@
 # Ginger daties
-From: Cornell Cookbook
 
 * 8oz butter
 * 1 c sugar
@@ -18,7 +17,9 @@ Roll into balls, place on tray and flatten with a fork.
 
 Bake for 15 minutes at 325 F.
 
+
 Comments: This is a biscuit recipe, not a slice and is complete.  
 
-Admin. please move it to the correct section.
+Admin. please move it to the correct section.  
+Source: Cornell Cookbook
 

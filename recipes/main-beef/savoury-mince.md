@@ -1,6 +1,4 @@
 # Savoury mince
-From: NZ Microwave Cookbook, page 66
-Time: 37 minutes
 
 * 1 stick celery
 * 1 onion
@@ -23,4 +21,7 @@ Time: 37 minutes
 4.  Add soup powder, flour, water, Worcestershire and tomato sauces to mince.  Stir, breaking up mince.  Stir in peas.
 
 5.  Micro-cook, covered, high power, 12-14 minutes., breaking up mince once during cooking.
+
+Time: 37 minutes  
+Source: NZ Microwave Cookbook, page 66
 

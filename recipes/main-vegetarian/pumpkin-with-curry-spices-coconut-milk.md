@@ -13,3 +13,4 @@ Heat oil in heavy frying pan.  Add pumpkin and cook on high heat, turning freque
 
 Serves 4 as a curry with rice dish or 6 as a side dish.
 
+

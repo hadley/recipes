@@ -1,5 +1,4 @@
 # Quick Mix Apple cake or Muffins
-From: Cornell Cookbook
 
 * 2 cooking apples
 * 1 c sugar
@@ -20,4 +19,6 @@ Bake in round tin for 50-60 minutes at 180 C.
 Sprinkle with icing sugar when cold.
 
 Can be baked as 12 muffins too.
+
+Source: Cornell Cookbook
 

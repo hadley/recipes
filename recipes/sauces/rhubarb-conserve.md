@@ -1,5 +1,4 @@
 # Rhubarb Conserve
-From: A Holst's Cooking Class
 
 * 3 cups finely sliced rhubarb (red stems make the most attractive jam)
 * 1 tablespoon peeled root ginger
@@ -19,5 +18,7 @@ Check that conserve has reached setting point by placing about half a teaspoonfu
 
 Stir in nuts and bottle into sterilised jars and screw on sterilised lids. 
 
-Comments: A tasty alternative to marmalade.
+
+Comments: A tasty alternative to marmalade.  
+Source: A Holst's Cooking Class
 

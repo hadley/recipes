@@ -1,6 +1,4 @@
 # Fruit loaf
-From: Onslow College Cookbook, page 148
-Time: 60 minutes
 
 * 1/2 lb dates
 * 2 eggs
@@ -16,4 +14,7 @@ Time: 60 minutes
 Chop dates, add baking soda and pour boiling water over.  Leave to cool.  Cream and sugar, add eggs.  Sift flour and salt, add to mixture with sultanas and walnuts.  Lastly add chopped dates and liquid.  
 
 Half fill 2 tins.  Bake at 170C for 1 hour.
+
+Time: 60 minutes  
+Source: Onslow College Cookbook, page 148
 

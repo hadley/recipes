@@ -1,6 +1,4 @@
 # Pasta & Beef Savoury
-From: Kid's Cookbook, page 58
-Time: 60 minutes
 
 * 1 T oil
 * 1 onion, finely chopped
@@ -17,4 +15,7 @@ Time: 60 minutes
 Fry onion in hot oil.  Add mince and cook until well browned.  Add salt, pepper, canned tomatoes, puree, oregano, sugar and water.  Stir it all together until it starts to boil.  Turn heat to low and simmer for 40 minutes.
 
 Cook pasta. Put in a casserole dish and pour hot mince over.  Serve
+
+Time: 60 minutes  
+Source: Kid's Cookbook, page 58
 

@@ -1,6 +1,4 @@
 # Peach Muffins
-From: MMM Muffins, page 49
-Time: 20 minutes
 
 * 1 c peaches, skinned & chopped
 * 1/2 t cinnamon
@@ -15,4 +13,7 @@ Time: 20 minutes
 Lightly oil a muffin tin and preheat oven to 200C.  This recipe makes twelve muffins.
 
 Put the first seven ingredients into a bowl and mix well.  Add the remaining ingredients and blend until just mixed.  Two-thirds will the muffin tins and bake for 15-20 minutes.
+
+Time: 20 minutes  
+Source: MMM Muffins, page 49
 

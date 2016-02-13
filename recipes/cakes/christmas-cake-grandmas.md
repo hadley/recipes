@@ -1,6 +1,4 @@
 # Christmas cake, Grandma's
-From: Nancy Arlidge
-Time: 180 minutes
 
 * 3/4lb butter
 * 3/4lb sugar
@@ -20,4 +18,7 @@ Time: 180 minutes
 Cream the butter, essences, syrup and sugar, then add the beaten egg and milk. Mix in dry ingredients then fruit.
 
 Fill lined square tin.  Bake at 135 C for 3 hours.
+
+Time: 180 minutes  
+Source: Nancy Arlidge
 

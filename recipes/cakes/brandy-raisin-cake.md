@@ -1,5 +1,4 @@
 # Brandy raisin cake
-From: Cornell Cookbook
 
 * 1 1/2 c seeded raisins coarsely chopped
 * 1 c boiling water
@@ -23,4 +22,6 @@ In a small bowl combine half the seeded raisins with the boiling water and the b
 Bake in a moderate oven, for about 45 minutes at 180 C or until cooked when tested.
 
 While cake is still hot and remaining in the tin pierce the cake all over with a fine skewer.  Spoon the brandy syrup over the cake.
+
+Source: Cornell Cookbook
 

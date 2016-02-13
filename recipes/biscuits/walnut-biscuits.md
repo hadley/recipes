@@ -1,6 +1,4 @@
 # Walnut biscuits
-From: Rally cook book, page 21
-Time: 15 minutes
 
 * 4oz butter
 * 4oz brown sugar
@@ -12,5 +10,8 @@ Time: 15 minutes
 
 Melt butter, brown sugar and golden syrup, add vanilla and dry ingredients.  Add walnuts.  Roll into balls and flatten.  Bake at 180C for 10-15 minutes.
 
-Comments: very good
+Time: 15 minutes  
+
+Comments: very good  
+Source: Rally cook book, page 21
 

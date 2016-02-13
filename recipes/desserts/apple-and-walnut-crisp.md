@@ -1,6 +1,4 @@
 # Apple and walnut crisp
-From: NZ Microwave Cookbook, page 83
-Time: 32 minutes
 
 * 1 t cinnamon
 * 1 1/2 c wholemeal flour
@@ -25,5 +23,8 @@ Time: 32 minutes
 
 4.  Micro-cook, uncovered, medium power, 8-11 minutes. or until top is fairly dry.  (25 minutes. at 180C).
 
-Comments: Excellent
+Time: 32 minutes  
+
+Comments: Excellent  
+Source: NZ Microwave Cookbook, page 83
 

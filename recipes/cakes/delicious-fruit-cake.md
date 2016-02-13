@@ -1,6 +1,4 @@
 # Delicious Fruit Cake
-From: Onslow College Cookbook, page 133
-Time: 120 minutes
 
 * 1 lb mixed fruit 
 * 12 oz sugar
@@ -16,4 +14,7 @@ Time: 120 minutes
 Boil fruit covered with water for 5 minutes.  Strain and while hot cut up butter and add to fruit.  Add essences, sugar and salt.  Beat eggs and stir in.  Add sifted flour with baking powder and place in a paper-lined 10 inch square cake tin. 
 
 Bake in a moderate oven for 1 1/2 -2 hours.
+
+Time: 120 minutes  
+Source: Onslow College Cookbook, page 133
 
