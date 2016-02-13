@@ -1,0 +1,99 @@
+/* Layout ------------------------------------------------------------------- */
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+}
+
+  main {
+    flex: 1;
+    margin: 1em;
+    width: 100%;
+  }
+  
+  nav {
+  	background-color: #C8D8C8;
+  	width: 30%;
+  	min-width: 15em;
+  	padding: 1em;
+  	margin: 1em;
+  }
+
+footer {
+  width: 100%;
+  background: #fff url("/orchid.gif") no-repeat bottom right fixed;
+}
+
+footer p {
+  margin: 1em;
+}
+
+
+@media (min-width: 600px) {
+  body {
+    min-height: 100vh;
+  }
+  .body {
+    flex-direction: row;
+    width: 75%;
+  }
+  main {
+    max-width: 40em;
+  }
+  nav {
+    width: 25%;
+    order: -1
+  }
+}
+
+
+/* Typography --------------------------------------------------------------- */
+
+body, p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size:   13px;
+  line-height: 1.4;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 2em;
+  color: #7C1B51; 
+  margin-bottom: 0.5em; 
+  font-weight: normal; 
+  font-family: Georgia, serif;
+}
+
+h2 {
+  font-size: 1em;
+  margin-top: 1em;
+}
+
+a {color: #111;}
+a:visited {color: #666;}
+nav a:hover {background-color: #889887}
+
+nav ul {
+  list-style: none; 
+  margin: 0; 
+  padding-left: 0;
+}
+nav ul li {
+  margin-left: 0; 
+  margin-bottom: 0.25em; 
+  font-size: 1em; 
+}
+
+li.current a {background-color: #404D43; }
+li.current a:link, li.current a:visited {color: #fff}
+
+a:link {color: #3C0F1E}

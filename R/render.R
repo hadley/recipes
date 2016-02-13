@@ -4,10 +4,10 @@
 write_site <- function(path = "www") {
   mkdir(path)
 
-  write_index(path)
   copy_static("orchid.gif", path)
-  copy_static("scaffold.css", path)
-
+  copy_static("recipes.css", path)
+  write_index(path)
+  
   recipes <- load_recipes()
   
   categories$category_id %>% walk(write_category, recipes, path = path)
