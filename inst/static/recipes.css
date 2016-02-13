@@ -22,11 +22,12 @@ body {
   }
   
   nav {
+    font-size: 90%;
     display: flex;
     flex-direction: row;
     margin: 1em;
   }
-  
+
   nav .nav {
     flex: 1;
     background-color: #C8D8C8;
@@ -70,7 +71,7 @@ footer p {
 
 /* Typography --------------------------------------------------------------- */
 
-body, p, ol, ul, td {
+body {
   font-family: verdana, arial, helvetica, sans-serif;
   font-size:   13px;
   line-height: 1.4;
@@ -78,7 +79,7 @@ body, p, ol, ul, td {
 
 h1, main .nav h2 {
   margin-top: 0;
-  font-size: 2em;
+  font-size: 200%;
   color: #7C1B51; 
   margin-bottom: 0.5em; 
   font-weight: normal; 
@@ -86,7 +87,8 @@ h1, main .nav h2 {
 }
 
 h2 {
-  font-size: 1em;
+  font-size: 100%;
+  color: #333;
   margin-top: 0;
 }
 
@@ -102,7 +104,6 @@ nav a:hover {background-color: #889887}
 .nav ul li {
   margin-left: 0; 
   margin-bottom: 0.25em; 
-  font-size: 1em; 
 }
 
 li.current a {background-color: #404D43; }
