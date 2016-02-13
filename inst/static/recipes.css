@@ -42,7 +42,7 @@ footer p {
 }
 
 
-@media (min-device-width: 600px) {
+@media (min-width: 600px) {
   body {
     min-height: 100vh;
   }
