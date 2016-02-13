@@ -61,6 +61,7 @@ footer p {
   }
   nav .nav {
     margin: 0.5em 0;
+    flex: none;
   }
 }
 
