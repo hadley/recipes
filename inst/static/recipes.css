@@ -22,7 +22,6 @@ body {
   }
   
   nav {
-    font-size: 90%;
     display: flex;
     flex-direction: row;
     margin: 1em;
@@ -73,8 +72,11 @@ footer p {
 
 body {
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size:   13px;
   line-height: 1.4;
+}
+
+nav { 
+  font-size: 80%;
 }
 
 h1, main .nav h2 {
@@ -96,14 +98,21 @@ a {color: #111;}
 a:visited {color: #666;}
 nav a:hover {background-color: #889887}
 
+ul, ol {
+  list-style: outside;
+  margin-left: 0.5em;
+  padding-left: 1.5em
+}
+
+ol li, ul li {
+  margin-bottom: 0.25em; 
+  margin-left: 0;
+}
+
 .nav ul {
   list-style: none; 
   margin: 0; 
   padding-left: 0;
-}
-.nav ul li {
-  margin-left: 0; 
-  margin-bottom: 0.25em; 
 }
 
 li.current a {background-color: #404D43; }
