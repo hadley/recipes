@@ -10,7 +10,7 @@ script:
 deploy:
   skip_cleanup: true
   
-  local-dir: www
+  local_dir: www
   provider: s3
   access_key_id: AKIAJ4FYQ65OBV3JYJRA
   bucket: recipes.wickham.nz
