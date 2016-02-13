@@ -5,6 +5,7 @@ body {
   flex-direction: column;
   align-items: center;
   margin: 0;
+  background: #fff url("/orchid.gif") no-repeat bottom right;
 }
 
 .body {
@@ -34,7 +35,6 @@ body {
 
 footer {
   width: 100%;
-  background: #fff url("/orchid.gif") no-repeat bottom right fixed;
 }
 
 footer p {
