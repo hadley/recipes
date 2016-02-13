@@ -77,24 +77,28 @@ bullets <- function(href, text, current = "") {
 
 category_nav <- function(cat_id = NULL) {
   paste0(
-    "<h2 class='first'>Categories</h2>\n\n",
+    "<div class='nav'>\n",
+    "<h2>Categories</h2>\n\n",
     bullets(
       paste0("/", categories$path, "/index.html"), 
       categories$category, 
       find_category(cat_id)$path
-    )
+    ),
+    "</div>"
   )
 }
 
 recipes_nav <- function(cat_id, recipes, current = "") {
   recipes <- dplyr::filter(recipes, category_id == cat_id)
   paste0(
-    "<h2 class='first'>Recipes</h2>\n\n",
+    "<div class='nav'>\n",
+    "<h2>Recipes</h2>\n\n",
     bullets(
       paste0("/", recipes$dest), 
       recipes$name, 
       paste0("/", current)
-    )
+    ),
+    "</div>"
   )
 }
 

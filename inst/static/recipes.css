@@ -17,15 +17,18 @@ body {
   main {
     flex: 1;
     margin: 1em;
-    width: 100%;
   }
   
   nav {
-  	background-color: #C8D8C8;
   	width: 30%;
   	min-width: 15em;
-  	padding: 1em;
   	margin: 1em;
+  }
+  
+  nav .nav {
+    background-color: #C8D8C8;
+    padding: 1em;
+    margin-bottom: 1em;
   }
 
 footer {
@@ -64,7 +67,7 @@ body, p, ol, ul, td {
   line-height: 1.4;
 }
 
-h1 {
+h1, main .nav h2 {
   margin-top: 0;
   font-size: 2em;
   color: #7C1B51; 
@@ -75,19 +78,19 @@ h1 {
 
 h2 {
   font-size: 1em;
-  margin-top: 1em;
+  margin-top: 0;
 }
 
 a {color: #111;}
 a:visited {color: #666;}
 nav a:hover {background-color: #889887}
 
-nav ul {
+.nav ul {
   list-style: none; 
   margin: 0; 
   padding-left: 0;
 }
-nav ul li {
+.nav ul li {
   margin-left: 0; 
   margin-bottom: 0.25em; 
   font-size: 1em; 
