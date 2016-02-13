@@ -1,6 +1,3 @@
-#' @importFrom magrittr %>%
-NULL
-
 save_recipe <- function(recipe) {
   recipe <- lapply(recipe, trim)
   

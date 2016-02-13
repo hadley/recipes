@@ -1,6 +1,7 @@
 #' Create the complete site.
 #' 
 #' @export
+#' @import purrr
 write_site <- function(path = "www") {
   mkdir(path)
 
@@ -123,7 +124,7 @@ render_template <- function(name, data = list()) {
   path <- system.file("templates", name, package = "recipes", mustWork = TRUE)
   template <- readLines(path)
   
-  whisker.render(template, data)
+  whisker::whisker.render(template, data)
 }
 
 copy_static <- function(src, dest) {

@@ -7,18 +7,17 @@ Authors@R: c(
     person("Charlotte", "Wickham", role = "cph"),
     person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre", "cph"))
   )
-Depends:
-    whisker,
-    rmarkdown,
-    htmltools,
-    rmarkdown,
-    purrr
 Imports:
     magrittr,
     stringr,
     readr,
     dplyr,
-    tidyr
+    tidyr,
+    whisker,
+    rmarkdown,
+    htmltools,
+    rmarkdown,
+    purrr
 License: Creative Commons Attribution 4.0 International
 LazyData: true
 RoxygenNote: 5.0.1
