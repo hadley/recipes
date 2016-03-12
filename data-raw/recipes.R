@@ -3,7 +3,7 @@ library(readr)
 library(tidyr)
 library(stringr)
 
-# scp had.co.nz://home/hadley/public/recipes.had.co.nz/db/recipes.sqlite3 .
+# scp 50.57.167.97://home/hadley/public/recipes.had.co.nz/db/recipes.sqlite3 .
 recipes <- src_sqlite("data-raw/recipes.sqlite3") %>% 
   tbl("recipes") %>% 
   collect()
@@ -31,7 +31,7 @@ recipes <- recipes %>%
 paths <- file.path("recipes", categories$path)
 lapply(paths, dir.create, recursive = TRUE, showWarnings = FALSE)
 for (i in seq_len(nrow(recipes))) {
-  recipes::save_recipe(recipes[i, ])  
+  recipes:::save_recipe(recipes[i, ])  
 }
 
 devtools::use_data(categories, overwrite = TRUE, internal = TRUE)
