@@ -10,15 +10,6 @@ recipes <- src_sqlite("data-raw/recipes.sqlite3") %>%
 
 categories <- read_csv("data-raw/categories.csv")
 
-slug <- function(x) {
-  x %>%
-    tolower() %>%
-    str_replace_all("'", "") %>% 
-    str_replace_all("[^a-z0-9]+", "-") %>% 
-    str_replace_all("-+", "-") %>% 
-    str_replace_all("^-|-$", "")
-}
-
 recipes <- recipes %>% 
   replace_na(list(category_id = 12)) %>%
   left_join(categories, by = "category_id") %>% 

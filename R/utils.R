@@ -16,3 +16,12 @@ md_to_html <- function(input) {
 mkdir <- function(x, recursive = FALSE) {
   walk(x, dir.create, showWarnings = FALSE, recursive = recursive)
 }
+
+slug <- function(x) {
+  x %>%
+    tolower() %>%
+    stringr::str_replace_all("'", "") %>% 
+    stringr::str_replace_all("[^a-z0-9]+", "-") %>% 
+    stringr::str_replace_all("-+", "-") %>% 
+    stringr::str_replace_all("^-|-$", "")
+}
