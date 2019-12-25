@@ -18,5 +18,5 @@ before_cache:
 
 deploy:
   provider: script
-  script: netlify deploy --prod --dir _book
+  script: netlify deploy --prod --dir www
   skip_cleanup: true
