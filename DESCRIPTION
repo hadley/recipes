@@ -5,19 +5,21 @@ Authors@R: c(
     person("Alison", "Wickham", role = "cph"),
     person("Brian", "Wickham", role = "cph"),
     person("Charlotte", "Wickham", role = "cph"),
-    person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre", "cph"))
+    person("Hadley", "Wickham", , "h.wickham@gmail.com", role = c("aut", "cre", "cph"))
   )
-Imports:
-    magrittr,
-    stringr,
-    readr,
-    dplyr,
-    tidyr,
-    whisker,
-    rmarkdown,
-    htmltools,
-    rmarkdown,
-    purrr
 License: Creative Commons Attribution 4.0 International
+Imports:
+    dplyr,
+    htmltools,
+    magrittr,
+    purrr,
+    readr,
+    rmarkdown,
+    rmarkdown,
+    stringr,
+    tibble,
+    tidyr,
+    whisker
+Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
